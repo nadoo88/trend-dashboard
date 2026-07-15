@@ -7,6 +7,12 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
 
 jobs:
   update:
@@ -28,3 +34,30 @@ jobs:
           git add data.json
           git commit -m "data: daily update $(TZ=Asia/Seoul date +%F)" || echo "변경 없음"
           git push
+
+  deploy:
+    needs: update
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: 최신 데이터 반영
+        run: git pull
+
+      - name: Pages 활성화 및 설정
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: 사이트 배포
+        id: deployment
+        uses: actions/deploy-pages@v4
