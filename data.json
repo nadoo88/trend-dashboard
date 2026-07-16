@@ -1,16 +1,16 @@
 {
- "updatedAtKST": "2026-07-15 23:08",
+ "updatedAtKST": "2026-07-16 09:04",
  "trends": [
-  "배용준",
-  "법원",
-  "ppi 발표",
-  "zimbabwe vs bangladesh",
-  "어쌔신 크리드",
-  "ppi",
-  "하비에르 아기레",
-  "al",
-  "아버지",
-  "유시민"
+  "투자",
+  "비혼모",
+  "제헌절",
+  "gpt-5.6",
+  "장한별",
+  "cxmt",
+  "자운대",
+  "sk하이닉스",
+  "인천일보",
+  "택배기사"
  ],
  "news": [],
  "hot": [
@@ -44,6 +44,18 @@
     "threads"
    ],
    "tag": "밈",
+   "t": "오정세 '니가 좋아' 해외로…넷플릭스, 영화 '와일드 씽' 공개 확정",
+   "q": "니가 좋아",
+   "heat": "네이트 · 07/15 15:17",
+   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xZm9DYjhCUXhxcUFmWmNnOGpBNVVRaXF5Q2M0OC1Zd0kxRVl4RGVxR2NlOUpvZTA4ckdVT3B2Z3JiSGNJa1pNQ05kSGE4dkZnTGZZ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
    "t": "거제 야호·홍명보·젠슨 황... 의정부고 앨범은 올해도 '밈모음 zip'",
    "q": "밈모음 zip",
    "heat": "한국일보 · 07/13 15:00",
@@ -68,10 +80,10 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "할리우드는 ‘AI 배우’와 전쟁 중… 일본 성우들은 ‘AI 목소리’로 맞불",
-   "q": "AI 배우",
-   "heat": "국민일보 · 07/15 15:48",
-   "article": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5ckVicGRMSnQwRUVadmtxMTRFd0ZmeXFEWXF2dE5KSEQyRXRBeDBRZng3eFU5YkhGcTlxb1Z3Z3Q4Vm1LZTAta0FoQVdwUGtZQ21pVE9sNno5ZTZ5VXZvS3d0Q0ZCblJlLVNfZNIBbEFVX3lxTFB5ckVicGRMSnQwRUVadmtxMTRFd0ZmeXFEWXF2dE5KSEQyRXRBeDBRZng3eFU5YkhGcTlxb1Z3Z3Q4Vm1LZTAta0FoQVdwUGtZQ21pVE9sNno5ZTZ5VXZvS3d0Q0ZCblJlLVNfZA?oc=5",
+   "t": "AI 시퀀스 들어간 ‘김부장’… AI 배우만 나오는 영화에 반발도",
+   "q": "김부장",
+   "heat": "국민일보 · 07/16 01:04",
+   "article": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBINVNNbXhXS3FqTVNvNUJvMWFLd0o4TjczVE9kNVMyTTVET0szM0ZUR2lfX2dOR3lOMmFjeWR1aGNLaHVXMkNFdHdQOUVmSlBhZ0JSVGFwWDNNc3IwTnFKQzBqd2RNNzZ1S1pZbNIBbEFVX3lxTFBINVNNbXhXS3FqTVNvNUJvMWFLd0o4TjczVE9kNVMyTTVET0szM0ZUR2lfX2dOR3lOMmFjeWR1aGNLaHVXMkNFdHdQOUVmSlBhZ0JSVGFwWDNNc3IwTnFKQzBqd2RNNzZ1S1pZbA?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -120,18 +132,6 @@
    "q": "AI 마케팅 자동화",
    "heat": "AI경기방송 · 07/15 12:30",
    "article": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1iRkVaXzdOV0lrWF9KcDNxSXdoMHBpcWltSjB6RWw3ekJETjNsek11M0dvbVdWVlZhN19aZHEteDZ6VDhpQ0RpRVQtSmxldkpycEE?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "KT 소상공인 전용 앱 ‘사장이지’, 사장님들 위한 신규 콘텐츠 ‘매장운세’ 출시",
-   "q": "사장이지",
-   "heat": "dhns.co.kr · 07/15 11:07",
-   "article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55WVZabzA4bktSN1h4WkxWWS1wX2VhYU5kZWJCWEMzaVVyWXJNSGxRQ1dMdkdTTUdPRzVqQjVXUmhHU01SbHIyQzZ5T0FpcThUaS1qbk02VnhwQ0RMLVVscjNtb0VoNHc?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
