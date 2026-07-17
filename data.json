@@ -1,19 +1,60 @@
 {
- "updatedAtKST": "2026-07-17 09:04",
+ "updatedAtKST": "2026-07-18 08:57",
  "trends": [
-  "드라마",
-  "유보영",
-  "곽튜브",
-  "nba",
-  "최원준",
-  "거제대교",
-  "스토킹",
-  "에이치엘비",
-  "mls",
-  "비트코인"
+  "주차",
+  "김부장",
+  "축제",
+  "수사",
+  "수성구",
+  "전시 작전통제권",
+  "경기도교육감",
+  "2026",
+  "weather",
+  "tsla"
  ],
- "news": [],
+ "news": [
+  {
+   "title": "K팝 히트 운명, ‘15초’가 가른다",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCNHVsZnhnaUstNFVXeEs0OFBzYmJmWDRrLVU0b2gwQWNoY2x3T1Etd3Q4R05aMUN4MFAxaXNmejJPNmFjWTlXWkZvbDRQbnVmbnptdGZKODJiWHE5XzFGWVRsVXlxS2N4c0YzRnlRTldETFhDalHSAWZBVV95cUxPY3MyVW9feVAwOFMxUXZ3OUE2ZjJCUUVhMnNuTXhQcElYQWR2bmw4dXlXZWRMWDdza00tbzA3MWlWQUdPMFVKVGxVcm1RMG9TX2VhbWUwUmg0ZnNPQ24tczJqZnlTbkE?oc=5"
+  }
+ ],
  "hot": [
+  {
+   "plats": [
+    "tiktok",
+    "x"
+   ],
+   "tag": "K-POP",
+   "t": "온앤오프, 재능기부 콘서트→기부 챌린지까지 '선한 영향력'",
+   "q": "선한 영향력",
+   "heat": "네이트 · 07/17 13:51",
+   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03ZFN0d3FCS0lqbmt0UENrdnEzZ21vLTFjbHlhdUJpUmJST1lwVDRQWGRJZXRzcFA3WkpjQnNrR2tYTDBFT2V6NjAtWktLeUxpYWx3?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "시청률 폭발 SBS 드라마 ‘김부장’, 과감한 AI 도입도 화제… 한국 드라마 최초 3분 시퀀스 풀 AI 제작 사례",
+   "q": "김부장",
+   "heat": "국민기자뉴스 · 07/17 14:03",
+   "article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEQXYzc1NfVnQ0Q1dqZHFuZUxNX1ZvWlZsUUlWTWk1MnQ1WXZqNkJXS1VlZ2xVT0xNaFV0aU9yRzQ4OUdlSUw2dTdrVUJ1ckdySnpMVjY3ejJwa1NKUkdfWlYteVdaczDSAWdBVV95cUxQREF2M3NTX1Z0NENXamRxbmVMTV9Wb1pWbFFJVk1pNTJ0NVl2ajZCV0tVZWdsVU9MTWhVdGlPckc0ODlHZUlMNnU3a1VCdXJHckp6TFY2N3oycGtTSlJHX1pWLXlXWnMw?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "챌린지",
+   "t": "K팝 히트 운명, ‘15초’가 가른다",
+   "q": "15초",
+   "heat": "동아일보 · 07/18 01:40",
+   "article": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9jczJVb195UDA4UzFRdnc5QTZmMkJRRWEyc25NeFBwSVhBZHZubDh1eVdlZExYN3NrTS1vMDcxaVZBR08wVUpUbFVybVEwb1NfZWFtZTBSaDRmc09Dbi1zMmpmeVNuQdIBZkFVX3lxTE9jczJVb195UDA4UzFRdnc5QTZmMkJRRWEyc25NeFBwSVhBZHZubDh1eVdlZExYN3NrTS1vMDcxaVZBR08wVUpUbFVybVEwb1NfZWFtZTBSaDRmc09Dbi1zMmpmeVNuQQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
   {
    "plats": [
     "x",
@@ -24,6 +65,18 @@
    "q": "가려라, 더 유명해질 테니까! 월드컵에서",
    "heat": "오픈애즈 · 07/16 16:00",
    "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE03T2h4dEY3ck8xWmRPQ2Fza1Q0UHlQOTU4c09LLWxjb0EwQjVCNUNEWUhUd0FUWGVTbElKUmlPLVpvYk5CR2FxbmlKcVZZWGhJUlNVak9zVzVBc1o2UGE3WVhqR3B5ZjZZYlJVZ2FB?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "“싸워” 홍명보·“거제 야호” 리센느…의정부고 졸업사진, 올해도 터졌다",
+   "q": "싸워",
+   "heat": "MSN · 07/17 11:38",
+   "article": "https://news.google.com/rss/articles/CBMivgNBVV95cUxNTWVVQ1JfT0haS3huWmRhODNlQ1VwR05IcDdCVm9IMjVKRmpCOHhpZnhrU25IMEFQMEV4azIzM1EwaXMxMTd1WXVZV0cxWnBxUm9vMS0tSkZZMWZ6VXJTdXF2ZmpCTFd5V0NiZm1pUWpkUDBVQ000YjRsMk11Z2lrblRMQU9WeWpmWjdTRDZMLUwwRFFHNmUxbXF1OFVTakFneVdfbEdScFo0UFlDc0NvNk9DaWRaX0M4VzJYa2d1U3Uxb1lCZW4zTnBTVUxDcDJ0dGYzYmdGZnA3ZjBmbkZ0ZXVaVnVLaDBmSGtPT19UdkNuVk5oVTlKOWJMUE9IaS1TZHJDaXhOU054cVdtWDlKQkpfR05Ec0Q3cTk1cmppSFRNakxFUlJuNEVDSVRLVkJaR3pZem90a2tiZzJjc09mNEVzQlRxR29OLXRfVDRndUxCNWppdkljRnctSDNFU3ZxUVAxT3pTWjk3ZnJidEgzTFU2SExLM3JyakgtUzBPUTVWc3lkZ0hfeVJITWNObjZEVlptMXh0SjNKS184dzdLclNKWW0zR251WXh1SkdhOTBSQ1pqemRJTS1fSUl1UQ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -64,18 +117,6 @@
   },
   {
    "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "공공기관 마케팅 트렌드2026 상반기 밈 SNS 활용 사례",
-   "q": "공공기관 마케팅 트렌드2026 상반기 밈",
-   "heat": "아이보스 · 07/14 16:57",
-   "article": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00Mi04ejF6SEI5UkR1VkxxMy1WUURYT3lJd2puX3VEc0dlYWg2VHFuU0VhWmtaVkgycDlDc3dhWmxUdHBEWkpLd0JXY29FVnM?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
     "tiktok",
     "reels"
    ],
@@ -92,46 +133,10 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "한세MK, AI가 브랜드를 운영한다…全브랜드 AI 활용 체계 구축",
-   "q": "한세MK, AI가 브랜드를 운영한다 全브랜드",
-   "heat": "한국섬유신문 · 07/16 15:49",
-   "article": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4dnpIdmFKeWVxUG1Wd09pMmJRZUhmYkZyRVZCMmM4R1VtSnVTSndkMTlKQlo5M1RDZGVtbDIyNTg0QWRyV28xVFhRbTNPcnBpcUNtUW9MUXozbE5vemVSdC0xcTNIRDlC?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "오정세 '니가 좋아' 해외로…넷플릭스, 영화 '와일드 씽' 공개 확정",
-   "q": "니가 좋아",
-   "heat": "네이트 · 07/15 15:17",
-   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xZm9DYjhCUXhxcUFmWmNnOGpBNVVRaXF5Q2M0OC1Zd0kxRVl4RGVxR2NlOUpvZTA4ckdVT3B2Z3JiSGNJa1pNQ05kSGE4dkZnTGZZ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "숏폼",
-   "t": "네이버쿠팡 트래픽 써도 순위 안 오르는 이유 이것 모르면 돈만 버립니다",
-   "q": "네이버쿠팡 트래픽 써도 순위 안",
-   "heat": "아이보스 · 07/16 13:45",
-   "article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMbi1fTjFlU2h4NEprVDNHMGZPR2gxMzdaR1JRUjdVSGlqQkhZWHV4RUVPRm9iSXkwbDlhVFdmYU9fazBWWHdoVzA4Q3RYSmhU?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "'유튜브·인스타·틱톡까지' KBO, WSC Sports와 AI 콘텐츠 강화…팬 서비스 업그레이드",
-   "q": "유튜브·인스타·틱톡까지",
-   "heat": "osen.co.kr · 07/16 10:43",
-   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1aVmJHeXRRNWd2UzUzS3RqUHNnMVF4SGVULWh3TmdxRE1Kd0Z2V0M4M1k1SDh2R3RoUzVEeGdUTHJoNmNMNUFhTHNfOUlqUnRjbm1r?oc=5",
+   "t": "“챗GPT 반값에 쓰세요” KT콘텐츠페이, AI·일상 구독서비스 프로모션",
+   "q": "챗GPT 반값에 쓰세요",
+   "heat": "catchnews.kr · 07/17 09:10",
+   "article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YcGk4c09DUEVWb1gyeFB4aDFyUldwcHlmTl9obUloOWdhWWRZU1Y2YjZrbnREVHFHRTh2dS1DVm9UNEk3bmJyVEM5Z29jZGhjaXpZS3FjQS1KQWV5S1BCeEN4ci1oR24wUWdB0gFvQVVfeXFMUG85MllmZmVHMkJQUmV0Zm9wUEFlaFQzMDJfekhIWDBrRWtUcVltVDVaN081SXY5QzB4YTdXaGRtOE9uOFltNVktYlo4dmlTSUtteDJTT2E5OHNUZ0tTeE1McUc2UlVvbVVfRU4xMXJZ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
