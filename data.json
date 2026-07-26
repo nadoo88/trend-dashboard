@@ -1,19 +1,31 @@
 {
- "updatedAtKST": "2026-07-25 09:10",
+ "updatedAtKST": "2026-07-26 09:06",
  "trends": [
-  "뉴발란스",
-  "우스만 뎀벨레",
-  "매경economy",
-  "축구 감독",
-  "한고은",
-  "인천광역시",
-  "погода",
-  "파리 생제르맹 fc",
-  "학교 급식",
-  "엄지원"
+  "김선태",
+  "오윤아",
+  "액션",
+  "미래에셋",
+  "서현숙",
+  "카리나",
+  "hd현대중공업",
+  "운세",
+  "liverpool vs sunderland",
+  "차두리"
  ],
  "news": [],
  "hot": [
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "[핌 포커스] '북부대공상' 열풍…숏폼 타고 번지는 새로운 이미지 트렌드",
+   "q": "북부대공상",
+   "heat": "네이트 · 07/26 06:53",
+   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82SWZ3ZjhnVFFlQ0J6M1pDWU56WFhHRU5vcklVenFOblhPZlY5NTlPbmtlWl9yQk9xSGw3dGRPem9ncEh1SFZKRWxfZ0hkSkxPNmk4?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
   {
    "plats": [
     "x",
@@ -32,10 +44,10 @@
     "threads"
    ],
    "tag": "밈",
-   "t": "\"갤럭시 안 쓰면 배드\"...'남부대공' 밈 댄스 춘 노태문 사장 '깜짝 박자감'",
+   "t": "\"갤럭시 안 쓰면 배드\"…'남부대공' 밈 댄스 춘 노태문 사장 '깜짝 박자감'",
    "q": "갤럭시 안 쓰면 배드",
-   "heat": "파이낸셜뉴스 · 07/24 10:41",
-   "article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XYjI2dmE4UmlOeXJwRUwtdUlfRGdQaXBFdW55ZnZjdDlPcjB4d0JTYy0wRmVTeGEyMzNjOUVFUGpNbGhEQlhtbFp4YWhRTURzTDcyZWkxaHJIUQ?oc=5",
+   "heat": "네이트 · 07/24 10:41",
+   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sMWhfMlIyc21NdVdRRkRSNEgzYU1OMXM4RFpreUNoMDZnc2ZTbnpoUHhiLVFEcWVGbnRKbnpSMGZHeTdVMGVHZ0U5aVBxN0d5TFRv?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -112,26 +124,14 @@
   },
   {
    "plats": [
-    "tiktok",
+    "x",
     "reels"
    ],
-   "tag": "챌린지",
-   "t": "[셀럽에디션] 실수가 아니었어? ‘코 때리고 춤추는’ 반전 챌린지",
-   "q": "코 때리고 춤추는",
-   "heat": "르데스크 · 07/22 13:28",
-   "article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzaFRMYU51aUFUU3RzVXhFTzRjWkxfaVNNQkZWc1d4Vlh0VXZXUTY5dmZ4azF6bmJkaTE0WkRrMnBVazdUaEZLUkZuUHdlRjdEQks0Qkl3?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "x"
-   ],
-   "tag": "K-POP",
-   "t": "가수 박진영, 23일 새 싱글 '' 발매…서머송으로 컴백",
-   "q": "가수 박진영, 23일 새 싱글",
-   "heat": "네이트 · 07/23 15:08",
-   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IYi0yZzRYZXpLckVkS0VnTjVpand2eFNSU2ZWRlZyUC1ULUxZSmZqMWY1N19JRUd4TzJwV2wtVnNib1Y5cGZzbDVISUp2ZDdCYkY3b1E4QmpQQ29VZFF4Tw?oc=5",
+   "tag": "AI",
+   "t": "\"경남 콘텐츠 산업 판 키운다\" 박완수 지사 첫 승부수",
+   "q": "경남 콘텐츠 산업 판 키운다",
+   "heat": "한스경제 · 07/25 14:52",
+   "article": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BRU1DRVI3REFqb1VWYkhUeDh6MVRNVENjLTNEMTFQbDlIdWcxbEVXVkJCMko4dXZFRldyY1JuSEdndUl6WHRBblFyUTlvc3N6b0pjbmxwY1RudHNDWm1mOU1aOVpzZ2ZSTERWOQ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
