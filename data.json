@@ -1,16 +1,16 @@
 {
- "updatedAtKST": "2026-07-27 09:07",
+ "updatedAtKST": "2026-07-28 09:07",
  "trends": [
-  "키움증권",
-  "휴가",
-  "댐",
-  "옥택연",
-  "결혼식",
-  "이정효",
-  "관광객",
-  "퇴장",
-  "가덕도신공항",
-  "녹색경제신문"
+  "레알 마드리드 cf",
+  "서울특별시",
+  "임우일",
+  "아스널 fc",
+  "열린음악회",
+  "pltr",
+  "양도소득세",
+  "워싱턴 내셔널스",
+  "의과대학",
+  "한국지엠"
  ],
  "news": [],
  "hot": [
@@ -24,6 +24,18 @@
    "q": "V stepped into the crowd",
    "heat": "starnewskorea.com · 07/27 07:01",
    "article": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LN1BiMkhiZGxaLTBScmtfQnVpS1JYcTBMcHlNT1RucmhsRzVScnZRbTdjNVFubmtzajFjSkx3MjNJZkdSQXFyRW03NGMtSjNHY2N4eDhFbUxpZ1EyczMtS2lNNzd0TDFmaHVDX3EzREFEMDg?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "사람 같은 AI 기상캐스터 화제…노출 의상도 '시끌'[1일IT템]",
+   "q": "시끌",
+   "heat": "파이낸셜뉴스 · 07/28 06:00",
+   "article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MY0szQkhmYi1CcnlGZzdoZ0ZrQnN2UXYzaHV4YVlLYXFnVlBCZDhCbjdCSFBsTFdTbk5ycXRPMm5TanF0TW56bXdpaElrRzQwSGU0dWRMTWI2QQ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -44,82 +56,10 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "키키, 8월 10일 컴백 신보 '와이키키' 티징 콘텐츠 화제",
-   "q": "와이키키",
-   "heat": "네이트 · 07/25 11:36",
-   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UektzNXFtbTJtQ0lXbHd5a1M0cjZadFVaZjgwRGR4WTl5b2tQSnNtN1RjQUg0ZTZVYmUzanpNWnpVajBQYktsN2NMWGdwNER1Ql8w?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "리센느, 지상파 음악방송 첫 1위",
-   "q": "리센느, 지상파 음악방송 첫 1위",
-   "heat": "대구신문 · 07/26 21:14",
-   "article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uVWZGU0ZEV3RsSmVOa1FjMXJaNDhyNTZwd2xxVEE3ZS1jUGtWekRuVnhjYnFFM3MwbXRyZDhLUXhpNERhR3ZuYlZTSS1OMVJpdnMxVzh2REpIRHU0eEptendMdlpWX3JfVGhz?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "‘중소의 기적’ 리센느, 지상파 음악방송 첫 1위…“초심 잃지 않겠다”",
-   "q": "중소의 기적",
-   "heat": "헤럴드경제 · 07/26 11:29",
-   "article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA5bV95VHVuM3lEMUpRaUlsVTB0NmVFbWZTMUFCSlM2WTZWc2cwcW5yMDNrVEZaM2w3cDE3bHRLY1NBT3NmLVhDZUttSmlaaE9LZkxXN3h3?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "‘거제 야호’ ‘얼마나 좋아’…대박은 ‘밈’을 타고 온다 [스페셜 리포트]",
-   "q": "거제 야호",
-   "heat": "매일경제 · 07/24 11:15",
-   "article": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14QXQ0TWZZYlBwV2xIU3dVUXFpYjJLVVdUTDZRMTNkNTc3cFNDVjhqUmJXM1RUeTYwY1Q5TEcwUDdIYWNvLUE5SDd4VXBFZllpa3h0Ug?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "[가요소식] 리센느, 지상파 음악방송 첫 1위…\"초심 잃지 않겠다\"",
-   "q": "초심 잃지 않겠다",
-   "heat": "네이트 · 07/26 11:07",
-   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11aHZtRGVBTldmUnNFb3FoWURqOEFyWDJJandtdG93Y1ZxSVdXSU5lbkJPQzlMdTV6NWo3b2FDcjlGam56ZkhZQ2RYZDZMcllnSENXa21iUWNSc0FfMi1VOA?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "\"갤럭시 안 쓰면 배드\"...'남부대공' 밈 댄스 춘 노태문 사장 '깜짝 박자감'",
-   "q": "갤럭시 안 쓰면 배드",
-   "heat": "v.daum.net · 07/24 10:42",
-   "article": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5BZVh3Yld0WUxyelNkX3VNc3BPWHlvZ3NXeS12SEdISVBEOVVSQnZ6ZG5YbG83ZFVsZkc0N1pfamNacklCYXc?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "숏폼",
-   "t": "쿠팡 리뷰작업, 실제 소비자는 이런 부분부터 봅니다",
-   "q": "쿠팡 리뷰작업, 실제 소비자는 이런",
-   "heat": "아이보스 · 07/26 13:02",
-   "article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5TV2RISk4tWFUtekhwSk9PbXp0akhsUTFodU5zRmYwanJRUnNiUC01THBGM1dvOHBLNzhvOFAyV0NiQmY2NkpyZmY5TTBVbHVy?oc=5",
+   "t": "“저런 옷입고 방송?” 화제의 기상캐스터 누구",
+   "q": "저런 옷입고 방송?",
+   "heat": "문화일보 · 07/27 20:04",
+   "article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE84YWlPTUNMeDNPVzRnZXV0dzNldTI1RkN4b3JPQlp0cUw0SlI0ZjU1T0lRdnY5YzQyQjEyRnZqeEhna0M4M1dtZk84WHZGLVoy?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -128,10 +68,70 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "\"이게 맞아요?\"…女 기상캐스터 등장에 시끌시끌한 이유 [유지희의 ITMI]",
-   "q": "이게 맞아요?",
-   "heat": "한국경제 · 07/26 13:00",
-   "article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9va1ZSakRQNlgtalQwNElHT0hIN0FEejNpRTJ0ck81eThvLTg4cWNtWGlYaWRfdWZSaHlHcE5lcmNhN3I3SWxNTE5NRS10V1prUENybkQzZzRGUQ?oc=5",
+   "t": "“예쁜 여자가 딱 붙는 옷 입고…” 화제의 ‘이 기상캐스터’ 대체 누구 [이슈픽]",
+   "q": "예쁜 여자가 딱 붙는 옷 입고…",
+   "heat": "twig24.com · 07/27 15:52",
+   "article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9UbDNzT2VaYU9UdXFkcWgzOGxIamNGVVdhMmF3eVgwRzczSm1hcklKV0VsVVo2S1BIYzZTT1Q1WnVoNm9SY0Z2Q0ExeHUyU1drbDBTQzRaSVZfTXFtS1pXNlN1aWxLcnhGbjRF?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "화제의 女기상캐스터, 정체는…\"실제보다 저렴 vs AI 대체 현실\" 갑론을박",
+   "q": "실제보다 저렴 vs AI 대체 현실",
+   "heat": "이코노미스트 · 07/27 12:09",
+   "article": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9LR0xQSldBNnExMkV6eFhKMTV1eVRXZVFmQmFNTjYzaWp5Y3FTVkJYVkRDVENLUGdWTGZuYVJSWlpEYmtzWkFqVTNhSXFHN2tDai04N094VEQzSjdXbTNrR3hB?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "판타지오, 제작 드라마 '김부장' 시청률·화제성 동반 흥행 …제작 강화",
+   "q": "김부장",
+   "heat": "머니투데이 · 07/27 09:07",
+   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TbTJpTWZURGxONkk3N3ozSm13SGJfNV9ocFNWZGMxYU9mOVk1TGl6YzRWTl9LUTYycFdqWUsyajJGQ09QRHB5TlJWai16LUVjb2lRc0NNWWNMekVMdWd6T3laOFFLbXNpT1U4NnJn0gFuQVVfeXFMT1NtMmlNZlREbE42STc3ejNKbXdIYl81X2hwU1ZkYzFhT2Y5WTVMaXpjNFZOX0tRNjJwV2pZSzJqMkZDT1BEcHlOUlZqLXotRWNvaVFzQ01ZY0x6RUx1Z3pPeVo4UUttc2lPVTg2cmc?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "챌린지",
+   "t": "[셀럽에디션] 시험지부터 영수증까지…숏폼 점령한 ‘모의고사 여왕’",
+   "q": "모의고사 여왕",
+   "heat": "르데스크 · 07/27 15:50",
+   "article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5INGRTMFRBSmo0LVBobkMyajVhQVJSWnRjZmdvaGQxT3l6aVktMWxWX0ZqSW9kUl8ydzNpMDMzcXdIODg3WkpSLVhSVzJLXzAteDBGWGl3?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "챌린지",
+   "t": "[N포커스] '하청 기지' 딜레마 넘은 K팝…아시아 문화 융합의 '지휘자'로 선다",
+   "q": "하청 기지",
+   "heat": "뉴스컬처 · 07/27 11:36",
+   "article": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fRW45eXlFamoxZGQxcmlNVDZEV01oTlp4MjBDbllnUjNqaHRQbTI3ajJoNER0MGx1VEZVd21mX2huSk8tQ2dXSGRlX3d3MnlyUG1nQ1hVMHpKQXpQTVZVd2NDMnRzdw?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "인스타 누적 조회 4000회…코스맥스, 소셜아이어워드 2년 연속 수상",
+   "q": "인스타 누적 조회 4000회 코스맥스,",
+   "heat": "어패럴뉴스 · 07/27 10:56",
+   "article": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zMy13Wkw0c3lOdXcwZXNaMWZRYWZYV09kU2xXb19NcFVZRUxfcHFKMVdIQW4tbUZYYUZmd01KTUdaTUZHcDBQRXVyZFdRa2RWYVlEU0FoT00xNm1LN29jbEViR1VJNy1Kc3dmT3hpc1pyV0I4Nkpr?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
