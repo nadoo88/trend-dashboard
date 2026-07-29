@@ -1,19 +1,36 @@
 {
- "updatedAtKST": "2026-07-28 09:07",
+ "updatedAtKST": "2026-07-29 09:03",
  "trends": [
-  "레알 마드리드 cf",
-  "서울특별시",
-  "임우일",
-  "아스널 fc",
-  "열린음악회",
-  "pltr",
-  "양도소득세",
-  "워싱턴 내셔널스",
-  "의과대학",
-  "한국지엠"
+  "강서구",
+  "코너 맥그리거",
+  "중국 축구 국가대표팀",
+  "사업",
+  "종합부동산세",
+  "배종옥",
+  "msft",
+  "오마이뉴스",
+  "노동자",
+  "환율"
  ],
- "news": [],
+ "news": [
+  {
+   "title": "숏폼 시대에 거리로 나선 K-pop… 게릴라 스트리트 퍼포먼스가 컴백 공식을 바꾼다",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mQ2NxSmtPak1mbnlsU05IUE9hN0tVYXhlN1NuVF8tdHBXeXZSYnBXS1FGamQxdUZCa2w3eHhzV291UWFpdmowNF9PcWNkRm1xcHpzVmlhYzBBd3hlbUtDcWhxRUtOanEyREZJVHZnd1I?oc=5"
+  }
+ ],
  "hot": [
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "실제 방송인 줄…SNS 화제된 기상캐스터, 알고 보니 AI였다",
+   "q": "실제 방송인 줄 SNS 화제된",
+   "heat": "세계일보 · 07/28 16:19",
+   "article": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNSnZreTYtMVM3dVBkWXBMVnl4TEJUMW1hZmlwYUVlcjE4V2p4anVkQk1vT3J4UGUtcjNfZU1rTi1tb3dnemZIN1pPeTZ1MVBMVFZPVzNCei1nOS0xZlJqcEZ5amRmX1phSk000gFUQVVfeXFMUDd1TS1SZm5ublBVeGJGd1hobm4zeS1kS1NxWTZLWFMtNHZIcXBaeG92VjExaEVNN2Z3VEpZc25BQnFqRmVPMGpNZnplalBHaU1mTmMw?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
   {
    "plats": [
     "x",
@@ -34,8 +51,8 @@
    "tag": "AI",
    "t": "사람 같은 AI 기상캐스터 화제…노출 의상도 '시끌'[1일IT템]",
    "q": "시끌",
-   "heat": "파이낸셜뉴스 · 07/28 06:00",
-   "article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MY0szQkhmYi1CcnlGZzdoZ0ZrQnN2UXYzaHV4YVlLYXFnVlBCZDhCbjdCSFBsTFdTbk5ycXRPMm5TanF0TW56bXdpaElrRzQwSGU0dWRMTWI2QQ?oc=5",
+   "heat": "v.daum.net · 07/28 06:58",
+   "article": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9weFI1UG5OUWZmcmZfQXJCcDlaUFBVVVlTbHUzMmlKajllZWVjMHQ5Z0V4akpFSFU2T1pvQzhqVmZjNm52SEE?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -77,6 +94,18 @@
   {
    "plats": [
     "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "\"변기 뚜껑 배경화면 탐나네\"…'갤Z폴드8' 2030 관심 폭발",
+   "q": "변기 뚜껑 배경화면 탐나네",
+   "heat": "한국경제 · 07/28 15:38",
+   "article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5qNFhkRHIzdlFtU0hTUjIxMmhNM0tRcXI0Y1p6WE9EUHpQS1RzclB1SVBzS0JqNm1UYW94cFZST0FIc05ROXk3ZlNYRDVybk53a1hINFkzUG5FQQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
     "reels"
    ],
    "tag": "AI",
@@ -101,37 +130,13 @@
   {
    "plats": [
     "tiktok",
-    "reels"
+    "x"
    ],
-   "tag": "챌린지",
-   "t": "[셀럽에디션] 시험지부터 영수증까지…숏폼 점령한 ‘모의고사 여왕’",
-   "q": "모의고사 여왕",
-   "heat": "르데스크 · 07/27 15:50",
-   "article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5INGRTMFRBSmo0LVBobkMyajVhQVJSWnRjZmdvaGQxT3l6aVktMWxWX0ZqSW9kUl8ydzNpMDMzcXdIODg3WkpSLVhSVzJLXzAteDBGWGl3?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "챌린지",
-   "t": "[N포커스] '하청 기지' 딜레마 넘은 K팝…아시아 문화 융합의 '지휘자'로 선다",
-   "q": "하청 기지",
-   "heat": "뉴스컬처 · 07/27 11:36",
-   "article": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fRW45eXlFamoxZGQxcmlNVDZEV01oTlp4MjBDbllnUjNqaHRQbTI3ajJoNER0MGx1VEZVd21mX2huSk8tQ2dXSGRlX3d3MnlyUG1nQ1hVMHpKQXpQTVZVd2NDMnRzdw?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "인스타 누적 조회 4000회…코스맥스, 소셜아이어워드 2년 연속 수상",
-   "q": "인스타 누적 조회 4000회 코스맥스,",
-   "heat": "어패럴뉴스 · 07/27 10:56",
-   "article": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1zMy13Wkw0c3lOdXcwZXNaMWZRYWZYV09kU2xXb19NcFVZRUxfcHFKMVdIQW4tbUZYYUZmd01KTUdaTUZHcDBQRXVyZFdRa2RWYVlEU0FoT00xNm1LN29jbEViR1VJNy1Kc3dmT3hpc1pyV0I4Nkpr?oc=5",
+   "tag": "K-POP",
+   "t": "'컴백' 엔하이픈, 브라질리언 펑크 도전…다듀 개코 참여(공식)",
+   "q": "컴백",
+   "heat": "네이트 · 07/27 10:34",
+   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wa2xCX25xYXVOd29aT1ppX2Z2ZFB5bk9xQXZzUTZfQkxqZG1rSEFxNjI3Q21GMl9USENwMGtCdkFkRmVoQ0U4QmFJS080bFo5WW11bmladFpvM0ZXc0FfSQ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
