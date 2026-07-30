@@ -1,24 +1,31 @@
 {
- "updatedAtKST": "2026-07-29 09:03",
+ "updatedAtKST": "2026-07-30 09:04",
  "trends": [
-  "강서구",
-  "코너 맥그리거",
-  "중국 축구 국가대표팀",
-  "사업",
-  "종합부동산세",
-  "배종옥",
-  "msft",
-  "오마이뉴스",
-  "노동자",
-  "환율"
+  "liverpool vs wrexham",
+  "이정후",
+  "속초시",
+  "경기도교육감",
+  "군인",
+  "이청아",
+  "aapl",
+  "이윤진",
+  "장민호",
+  "서울양양고속도로"
  ],
- "news": [
-  {
-   "title": "숏폼 시대에 거리로 나선 K-pop… 게릴라 스트리트 퍼포먼스가 컴백 공식을 바꾼다",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1mQ2NxSmtPak1mbnlsU05IUE9hN0tVYXhlN1NuVF8tdHBXeXZSYnBXS1FGamQxdUZCa2w3eHhzV291UWFpdmowNF9PcWNkRm1xcHpzVmlhYzBBd3hlbUtDcWhxRUtOanEyREZJVHZnd1I?oc=5"
-  }
- ],
+ "news": [],
  "hot": [
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "정국 샤라웃에 밈·패러디·AI 콘텐츠 봇물…'호프' 입소문의 힘, 이제부터",
+   "q": "호프",
+   "heat": "news.sbs.co.kr · 07/29 10:07",
+   "article": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBlZ1VwVUFkVW9xZ1ZGTTNaSWFwQWtjYnlDYXpJOU0xMHZGTnM5MS1JbGFweU9yMElIZnJCTlZzVVN3Q2l3dEYybjBnSnF5eU5tX204NkJEMVZhaXJtS3RCWXVzLVBmQQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
   {
    "plats": [
     "x",
@@ -34,37 +41,13 @@
   {
    "plats": [
     "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "방탄소년단 뷔 밈 'V stepped into the crowd' 글로벌 SNS 열풍",
-   "q": "V stepped into the crowd",
-   "heat": "starnewskorea.com · 07/27 07:01",
-   "article": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5LN1BiMkhiZGxaLTBScmtfQnVpS1JYcTBMcHlNT1RucmhsRzVScnZRbTdjNVFubmtzajFjSkx3MjNJZkdSQXFyRW03NGMtSjNHY2N4eDhFbUxpZ1EyczMtS2lNNzd0TDFmaHVDX3EzREFEMDg?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
     "reels"
    ],
    "tag": "AI",
    "t": "사람 같은 AI 기상캐스터 화제…노출 의상도 '시끌'[1일IT템]",
    "q": "시끌",
-   "heat": "v.daum.net · 07/28 06:58",
-   "article": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9weFI1UG5OUWZmcmZfQXJCcDlaUFBVVVlTbHUzMmlKajllZWVjMHQ5Z0V4akpFSFU2T1pvQzhqVmZjNm52SEE?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "역주행 '러브 어택' 인기가요 1위…'리센느' 리더 원이 눈물",
-   "q": "러브 어택",
-   "heat": "네이트 · 07/26 20:27",
-   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjVnlhdWF1OUJDYXllTU4xVUxkQW5Iazgyd1hxSmNoQWtCM0tqRk9jQVpCU1ZlaFpNY1NYRW9KTmhXendzUXZuRzZsRnRRb2FQQUNZ?oc=5",
+   "heat": "파이낸셜뉴스 · 07/28 06:00",
+   "article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MY0szQkhmYi1CcnlGZzdoZ0ZrQnN2UXYzaHV4YVlLYXFnVlBCZDhCbjdCSFBsTFdTbk5ycXRPMm5TanF0TW56bXdpaElrRzQwSGU0dWRMTWI2QQ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -117,18 +100,6 @@
   },
   {
    "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "판타지오, 제작 드라마 '김부장' 시청률·화제성 동반 흥행 …제작 강화",
-   "q": "김부장",
-   "heat": "머니투데이 · 07/27 09:07",
-   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9TbTJpTWZURGxONkk3N3ozSm13SGJfNV9ocFNWZGMxYU9mOVk1TGl6YzRWTl9LUTYycFdqWUsyajJGQ09QRHB5TlJWai16LUVjb2lRc0NNWWNMekVMdWd6T3laOFFLbXNpT1U4NnJn0gFuQVVfeXFMT1NtMmlNZlREbE42STc3ejNKbXdIYl81X2hwU1ZkYzFhT2Y5WTVMaXpjNFZOX0tRNjJwV2pZSzJqMkZDT1BEcHlOUlZqLXotRWNvaVFzQ01ZY0x6RUx1Z3pPeVo4UUttc2lPVTg2cmc?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
     "tiktok",
     "x"
    ],
@@ -137,6 +108,30 @@
    "q": "컴백",
    "heat": "네이트 · 07/27 10:34",
    "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wa2xCX25xYXVOd29aT1ppX2Z2ZFB5bk9xQXZzUTZfQkxqZG1rSEFxNjI3Q21GMl9USENwMGtCdkFkRmVoQ0U4QmFJS080bFo5WW11bmladFpvM0ZXc0FfSQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "[Newsletter] 2026년 상반기 콘텐츠를 읽는 키워드 #기술 #경험 #성장 #사이다",
+   "q": "Newsletter 2026년 상반기 콘텐츠를 읽는",
+   "heat": "cjenm.com · 07/28 19:49",
+   "article": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOekcyM2JoY0lJRGJ4VmlNRlRiT1IwYXZPRjM2UGktUFlZS0YxNDVqS3JUc1MzRjQ0NzZUZ3V4NUU2dFR3bE50NDR6SHNFNUtnV19rdDl1RHhUOVJYcm9semRQLWEwaEJYNVZQSjVBTzdfYk53REE3Mmp3UHI4SElBU2tKTGZ4LUF2Skd2ZFZwQjVzNjNkU2tLcjVEY054eG1rcmpLenNKZkVRakNtUzFRRFJ6Wm5WbDh2M3ZlMEF2QnZpaGxwOE1qZmViOWF1T0xJeXB5bVcyQmY1SFFQSm5wekRoclMwMUNTNkxtSlRHWm5xS29CV3FRMUR0RnJlOUdlWFFQcWJlVU94eTVTQmdNOWNJQl9BMHdPSURDT3NhcDJaeE5EZUlLYWxlNzJkUkVYUWphTHhpcEJ0cWV3RC1JV2pRUUd2VUNsOFEwRGF0bFBrV0Job0p1QkpxeDZJbmwzQTB1RUpBRVNEMk11?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "숏폼",
+   "t": "\"롱폼 먼저, 숏폼은 잘라서\"…유튜브로 140억 매출 올린 남자의 공식 [더인플루언서]",
+   "q": "롱폼 먼저, 숏폼은 잘라서",
+   "heat": "네이트 · 07/28 17:49",
+   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1GUU1UR3V0TnpKVEE5eWtBTEpwNXFtMVdMS01ubmYxMjdIWnp0YTQ4QS1zLUFvakhUamFORXoyaTBCYXNhUWF1SFpRR2FOVVByOWp3?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
