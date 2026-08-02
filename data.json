@@ -1,16 +1,16 @@
 {
- "updatedAtKST": "2026-08-01 09:06",
+ "updatedAtKST": "2026-08-02 09:03",
  "trends": [
-  "안재형",
-  "박미선",
-  "기후동행카드",
-  "임신",
-  "싸이",
-  "넬리 코다",
-  "복권",
-  "윤혜진",
-  "휴머노이드 로봇",
-  "대구 도시철도 1호선"
+  "화이트캡스 대 엘에이 fc",
+  "월드컵",
+  "박서진",
+  "살림하는 남자들",
+  "삼성전자",
+  "김희철",
+  "햄버거",
+  "송혜교",
+  "김요한",
+  "로스앤젤레스 fc"
  ],
  "news": [],
  "hot": [
@@ -36,6 +36,18 @@
    "q": "스파이더맨 챌린지",
    "heat": "르데스크 · 07/30 14:19",
    "article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zc0twTnA1SDNWLUFRVTM2Uk12dTdSZ2E2NWdHYU9RZWxHZ29vMDNZbExQVU5TeDVwX04yWFJ5MWQ1MXFNdGYza2JPU3FXN09iVkF4bGh3?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "[공식] 정일우, 새 출발 소식 알렸다…지드래곤·송강호·태민과 한 식구 \"경쟁력 있는 IP\"",
+   "q": "경쟁력 있는 IP",
+   "heat": "텐아시아 · 08/02 06:29",
+   "article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BWkFZMVJScjZsbU9OVms3eTNmUm81VkxYMmZ0SlpZYnlNVDJkQUd3djk0VWM4S3NEUlQ1d0ZOM01FOEtGYVl2Umk4YUl4WWRSLURFOFVqdWFsZHc?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -82,8 +94,8 @@
    "tag": "AI",
    "t": "유튜브에 화제의 인물을 데려온다는 것",
    "q": "유튜브에 화제의 인물을 데려온다는 것",
-   "heat": "openads.co.kr · 07/30 11:25",
-   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QeldIYmNDY3NERTNwSUFEMnA4WFZyRl9QUEJzT1dyUEtXeHc3VS11RGlHQ1A5YjI3TXVIeEM2R3I4WXJKZ0loRWx5RVJKUFJHZ2tBbVBvMUxocTFmeHJtU1VENHRhb25hd3NkNUZ3?oc=5",
+   "heat": "오픈애즈 · 07/30 11:25",
+   "article": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VSFZ4WE8zZTFhZUN4cGViMXpGb1dRY2pLYXE4ZHRBR056RGVJWVhIWEtqZE5DS015dnE2bVB6dmcxTC1GbGlBRGNOc0p3RGh6ZUdmNkxLeklaRkZwa1BtM19mcXVsemh4?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -104,10 +116,10 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "\"우리 아이가 동화 주인공\"…LGU+, 고객 사연으로 AI 동화 제작",
-   "q": "우리 아이가 동화 주인공",
-   "heat": "네이트 · 07/31 10:45",
-   "article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1hM1pPWlBuTGxfT1VkaTZmQUVRcDRCRWZPWmFtbWFCNnFyZkN4SzNKOV95MFJrb3FaT1E0MGtNWG5jbUlDTm5qOGxaZTZhcDNmbXVJNmk5WWJWVkFkcy0waHo4ZnAzYjI5WDdNQ29sNmp5TWcyMWJ5cw?oc=5",
+   "t": "'윤가놈 합방' 꽁주 인스타 실물 몸매 및 프로필 눈길..핑맨 연애 콘텐츠 관심까지 (라이키, 디시, 남친)",
+   "q": "윤가놈 합방",
+   "heat": "artivenews.co.kr · 07/31 16:46",
+   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iTlNGZl9fbHcxQ2dwcjVNdHA1NDF2UmwzV0s2Mjk5Ty15Q3ExUmdjUlBUV0RKUVpxakVtbUdkVy1CQ3hvbGk3allyVkJxOWlqekkxcUVjNlMzSnRCMzVsSVlQNXZEdmdNNGhHdUx3?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -116,22 +128,10 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "정국 샤라웃에 밈·패러디·AI 콘텐츠 봇물…'호프' 입소문의 힘, 이제부터",
-   "q": "호프",
-   "heat": "네이트 · 07/29 10:06",
-   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tak01ZUdVQTFGWnRDWkt6c1NCZl9VZ3c1WElLNHJ5bGtHQlN3RjF0bWdpRlB1OTZURmVvQlhEUjlvOWM3LXpGZzZzam50UE5Pb0RZ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "공개 3일 만에 2위…'동궁' 성공 진짜 비결은",
-   "q": "동궁",
-   "heat": "한국경제 · 07/31 08:06",
-   "article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yQW5Mc0hsNWwybFBucmU4emI0UUtiTDVjUlRJYkZIeHFGUFlRaE9QTFJ2d1pnakg1ZDBwUjJoRHlHMm9NVm1nZWZNRHlIN0xxNHFKMHk2aF9CQQ?oc=5",
+   "t": "스텔라 블레이드 새 주인공 이비가 부릅니다, 'Wanna be in LOVE' 뮤비 공개",
+   "q": "Wanna be in LOVE",
+   "heat": "인벤 · 07/31 13:13",
+   "article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OY3UyQWRUSWlTVTZzZUNJZDBGTXZnTGw2T0pYVEZmVEdsY3kxM2U4R0ZfZFJxR0FSWkNKczBZblZmY294UUxYYnNhaXUwUk96Qmpwa0VITjEwaTR3S0E?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
