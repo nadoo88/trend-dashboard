@@ -1,19 +1,43 @@
 {
- "updatedAtKST": "2026-08-02 09:03",
+ "updatedAtKST": "2026-08-03 09:04",
  "trends": [
-  "화이트캡스 대 엘에이 fc",
-  "월드컵",
-  "박서진",
-  "살림하는 남자들",
-  "삼성전자",
-  "김희철",
-  "햄버거",
-  "송혜교",
-  "김요한",
-  "로스앤젤레스 fc"
+  "여자 야구",
+  "pltr",
+  "안타",
+  "신천지예수교 증거장막성전",
+  "진기주",
+  "시바이누코인",
+  "미켈 아르테타",
+  "당구",
+  "사학연금",
+  "모로코"
  ],
  "news": [],
  "hot": [
+  {
+   "plats": [
+    "tiktok",
+    "x"
+   ],
+   "tag": "K-POP",
+   "t": "DAY6 영케이, 정규 2집 ‘YOUNGEST’ 컴백…음방·예능·챌린지 다잡은 ‘육각형 아티스트’",
+   "q": "YOUNGEST",
+   "heat": "티브이데일리 · 08/02 10:47",
+   "article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qaFZjVDFJNmZYaU5HTTlDS184ZFd4QnplRUliM0M1NnczY1B0LTBnNU5QNDM5YjJVc0VPc3Y0aTBXWS1fZ3JRYmlMWlVnekVTRl9uRnczaHVLaHAtRjE2NE9mc2k2ZV9wdUZz?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "“사람에겐 ‘일찍 자라’, AI에겐 ‘드라마 몰아보기’”…AI 스크래핑 막는 '안티 AI 폰트' 화제",
+   "q": "사람에겐 ‘일찍 자라",
+   "heat": "AI포스트 · 08/02 15:40",
+   "article": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmWDNXODgwNVlZZXBNdWZhRUZXYXRlU3p6XzFpbmN1LWF5VFlqc1llcWJ6QkY5dWpPMzNQRXJtUV9mRzhFT3RNRzVLd2tCck1SNktSbDhYS2owS09yRS1KTzJJRFAyRDYyTGxNaXRvbF9OZ9IBckFVX3lxTFBmWDNXODgwNVlZZXBNdWZhRUZXYXRlU3p6XzFpbmN1LWF5VFlqc1llcWJ6QkY5dWpPMzNQRXJtUV9mRzhFT3RNRzVLd2tCck1SNktSbDhYS2owS09yRS1KTzJJRFAyRDYyTGxNaXRvbF9OZw?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
   {
    "plats": [
     "x",
@@ -32,10 +56,58 @@
     "reels"
    ],
    "tag": "챌린지",
-   "t": "[셀럽에디션] 한쪽 발로 벽에 착…승부욕 자극한 ‘스파이더맨 챌린지’",
-   "q": "스파이더맨 챌린지",
-   "heat": "르데스크 · 07/30 14:19",
-   "article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zc0twTnA1SDNWLUFRVTM2Uk12dTdSZ2E2NWdHYU9RZWxHZ29vMDNZbExQVU5TeDVwX04yWFJ5MWQ1MXFNdGYza2JPU3FXN09iVkF4bGh3?oc=5",
+   "t": "\"내향인 호소 그만해라\" 정준원 '놀뭐' 태도 논란 '갑론을박' [Oh!쎈 이슈]",
+   "q": "내향인 호소 그만해라",
+   "heat": "미주중앙일보 · 08/02 11:37",
+   "article": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12Y0FaeUVjVXRsaHlaSjM1cm8wY0lod1UyRTBrSWVRZFpTRWw4T0ZSSEh5TWlQbWRrV2lleHNqVzQ0VXhTcFJpZ0dwbzNhcS12amxWTmVwRlFUS3NHdGJiZldn?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "숏폼",
+   "t": "콘텐츠 대세 '숏폼' 배우자…아동청소년·소상공인까지 확산",
+   "q": "숏폼",
+   "heat": "더팩트 · 08/03 00:00",
+   "article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MVTVLMWhLMURNNnlzSWlIc0pCSTNXV1liZEc2QjdvdnRBZ3Z1WEd1MjNlM0VxZ1ZvN1puczBxNzM1TWR5VDZMdm5hMjZQYzZt0gFQQVVfeXFMTkxVNUsxaEsxRE02eXNJaUhzSkJJM1dXWWJkRzZCN292dEFndnVYR3UyM2UzRXFnVm83Wm5zMHE3MzVNZHlUNkx2bmEyNlBjNm0?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "숏폼",
+   "t": "쿠팡가구매 아무데나 맡기면 안되는 이유",
+   "q": "쿠팡가구매 아무데나 맡기면 안되는 이유",
+   "heat": "아이보스 · 08/02 12:01",
+   "article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XZ0VsdHliMzY2dG9VNnN6ODhUR0NZdXlFeFFSckhJb2tmZHNXTVRhOEt0M09Uc2RySWN1WUN3ZmxBT2lCUUhIV0ZUb0hNbmRr?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "숏폼",
+   "t": "쿠팡 리뷰체험단, 왜 어떤 상품은 순위가 오르고 어떤 곳은 반영조차 안될까?",
+   "q": "쿠팡 리뷰체험단, 왜 어떤 상품은",
+   "heat": "아이보스 · 08/02 11:15",
+   "article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzcXg4V1VHUmx1LTBGa3JWWDUtUUQtRWVmMUVfSTZnLWtEbDdXSHR0OEgtbUtBMVB3UnYxM1NkUTY2ZmlSaHl5Qk9FZ3hUSnpl?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "숏폼",
+   "t": "쿠팡가구매 , 단순 주문수보다 중요한게 있습니다",
+   "q": "쿠팡가구매 , 단순 주문수보다 중요한게",
+   "heat": "아이보스 · 08/02 11:01",
+   "article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxOUZoeU0tNEF2cnEtd0hKNzNua1ExS05EWGM1emM4WUtiQ1hUbWJSTWYySzFjbjZwWkFZeDByX1FTNW1yUjJGdjgwZEZRRDVs?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -60,78 +132,6 @@
    "q": "잘생김의 대명사",
    "heat": "톱스타뉴스 · 08/01 04:34",
    "article": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zUGRwY2wyNDU0cjNvYy0yRzR5OW9YZ3dHdmJlWHAyN0tNcUo0QWhReFJPeVhsSjJhaU9xNjBtRTZGc0ZVNVVmSlpYMUw4cnp1dllUNEpSQVB4TDVWSjdoZ2dJQ2dqZmtDc1lTMEtRblJWUQ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "챌린지",
-   "t": "이찬원, 소속사 이적 후 첫 프로필 촬영…비하인드 공개",
-   "q": "이찬원, 소속사 이적 후 첫",
-   "heat": "enter.etoday.co.kr · 08/01 01:50",
-   "article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxVGZnbHlOQ1J2bGROc0VjVjdvX05ncnJZZlV2YzJENHNiNXRCUEo5S1FnUVQxVExSYUxHRlFfR3ZpMWM3N2RhYVoxZEZmVmpFSmVKMGZ3?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "[지역 화제]전남광주시, ‘AI 디지털마케팅‘ 활용 수출기업 해외판로 확대",
-   "q": "지역 화제 전남광주시, ‘AI 디지털마케팅‘",
-   "heat": "thepowernews.co.kr · 07/30 13:53",
-   "article": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fcW1JdjktNDZ3YVpaM0c0UlZ2VGFmUW8waTZOYWt1OWhxMHQtQS03WjgwRlpqMVBwQlNKNWtXNGQyTHZscUJyelRFa2NnZ3lhLVNxNXlvSEZMWUViZkhweDAtOWFfQ0pZU292c1ZLdDB4STVvaFpzVFl1SWlBUQ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "유튜브에 화제의 인물을 데려온다는 것",
-   "q": "유튜브에 화제의 인물을 데려온다는 것",
-   "heat": "오픈애즈 · 07/30 11:25",
-   "article": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5VSFZ4WE8zZTFhZUN4cGViMXpGb1dRY2pLYXE4ZHRBR056RGVJWVhIWEtqZE5DS015dnE2bVB6dmcxTC1GbGlBRGNOc0p3RGh6ZUdmNkxLeklaRkZwa1BtM19mcXVsemh4?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "챌린지",
-   "t": "[음악중심M] 에반의 무궁무진 매력, 한 번 빠지면 못 헤어 나올걸?",
-   "q": "음악중심M 에반의 무궁무진 매력, 한",
-   "heat": "네이트 · 07/31 10:32",
-   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hbDYydVZQT0ZJWHY2cS1HeGRCY2w5M0FXVzFHbGhQM3hJZDJUNTJtdFZoczZTdERGSXAwSWJkYlFKOV9mUnl3MmhGWENwVzdVT1dxSjdNMnZobzRCSHE4Qw?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "'윤가놈 합방' 꽁주 인스타 실물 몸매 및 프로필 눈길..핑맨 연애 콘텐츠 관심까지 (라이키, 디시, 남친)",
-   "q": "윤가놈 합방",
-   "heat": "artivenews.co.kr · 07/31 16:46",
-   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iTlNGZl9fbHcxQ2dwcjVNdHA1NDF2UmwzV0s2Mjk5Ty15Q3ExUmdjUlBUV0RKUVpxakVtbUdkVy1CQ3hvbGk3allyVkJxOWlqekkxcUVjNlMzSnRCMzVsSVlQNXZEdmdNNGhHdUx3?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "스텔라 블레이드 새 주인공 이비가 부릅니다, 'Wanna be in LOVE' 뮤비 공개",
-   "q": "Wanna be in LOVE",
-   "heat": "인벤 · 07/31 13:13",
-   "article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1OY3UyQWRUSWlTVTZzZUNJZDBGTXZnTGw2T0pYVEZmVEdsY3kxM2U4R0ZfZFJxR0FSWkNKczBZblZmY294UUxYYnNhaXUwUk96Qmpwa0VITjEwaTR3S0E?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
