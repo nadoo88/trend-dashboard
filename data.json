@@ -1,16 +1,16 @@
 {
- "updatedAtKST": "2026-08-03 09:04",
+ "updatedAtKST": "2026-08-04 09:12",
  "trends": [
-  "여자 야구",
-  "pltr",
-  "안타",
-  "신천지예수교 증거장막성전",
-  "진기주",
-  "시바이누코인",
-  "미켈 아르테타",
+  "상주시",
+  "오선우",
+  "최예나",
+  "수영장",
+  "홍진경",
+  "매일경제",
+  "이강인",
   "당구",
-  "사학연금",
-  "모로코"
+  "강상준",
+  "류현진"
  ],
  "news": [],
  "hot": [
@@ -20,10 +20,46 @@
     "x"
    ],
    "tag": "K-POP",
+   "t": "키키, 신곡 'Pop Off Pop Off' 챌린지 선공개…'키키표 서머송' 예고",
+   "q": "Pop Off Pop Off",
+   "heat": "네이트 · 08/03 11:50",
+   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lRGR1d19lbHBPT1lqdFY1V2ozMzVOWVlETVBSQmRZUU9zQ0M3NU5jVFhvTXRVaDFZTFd6d2pTVFVBallxWjlpMlc2UVVidmIxYlFTR0h2bWV5cC15a3VWag?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "나는 ‘영크크’인가 또는 ‘늙크크’인가…사회적 언어가 된 밈(meme), 젠지어 이해하기 [커버스토리]",
+   "q": "영크크",
+   "heat": "매일경제 · 08/03 17:34",
+   "article": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MOE8yc0pZcEM0OEN5SjhCUERIRHJkQm1fakcxcDcxLWxSWHpseHlxQzAwZlBYNGJCbEp2MHlMaVMtY05ncndYTGZ6eWE0X3VBLVU5Xw?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "\"형님들, 지금 조정인가요?\" 물으니 퇴장… '총수 단톡방' 패러디 화제",
+   "q": "형님들, 지금 조정인가요?",
+   "heat": "한국일보 · 08/03 08:39",
+   "article": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kT1ZvX0E1akJiS1JrY1k5V2ZzMFRuSW00REtyMFJpelJ2Um44Tnd5WXVMdzdoZTNMMmFkaDlMc3ZRWGZQdTZkYndPamo5b1F6ZVBFX3hhLUhybzR6cmp2QzhYV3VCWGdaVkxwdnZOWXJtM1XSAXNBVV95cUxOZE9Wb19BNWpCYktSa2NZOVdmczBUbkltNERLcjBSaXpSdlJuOE53eVl1THc3aGUzTDJhZGg5THN2UVhmUHU2ZGJ3T2pqOW9RemVQRV94YS1Icm80enJqdkM4WFd1QlhnWlZMcHZ2TllybTNV?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "x"
+   ],
+   "tag": "K-POP",
    "t": "DAY6 영케이, 정규 2집 ‘YOUNGEST’ 컴백…음방·예능·챌린지 다잡은 ‘육각형 아티스트’",
    "q": "YOUNGEST",
    "heat": "티브이데일리 · 08/02 10:47",
-   "article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qaFZjVDFJNmZYaU5HTTlDS184ZFd4QnplRUliM0M1NnczY1B0LTBnNU5QNDM5YjJVc0VPc3Y0aTBXWS1fZ3JRYmlMWlVnekVTRl9uRnczaHVLaHAtRjE2NE9mc2k2ZV9wdUZz?oc=5",
+   "article": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfRlplTG9MNGdqR25KTU9meVoxTU5SVldIRktDTGdNbHZhQnZEQi1PaEF6UUhPWFFJQTc4U2dZZ2t4VWRQMzdNNERZQ1pWMUpBaXdTbWhkWEd5aEVIbzlsVUltckYwdXNQa3pwb2dNVzg?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -41,73 +77,13 @@
   {
    "plats": [
     "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "햄토리ㆍ밤으깡 난리더니⋯요즘 유행, '로블록스'에 다 있다 [솔드아웃]",
-   "q": "로블록스",
-   "heat": "이투데이 · 07/31 16:38",
-   "article": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9FVC1ULXlHS1RHa3FaVlJPWEI0eFpqbXFJRENvQWgwVXUwMlhoN3YxT3ZaTWMwZGY5b2FGb1dxSlJGTF94SmRPRGZGN0tBTGxCZXFPNw?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
     "reels"
    ],
-   "tag": "챌린지",
-   "t": "\"내향인 호소 그만해라\" 정준원 '놀뭐' 태도 논란 '갑론을박' [Oh!쎈 이슈]",
-   "q": "내향인 호소 그만해라",
-   "heat": "미주중앙일보 · 08/02 11:37",
-   "article": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12Y0FaeUVjVXRsaHlaSjM1cm8wY0lod1UyRTBrSWVRZFpTRWw4T0ZSSEh5TWlQbWRrV2lleHNqVzQ0VXhTcFJpZ0dwbzNhcS12amxWTmVwRlFUS3NHdGJiZldn?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "숏폼",
-   "t": "콘텐츠 대세 '숏폼' 배우자…아동청소년·소상공인까지 확산",
-   "q": "숏폼",
-   "heat": "더팩트 · 08/03 00:00",
-   "article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MVTVLMWhLMURNNnlzSWlIc0pCSTNXV1liZEc2QjdvdnRBZ3Z1WEd1MjNlM0VxZ1ZvN1puczBxNzM1TWR5VDZMdm5hMjZQYzZt0gFQQVVfeXFMTkxVNUsxaEsxRE02eXNJaUhzSkJJM1dXWWJkRzZCN292dEFndnVYR3UyM2UzRXFnVm83Wm5zMHE3MzVNZHlUNkx2bmEyNlBjNm0?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "숏폼",
-   "t": "쿠팡가구매 아무데나 맡기면 안되는 이유",
-   "q": "쿠팡가구매 아무데나 맡기면 안되는 이유",
-   "heat": "아이보스 · 08/02 12:01",
-   "article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XZ0VsdHliMzY2dG9VNnN6ODhUR0NZdXlFeFFSckhJb2tmZHNXTVRhOEt0M09Uc2RySWN1WUN3ZmxBT2lCUUhIV0ZUb0hNbmRr?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "숏폼",
-   "t": "쿠팡 리뷰체험단, 왜 어떤 상품은 순위가 오르고 어떤 곳은 반영조차 안될까?",
-   "q": "쿠팡 리뷰체험단, 왜 어떤 상품은",
-   "heat": "아이보스 · 08/02 11:15",
-   "article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzcXg4V1VHUmx1LTBGa3JWWDUtUUQtRWVmMUVfSTZnLWtEbDdXSHR0OEgtbUtBMVB3UnYxM1NkUTY2ZmlSaHl5Qk9FZ3hUSnpl?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "숏폼",
-   "t": "쿠팡가구매 , 단순 주문수보다 중요한게 있습니다",
-   "q": "쿠팡가구매 , 단순 주문수보다 중요한게",
-   "heat": "아이보스 · 08/02 11:01",
-   "article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxOUZoeU0tNEF2cnEtd0hKNzNua1ExS05EWGM1emM4WUtiQ1hUbWJSTWYySzFjbjZwWkFZeDByX1FTNW1yUjJGdjgwZEZRRDVs?oc=5",
+   "tag": "AI",
+   "t": "[마케띵킹] 제미나이도 나영석은 못 뛰어넘음",
+   "q": "마케띵킹 제미나이도 나영석은 못 뛰어넘음",
+   "heat": "오픈애즈 · 08/04 08:30",
+   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DR3hzT3c4aUxSN0FLa1FQb3VfQUR1aEUzR21nY1VZRnIxQUx4RGdaTFZCaW95NVBIalh0N3hTaVptblBSSFZDcGZKbk9fcTZnT1YwRVJNaTJMUnRSa0xUamhlUWF2dUpkWmdTc2VB?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -116,22 +92,46 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "[공식] 정일우, 새 출발 소식 알렸다…지드래곤·송강호·태민과 한 식구 \"경쟁력 있는 IP\"",
-   "q": "경쟁력 있는 IP",
-   "heat": "텐아시아 · 08/02 06:29",
-   "article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BWkFZMVJScjZsbU9OVms3eTNmUm81VkxYMmZ0SlpZYnlNVDJkQUd3djk0VWM4S3NEUlQ1d0ZOM01FOEtGYVl2Umk4YUl4WWRSLURFOFVqdWFsZHc?oc=5",
+   "t": "KBS, 'AI Production' 개소 AI 기반 방송 제작 본격화",
+   "q": "AI Production",
+   "heat": "네이트 · 08/04 07:25",
+   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DS1ViLUVpMjdiT1ZLTlhhUXJCT3dROTlFbkE5Y2k4T2ZHdlJMeDBJYXpWVVNFbWszUWk5aGRFQ1B6M1B6Q3B2UkFiNXlpbnc2Y1NrNEhHampQNk1vcE9jWA?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
    "plats": [
-    "tiktok",
+    "x",
     "reels"
    ],
-   "tag": "챌린지",
-   "t": "'잘생김의 대명사' 이찬원, 새 프로필 촬영 현장 비하인드…댄디·시크 오가는 '반전 매력 폭발'",
-   "q": "잘생김의 대명사",
-   "heat": "톱스타뉴스 · 08/01 04:34",
-   "article": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zUGRwY2wyNDU0cjNvYy0yRzR5OW9YZ3dHdmJlWHAyN0tNcUo0QWhReFJPeVhsSjJhaU9xNjBtRTZGc0ZVNVVmSlpYMUw4cnp1dllUNEpSQVB4TDVWSjdoZ2dJQ2dqZmtDc1lTMEtRblJWUQ?oc=5",
+   "tag": "AI",
+   "t": "[포커스] 마케팅 콘텐츠 폭증의 역설…‘더 많이’보다 ‘제대로 관리’가 경쟁력",
+   "q": "더 많이",
+   "heat": "아웃소싱타임스 · 08/04 06:37",
+   "article": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnZHhIQVdjOVVUWWNFMVpwVWN1WkxYVFBTNWM3NTVJVjZVb3BWNzRVRjUtWVkteUswcUY0VlBpeThBNUJ1Mk9UM1lsUlJ4SG9mWHQ1MUd1bDFIeDRublhQczFOUS01b2tTaFh5NmxnQ2E1Zw?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "\"살 빼려고 일부러 감염된다고?\"…SNS 휩쓴 충격의 '체중 감량법' [헬스톡]",
+   "q": "살 빼려고 일부러 감염된다고?",
+   "heat": "네이트 · 08/03 05:11",
+   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oRjREWVhRYnNYQkVNYms2czNiRndPeXg1blBORWdkRFdMRURnejJQbEo4dmFyTXlQQVExSjZqSHNMZ2o0SkJYbWpzdWFNS2ppUzJHTzI5NTc1ZjhOZUw3UA?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "KBS, 대하드라마 ‘문무’에도 AI 기술 본격 활용…AI 프로덕션 개소식",
+   "q": "문무",
+   "heat": "디지털데일리 · 08/03 15:46",
+   "article": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mYmlNNVdXWDE0SzM4dDZmZTVzOU8yRDM4aU9Cdi1pUlVRRVRMZnJCMndNQVM0NVZDbm9sNXFZSVBhaGNBdWlxQXI0eE5TbG16WXN0aDFHSng1eXBqaUpWZ3hwcE0?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
