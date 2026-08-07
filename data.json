@@ -1,42 +1,53 @@
 {
- "updatedAtKST": "2026-08-06 09:04",
+ "updatedAtKST": "2026-08-07 10:42",
  "trends": [
-  "백악관",
-  "이유비",
-  "재테크",
-  "금값",
-  "운세",
-  "태풍",
-  "임종언",
-  "kt wiz",
-  "이정후",
-  "연합뉴스"
+  "롯데온",
+  "해변",
+  "지수",
+  "노태문",
+  "이더리움",
+  "아옳이",
+  "나솔",
+  "입원",
+  "비",
+  "김규원"
  ],
- "news": [
-  {
-   "title": "시크릿, 숏폼 챌린지에 엇갈린 반응…50대 비하 VS 유행 밈일 뿐[스경X이슈]",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1VTzhrTnpnV0tLV2djT002SGh5RmQtMUxXYm1vWmdyVUtfR1pqMlBZd3NIM2Y2TEJlVkc2VXZNUHQ5QXRaeVE?oc=5"
-  },
-  {
-   "title": "앳하트, 룰라 히트곡 '3! 4!' 리메이크…19일 컴백",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uV3Vwc01USXRweW42SF9VWVM4NlR0akRmQWw3S3JyYkJ2SldWREFMOEpzMk1jM3NzdTEtVndTNWdQY0s5TEUwNUpyZWdpU3hwYVJUckxUNDA2VGZMbFZoVVFLbzlzN2hCMjJJUQ?oc=5"
-  },
-  {
-   "title": "숏폼 영상 대박 나 아이돌 최초 전국 4개 지자체 홍보대사 위촉된 걸그룹",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43ZHFuLUUtMm9iY2pOUHZTUjVUU29uSkN0UVJuY1lyQXozTmQxWWlXcjJpU1lNa3JhNUdLRTJoUkFJVjRQQUVrQUFVY21jc3UzSFctVGpfT2R6Q3UxbG1PVS1xcEJCeGFN0gFsQVVfeXFMT3Vla0FKZjFOZVM3WE9YcUhBQTlfV3pxVlMzMFdNS3BFdURYaTFYSktxcXR2TGtiS2hRSGl1VlprR19RMmlCalJFdDdsZzE2R0FsYVJPNV9Ga0pYbjNmWDdCdUp6SHZWOHhCbTdf?oc=5"
-  }
- ],
+ "news": [],
  "hot": [
   {
    "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "MarsCoin, BNB Chain에서 폭발: 밈 코인이 RWA 시대로?",
+   "q": "MarsCoin, BNB Chain에서 폭발: 밈",
+   "heat": "panewslab.com · 08/06 14:14",
+   "article": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fRnBLcTVfTlVuZnlUNzdYWWdwczRpRndQQWFjVy1yc1NvWmhmY05FXzZpb0tkc0ZLSEIyR0dtZnVIdm5GSUF5MDJEZ0tIRkJuYWFUQThIU1ZiZU9raW5ZaEpTRE4tQ1B2ekhlbmExaDd2V1c4WmhwZlpNQnFxekk?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
     "tiktok",
+    "x"
+   ],
+   "tag": "K-POP",
+   "t": "선미, 컴백하더니 에이티즈·리센느와 만났다…챌린지로 열일중",
+   "q": "선미, 컴백하더니 에이티즈 리센느와 만났다",
+   "heat": "v.daum.net · 08/05 10:09",
+   "article": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBBc1U4ekJSNjdjYXYzM29sWU9CZVUtUmUyQVZWY1Q2Z0ZQdW44N3BCRnVJMHBkQjN6SWFpV3FEekxRMnJZVS1SSy1uVQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
     "reels"
    ],
-   "tag": "챌린지",
-   "t": "계양소방서, 댄스챌린지로 안전을 전하다… SNS 활용 이색 소방홍보 눈길",
-   "q": "계양소방서, 댄스챌린지로 안전을 전하다 SNS",
-   "heat": "코리아타임뉴스 · 08/05 14:50",
-   "article": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pS2YxbFl4bTFGWGtjUV9EekRyZjRnUVp5eEhPMmlpZGZFRXhVRzg1MVZTTGJpZXlldno0YTFVaThJVm5Lbm9adlVhVkxoaWRhYmQ2Ums5aDFrV1lNVU9jM3ZZUnZtWTlxWUE?oc=5",
+   "tag": "AI",
+   "t": "청년작가 3인의 이야기...K-아트를 이끌 콘텐츠로 코엑스 전시장에서 화제",
+   "q": "청년작가 3인의 이야기...K-아트를 이끌 콘텐츠로",
+   "heat": "외교문화뉴스 · 08/06 10:12",
+   "article": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VNExxQnNMSGJpaW5CVFZyWVBoM3hXZkM0VHNJYnZRRjM4ZlhCMmpnWnpheXBrd2NVVm9WUTdWaVNUMDRDeVFMTXZKcVFyUGtlaXlPbWZBdWVENHZSV25mUEhnMEM?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -48,7 +59,19 @@
    "t": "82메이저, 내달 1일 컴백 확정⋯새 콘셉트 베일 벗었다",
    "q": "82메이저, 내달 1일 컴백 확정⋯새",
    "heat": "이투데이 · 08/06 09:00",
-   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE93QVZaOG1rd3dtZVFCZlhiUkhXa1k2NEtLYm80NmVEVVFSaWtqa3U4R1RmZURJeGpLQnBEZEFvbEVMTGVzeUhNZ2d0WVVXOW9tWGgyME81akJVTE4wWUVrRzhQRTdwTGt6aERvMkFB?oc=5",
+   "article": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE80M05oNTczVFdNY0dNOXIyS3RaTHF1SHZicTRVaVptazZsdlBsR0J0ZUVoRkw0cWwxTmhMVVpxNk9EdmYzRGN6OWNnZW00RDFaM2lKaA?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "숏폼",
+   "t": "신예 이지민, 데뷔곡 '넌 내꺼 넌 내 남자' 숏폼 누적 5000만 뷰",
+   "q": "넌 내꺼 넌 내 남자",
+   "heat": "네이트 · 08/06 18:19",
+   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRTk9odXJHVUloUGVJdnJQbkN3cWdPLWtGX2cxcnhqUkY4UlJKMGdlQktWd2xQNFdDcU9pOGh3SW9YTnRncnB5WW54eENJbWRDQXNr?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -77,26 +100,14 @@
   },
   {
    "plats": [
-    "tiktok",
-    "x"
-   ],
-   "tag": "K-POP",
-   "t": "키키, 신곡 'Pop Off Pop Off' 챌린지 선공개…'키키표 서머송' 예고",
-   "q": "Pop Off Pop Off",
-   "heat": "네이트 · 08/03 11:50",
-   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lRGR1d19lbHBPT1lqdFY1V2ozMzVOWVlETVBSQmRZUU9zQ0M3NU5jVFhvTXRVaDFZTFd6d2pTVFVBallxWjlpMlc2UVVidmIxYlFTR0h2bWV5cC15a3VWag?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
     "x",
     "threads"
    ],
    "tag": "밈",
-   "t": "나는 ‘영크크’인가 또는 ‘늙크크’인가…사회적 언어가 된 밈(meme), 젠지어 이해하기 [커버스토리]",
-   "q": "영크크",
-   "heat": "매일경제 · 08/03 17:34",
-   "article": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9MOE8yc0pZcEM0OEN5SjhCUERIRHJkQm1fakcxcDcxLWxSWHpseHlxQzAwZlBYNGJCbEp2MHlMaVMtY05ncndYTGZ6eWE0X3VBLVU5Xw?oc=5",
+   "t": "늘 비슷한 콘셉트가 지겹다면? 기획의 돌파구가 되어줄 글로벌 트렌드 키워드 25",
+   "q": "늘 비슷한 콘셉트가 지겹다면? 기획의",
+   "heat": "캐릿 Careet · 08/06 10:04",
+   "article": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5haGRaQlNyVkEwMU52WUxMdkZONDVlMlhUZHdibnBrOWtuaXF4RE56Z1VyUXp6ei1Nd1ZxbGhsVy0?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -105,46 +116,22 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "트로트 가수들 실제 영향력 확인할 ‘영향력 지수’ 차트 탄생···이찬원-전유진, 7월 ‘KSI 트로트 영향력 지...",
-   "q": "영향력 지수",
-   "heat": "스포츠경향 · 08/05 23:47",
-   "article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPVThNQUdWcEJVTEUwZlR3M3BZZUVHV0lnVWsyY1laU1hhUWVVM04zOXpGY3dLZzhEMVpNT0sxQTh3RWxpczBQSGZRMGdZYnljV0RWZU1hVzVOeHlQaWfSAWNBVV95cUxPa3JUM3ZSMnFzdzhYeVNJakg3cnk3TkFJc1RiT2JlelNRc0VEeVA3OFJhNHJMTVp1VFV5S1E5SWttdGFNS1lobGgyZ2JjTUFfUnNaSUU5WUFRdGhnTGF2TUNpbzg?oc=5",
+   "t": "광고계 이어 콘텐츠 업계도 AI로 만들었어요…숨어있던 AI, 이제 앞으로",
+   "q": "광고계 이어 콘텐츠 업계도 AI로",
+   "heat": "아주경제 · 08/06 15:30",
+   "article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jTmM4S1pBemYtR0lmbU5CTTMtQ3Y5SUlZRTROUDd4VzNWczB6a0piYmJvLUF4OTNyOHVtV25IRmVjZDcya21BdjJneEpFeDN4U3Q0ejlOeVBTZ9IBWEFVX3lxTE1UbGczVlpHNzVSaW1wSmxLR0F1SmloNXJGYkVDX0VIM0t1YThieGlKWDJyUWtiNW8zS2FkOHoyZElCaUs4eFM3dEotYndjQVU4a2x1alY2LTE?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
    "plats": [
-    "x",
+    "tiktok",
     "reels"
    ],
-   "tag": "AI",
-   "t": "[AI 콘텐츠③] 아랍어 AI, 3만8,000권과 학습권의 거리",
-   "q": "AI 콘텐츠③ 아랍어 AI, 3만8,000권과",
-   "heat": "케이트렌디뉴스 · 08/05 23:41",
-   "article": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4OVc3cVNmLXdlM1llaEw2VjZFNzZfRnk5UlU0aXJOaXA3NWgxNjIwdHR3WEh2M1Z1a2lkaEVkc0ZvOWlDUzJtQlZvaEc0eFlzUlEtQnNoaU93TDhCR25rZWlOcnl6R29kUGxaTHBBQUQ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "이찬원·전유진, 7월 트로트 영향력 1위…새 공신력 차트 탄생",
-   "q": "이찬원 전유진, 7월 트로트 영향력",
-   "heat": "스포츠동아 · 08/05 19:49",
-   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOM2Y3M0Z5ejdTTGQwbndOMkZ4QTRIUWpyUHRxa3pBR0xfa0FqTHZOcTlqZmd3MERDNnVrVzd5dklURFlnc1pwdTVaVkJfZG9SWkJnQnBwZW1XYnFxMWdpM0Z4YUF3QmlpTzktclhB?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "\"진짜야 가짜야\" 기괴한 세계관에 빠져들더니…'폭발적 반응' [트렌드+]",
-   "q": "진짜야 가짜야",
-   "heat": "한국경제 · 08/05 19:24",
-   "article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IaTBaSnU1ZzN4Vkc5UDRzX1ZpanJnR3pnQU9hd3QwY2N4dG0xN09LalFUSVg1em1GMzVPdVBFYnNJVWFCSlJQNmpCZTJQZ3hIdFBsWldmWTZxUQ?oc=5",
+   "tag": "숏폼",
+   "t": "이지민, “넌 내꺼 넌 내 남자”로 숏폼 5천만 뷰 돌파",
+   "q": "넌 내꺼 넌 내 남자",
+   "heat": "톱스타뉴스 · 08/06 10:51",
+   "article": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jMEpHQnhQTWdnSTV2YmdUa0xocHNUN1J4ZXhrR2VlRUdCcGxlUHZpTjkxQlBKeTN2Tk5OSm1tWFQzREtPYlVaTVJrZmRVQXZSNG03N2R1aDBNSE9oSkhqMDFHNUNHUXRHaEo4WG5XdEhxQQ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
