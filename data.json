@@ -1,16 +1,16 @@
 {
- "updatedAtKST": "2026-08-08 08:39",
+ "updatedAtKST": "2026-08-09 08:35",
  "trends": [
-  "쓰레기봉투",
-  "활옥동굴",
-  "기술",
-  "신유빈",
-  "정청래",
-  "나는 solo, 그 후 사랑은 계속된다",
-  "이한범",
-  "박서진",
-  "디지털 자산",
-  "thời tiết"
+  "예산",
+  "초과근무",
+  "제1전투비행단",
+  "발전",
+  "정철원",
+  "일본",
+  "블랙 핑크 10 주년",
+  "나솔",
+  "한화 이글스",
+  "노동조합"
  ],
  "news": [],
  "hot": [
@@ -22,7 +22,7 @@
    "tag": "밈",
    "t": "유노윤호 \"언젠간 은퇴해야\"…화제의 '생일 축하맨' 밈 고충 토로",
    "q": "언젠간 은퇴해야",
-   "heat": "news.nate.com · 08/08 07:30",
+   "heat": "네이트 · 08/08 07:30",
    "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wZ1NuRVVUYVU4dld5ZXF2cmFsN1A0V3RYdUtHc1FhM0o4M1lFSDFwUVZKSUY1Uy1KR0NOUjgtU3E3ZURpUEFoMFRzM2dvVWJuN0hEN1lZUlMzMU5fNkZ3bA?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
@@ -34,7 +34,7 @@
    "tag": "밈",
    "t": "MarsCoin, BNB Chain에서 폭발: 밈 코인이 RWA 시대로?",
    "q": "MarsCoin, BNB Chain에서 폭발: 밈",
-   "heat": "PANews · 08/06 14:14",
+   "heat": "panewslab.com · 08/06 14:14",
    "article": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fRnBLcTVfTlVuZnlUNzdYWWdwczRpRndQQWFjVy1yc1NvWmhmY05FXzZpb0tkc0ZLSEIyR0dtZnVIdm5GSUF5MDJEZ0tIRkJuYWFUQThIU1ZiZU9raW5ZaEpTRE4tQ1B2ekhlbmExaDd2V1c4WmhwZlpNQnFxekk?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
@@ -53,36 +53,12 @@
   {
    "plats": [
     "tiktok",
-    "reels"
-   ],
-   "tag": "챌린지",
-   "t": "계양소방서, 댄스챌린지로 안전을 전하다… SNS 활용 이색 소방홍보 눈길",
-   "q": "계양소방서, 댄스챌린지로 안전을 전하다 SNS",
-   "heat": "코리아타임뉴스 · 08/05 14:50",
-   "article": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pS2YxbFl4bTFGWGtjUV9EekRyZjRnUVp5eEhPMmlpZGZFRXhVRzg1MVZTTGJpZXlldno0YTFVaThJVm5Lbm9adlVhVkxoaWRhYmQ2Ums5aDFrV1lNVU9jM3ZZUnZtWTlxWUE?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "청년작가 3인의 이야기...K-아트를 이끌 콘텐츠로 코엑스 전시장에서 화제",
-   "q": "청년작가 3인의 이야기...K-아트를 이끌 콘텐츠로",
-   "heat": "외교문화뉴스 · 08/06 10:12",
-   "article": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VNExxQnNMSGJpaW5CVFZyWVBoM3hXZkM0VHNJYnZRRjM4ZlhCMmpnWnpheXBrd2NVVm9WUTdWaVNUMDRDeVFMTXZKcVFyUGtlaXlPbWZBdWVENHZSV25mUEhnMEM?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
     "x"
    ],
    "tag": "K-POP",
    "t": "82메이저, 내달 1일 컴백 확정···새 콘셉트 베일 벗었다",
    "q": "82메이저, 내달 1일 컴백 확정",
-   "heat": "news.nate.com · 08/06 09:01",
+   "heat": "네이트 · 08/06 09:01",
    "article": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tdXhzYU5wVXRNU0s2bVMxU3hoWDN5OXhsZk81WXhuUHotQjZsaTNDNW1yZWo0VWV3d01TRUtac2xybXFIWUZ0YURtUUQtOG5YTFBxbUFjQWN5WC0xQkk1RU9RT1RUYUptVVU4ZQ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
@@ -92,10 +68,10 @@
     "reels"
    ],
    "tag": "숏폼",
-   "t": "신예 이지민, 데뷔곡 ‘넌 내꺼 넌 내 남자’ 숏폼 누적 5000만 뷰",
+   "t": "신예 이지민, 데뷔곡 '넌 내꺼 넌 내 남자' 숏폼 누적 5000만 뷰",
    "q": "넌 내꺼 넌 내 남자",
-   "heat": "스포츠경향 · 08/06 18:18",
-   "article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBuZGJKb0J6QURmR0tVRmtoaXE0bjRNRi1lWUFOSjcxbXZQSFRxUVNzU1lhM01KRG9yby02VmxmdkpUU2ZXemREZlVra2N4RDBPcm1rb29CMzBHaGY5VlN3b3FyTdIBY0FVX3lxTFBuZGJKb0J6QURmR0tVRmtoaXE0bjRNRi1lWUFOSjcxbXZQSFRxUVNzU1lhM01KRG9yby02VmxmdkpUU2ZXemREZlVra2N4RDBPcm1rb29CMzBHaGY5VlN3b3FyTQ?oc=5",
+   "heat": "네이트 · 08/06 18:19",
+   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRTk9odXJHVUloUGVJdnJQbkN3cWdPLWtGX2cxcnhqUkY4UlJKMGdlQktWd2xQNFdDcU9pOGh3SW9YTnRncnB5WW54eENJbWRDQXNr?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -113,18 +89,6 @@
   {
    "plats": [
     "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "중국의 인공지능 기반 칠판이 소셜 미디어에서 화제를 모으고 있다.",
-   "q": "중국의 인공지능 기반 칠판이 소셜",
-   "heat": "Vietnam.vn · 08/05 14:29",
-   "article": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSFV2MHJlU3lGSVYwdkFreFlOVHF1TFEyLTFaWXA3YVNrRVdxR3ZKTlJBcHlyNDFraWZpUDhlbDFxN0gwX3NUREtTQW5RR2JxMHBtdGdqNTd5dVhhYjEtdDNsQ055NGI2Z1hFb1lnMUJ0Y1hBbnZrOU1UQVFybV9BNmpIaUZTTmNaRUhGeGVpYTA3b1NvdkxOcVJYeXZLM3c?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
     "threads"
    ],
    "tag": "밈",
@@ -132,6 +96,30 @@
    "q": "늘 비슷한 콘셉트가 지겹다면? 기획의",
    "heat": "캐릿 Careet · 08/06 10:04",
    "article": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5haGRaQlNyVkEwMU52WUxMdkZONDVlMlhUZHdibnBrOWtuaXF4RE56Z1VyUXp6ei1Nd1ZxbGhsVy0?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "광고계 이어 콘텐츠 업계도 \"AI로 만들었어요\"…숨어있던 AI, 이제 앞으로",
+   "q": "AI로 만들었어요",
+   "heat": "ajunews.com · 08/06 15:30",
+   "article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5jTmM4S1pBemYtR0lmbU5CTTMtQ3Y5SUlZRTROUDd4VzNWczB6a0piYmJvLUF4OTNyOHVtV25IRmVjZDcya21BdjJneEpFeDN4U3Q0ejlOeVBTZw?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "숏폼",
+   "t": "이지민, “넌 내꺼 넌 내 남자”로 숏폼 5천만 뷰 돌파",
+   "q": "넌 내꺼 넌 내 남자",
+   "heat": "톱스타뉴스 · 08/06 10:51",
+   "article": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jMEpHQnhQTWdnSTV2YmdUa0xocHNUN1J4ZXhrR2VlRUdCcGxlUHZpTjkxQlBKeTN2Tk5OSm1tWFQzREtPYlVaTVJrZmRVQXZSNG03N2R1aDBNSE9oSkhqMDFHNUNHUXRHaEo4WG5XdEhxQQ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
