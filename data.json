@@ -1,29 +1,82 @@
 {
- "updatedAtKST": "2026-08-10 08:38",
+ "updatedAtKST": "2026-08-11 08:41",
  "trends": [
-  "간암",
-  "주유소",
-  "이효리",
-  "적금",
-  "변동성",
-  "노란봉투법",
-  "오지헌",
-  "사관학교",
-  "이혼 소송",
-  "경기북부"
+  "호스피스",
+  "치어리더",
+  "이솔이",
+  "축구 감독",
+  "소유",
+  "삼전닉스",
+  "장기 기증",
+  "이다해",
+  "손담비",
+  "등반"
  ],
- "news": [],
+ "news": [
+  {
+   "title": "'씨제스 그룹' 휘브, 중견 신화 새로 쓰나…'체리파이' 첫방에 숏폼 쾌속 질주[SC초점]",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PSVUxa09KS2FBMVYtZ3JFb1VRUXFiRmJvTDZKVk1Zc19tZnN2VW9RcU1VVHl2Y3JPa1JkTTY5cFNUR25XS2wtYXZTUXpnc0E?oc=5"
+  }
+ ],
  "hot": [
   {
    "plats": [
     "x",
-    "threads"
+    "reels"
    ],
-   "tag": "밈",
-   "t": "유노윤호 \"언젠간 은퇴해야\"…화제의 '생일 축하맨' 밈 고충 토로",
-   "q": "언젠간 은퇴해야",
-   "heat": "네이트 · 08/08 07:30",
-   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wZ1NuRVVUYVU4dld5ZXF2cmFsN1A0V3RYdUtHc1FhM0o4M1lFSDFwUVZKSUY1Uy1KR0NOUjgtU3E3ZURpUEFoMFRzM2dvVWJuN0hEN1lZUlMzMU5fNkZ3bA?oc=5",
+   "tag": "AI",
+   "t": "새로운 AI 챗봇의 반전, 창작자의 손글씨 답변 화제",
+   "q": "새로운 AI 챗봇의 반전, 창작자의",
+   "heat": "민심뉴스 · 08/11 01:07",
+   "article": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwZ3FqbW96b1FLVXlUSW5RQXJpMlc4QThFcXE4cUlXazNYa3NNU0xXTVctcDJzM0dydC1kdjlfUGFETURVN3BNT1lQMU5fem1ZVEVtUzFGaXFBY0IyN2oxMkNFNGtXVnltT3ZPYQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "\"나 반포 살지롱, 버스하우스 01\"…2030 분노, '폐버스 풍자 밈' 확산",
+   "q": "나 반포 살지롱, 버스하우스 01",
+   "heat": "네이트 · 08/10 12:03",
+   "article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tbnlHeVZQekZfMEFVWEtMTUVuekJPZ0puX1o4TllDVkVlT1EyU2JTS3pPejRQWGZDTlo0cU5qZTJrYUFkZ2VIMVMtcERFVFQteEtyZGhsVmxPZmM3dXlSUHdRR2tOd1gyeEZEeUlLUzZfcmdDVDgxcA?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "챌린지",
+   "t": "“유튜버는 얼마나 버나요?” … 숏폼 점령한 수익화 실전 공식",
+   "q": "유튜버는 얼마나 버나요?",
+   "heat": "매일경제 · 08/11 04:55",
+   "article": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9EVjZ0NG45M21adG9EbGVvU2VONlAtY3IxeG1hTHFzeG91MXphUkJrOGp6MHZqRzFFM2ZEMFB4VkRTUXZ6S2ttSzlGMWdwdw?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "x"
+   ],
+   "tag": "K-POP",
+   "t": "\"1년에 딱 한 달, 딴따라로 사는 아티스트\"…박진영, 뜨거운 여름 활동 완주",
+   "q": "1년에 딱 한 달, 딴따라로 사는 아티스트",
+   "heat": "네이트 · 08/10 11:11",
+   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XbVhtNUVtcXhkY3ZhTVBlQmdEOFV2YVNpcXQyM3lSRUZMVDg5SHVqZTBBSVU2ek5XMEY5cU9vUHdRa2Fpby1TSW8wZU1jdlJtRmNj?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "AI 기반 참여형 아티스트 프로젝트 'ryft', 첫 번째 주자 슬릭트 공개",
+   "q": "ryft",
+   "heat": "텐아시아 · 08/10 16:34",
+   "article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GUWNxM1h3SDQ4bU1GS1pTN05yT2tnc2VycUtTcE5nZFdOMHZVeWk3bDllb3BoaVZ2bF9RUHV0ZzJxMlY3Y25ybFBfTnJ4cmRHd0pDSkM0dWVvTXc?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -44,10 +97,10 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "대하드라마도 AI로 만든다, KBS ‘문무’ 전쟁·화재 장면 AI로 제작",
-   "q": "문무",
-   "heat": "미디어오늘 · 08/09 16:12",
-   "article": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EQ2RKdmhfQjBwTDV5TE5YR0wwdUlQZ2RHUU1USUxkRlM4RURELUNrcDUwYUV4bUJVbFBZZlJnb2FtT3BhSG51NGFvVUhZVnhCX18tbDgyTkdmcG4tbkdRbHFZcXMzUWxCZmRCbTBXZEk?oc=5",
+   "t": "청년AI스타트업 둘러보는 오세훈 시장",
+   "q": "청년AI스타트업 둘러보는 오세훈 시장",
+   "heat": "네이트 · 08/10 15:41",
+   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5CMlVjU3VOZ0UyOXdIU0tJU0dLekc1QU1BR0tNMm5JbzFid1Z3blNSREZ5Mk5tS3d3VWdadFpRUXZ6SUFHRGhRZGNWWGVFNWtaWEJJdzhDTUh5N2tjV2VYVw?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -56,10 +109,22 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "원순우 대표 \"수백 억 제작비 시대…데이터로 리스크 줄일 수 있어\"[인터뷰]",
-   "q": "원순우 대표 \"수백 억 제작비",
-   "heat": "edaily.co.kr · 08/07 14:46",
-   "article": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeDBEQl91WExpWml1aWdhczItT01obG9xU2hVYVlWYUpQZlBhX0c1bVBoWU5pZHM4LUk2QVhPTnNRT3hRd2RDODBrMGctY0lLN0tLT1JkaHc5azd1eGQwZlNLZi05U1U2V2pGRUxpWUVqOTVFNmhGb3RpbDJqMlJLZw?oc=5",
+   "t": "60초 광고에 5400만원…대륙을 사로잡은 여배우 정체는?",
+   "q": "60초 광고에 5400만원 대륙을 사로잡은",
+   "heat": "네이트 · 08/10 13:15",
+   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44WDdjWWdLQl8tQ3RDbjBmazFYaUxRLXZUNUd3NUdIS21QRUpNdV9BSlBUUldycGkwTlk4eExuSnFoMlpKWWN3RnZ0LVU3MEpRRjZj?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "대하드라마도 AI로 만든다, KBS ‘문무’ 전쟁·화재 장면 AI로 제작",
+   "q": "문무",
+   "heat": "미디어오늘 · 08/09 16:12",
+   "article": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EQ2RKdmhfQjBwTDV5TE5YR0wwdUlQZ2RHUU1USUxkRlM4RURELUNrcDUwYUV4bUJVbFBZZlJnb2FtT3BhSG51NGFvVUhZVnhCX18tbDgyTkdmcG4tbkdRbHFZcXMzUWxCZmRCbTBXZEk?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
