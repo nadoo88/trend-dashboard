@@ -1,24 +1,103 @@
 {
- "updatedAtKST": "2026-08-12 08:50",
+ "updatedAtKST": "2026-08-13 08:50",
  "trends": [
-  "레드삭스 대 블루제이스",
-  "청원",
-  "안선영",
-  "펍지",
-  "카르다노",
-  "아이폰",
-  "아시아경제",
-  "최여진",
-  "달러",
-  "호날두"
+  "아들",
+  "pba 팀리그",
+  "안정환",
+  "퇴거",
+  "제주특별자치도",
+  "철도",
+  "이진숙",
+  "서울역",
+  "이투데이",
+  "노동쟁의"
  ],
- "news": [
-  {
-   "title": "'씨제스 그룹' 휘브, 중견 신화 새로 쓰나…'체리파이' 첫방에 숏폼 쾌속 질주[SC초점]",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE56QmV3QzVySWh0R3kzLUdyNFdKVUtUYmU0QndmcWVZOW9yWkttVGRkbXJJUC15ZmxPMGJkQUpKR3E5R3Z1dHdiaV9ra3E?oc=5"
-  }
- ],
+ "news": [],
  "hot": [
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "‘버스하우스’ 발언 논란에 밈 코인까지…시가총액은 ‘300만원’",
+   "q": "버스하우스",
+   "heat": "강원도민일보 · 08/12 17:01",
+   "article": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wLVZVMzYzcGtONWxKSHlDYWh0ZlgxdmJkZ2pmdnFUVW91QjVuUW05cTdZemhXQ2pnZXJxZjQ0M2dsRHN2N2FBeWZSQkdHemYyTU15RENOOHp3M2JVc2F0T18xQm5LRFJt?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "하다하다 `밈코인`까지…숙지지 않는 與 `폐버스 청년주택` 논란",
+   "q": "하다하다 `밈코인`까지 숙지지 않는 與",
+   "heat": "매일신문 · 08/12 16:26",
+   "article": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCSl85djZ3Vno4RmVfVXc1cGotN3ctSjF1dDNhSTV5MjFJc2p0UXFWMVZWc1BDaHFPMVJhSjZ5cjQ1Q1BfRVpXVHM4Skh6aHY1WmNNSkttVU1JOHN2T1QxZlZ3?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "\"이러다 '청약코인'도 나올라\"…'버스하우스' 밈코인 등장",
+   "q": "이러다 ",
+   "heat": "네이트 · 08/12 16:10",
+   "article": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vQ0tJQWhZQXMtOUdaczJGOEpOQUJLTGozTHIzeUZmM0wyNlVXbzBTVjhGZ1hnT2NWbVVrbnFJci1MVHdQNk9pNl91ZFhldTRBOGgtSFhUOExvbi1iLWFFVHFiMjRYamNhT0E?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "'폐버스 하우스' 밈 코인 등장…시가총액 300만원",
+   "q": "폐버스 하우스",
+   "heat": "네이트 · 08/12 15:59",
+   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5nVV9tZEoyRXhQR2tRMnlFeklDLUd0T0h5UHR4aGhnR1M3M3AyU3NvbnkzaDlhSTYxbWZ6SGZOcWRDRklaaFpWLXRkeXFub1R0S1o3S2tqSkcxTlBTOElmRg?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "'버스하우스' 논란에 밈 코인도 등장…시가총액 300만원",
+   "q": "버스하우스",
+   "heat": "네이트 · 08/12 15:44",
+   "article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5acmlGMGJyU2QzTlBQUjFacVVWNkdXaXU4QVFsTjRsMDhublFhYU1uYnlNU2FMT2tMU1l0TUhaTkw0UEdiejhrTFMzWHNPbThoWlhnRzZSX1VXWkdveHZBRGhmQVhCWXJkUGNXRHRTOV9VMGdENHFmVQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "대전시교육청, AI로 되살린 독립운동가 영상 화제…하루 만에 20만 조회",
+   "q": "대전시교육청, AI로 되살린 독립운동가 영상",
+   "heat": "뉴스충청인 · 08/12 18:50",
+   "article": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1PckQ3V2tjWjBCMUF6bjZ5Sm04d05FcmhLVThGQ2NsTXA2TVFRNUdYRXRlQ1ZFUGVuQllVQjl3MHF0a0hnNGc?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "\"여고생 유관순, 교사 윤봉길…독립운동가가 살아있다면\" 대전교육청 AI 영상 화제",
+   "q": "\"여고생 유관순, 교사 윤봉길 독립운동가가",
+   "heat": "대전일보 · 08/12 18:06",
+   "article": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HZEt2OEdSNUliYUZsWG96SmV0cXlaZnZqM2l4by0tM0JzVTIxUXBocE1ZLWhwNHBpdkcyWElfbnNLcUVYTll3anFQejhLZWNFTXZQc0JrYkw5RTd2Z2dfZzVEcnZ0SGtkVmw2TjdXRQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
   {
    "plats": [
     "tiktok",
@@ -33,26 +112,14 @@
   },
   {
    "plats": [
-    "tiktok",
+    "x",
     "reels"
    ],
-   "tag": "챌린지",
-   "t": "[트렌드로 읽는 소비문화] 도파민에도 리밸런싱이 필요해",
-   "q": "트렌드로 읽는 소비문화 도파민에도 리밸런싱이",
-   "heat": "mobiinside.co.kr · 08/11 22:15",
-   "article": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwRXAxNTFmR1YxSlliYTRKYXVlR3lQMW1GNmhGYi1henpwR21vRnRlTnoyN0ZTTDVtUUR3WVlVOEpfckV6dWUxamRjdFQzU0d3bi12empPenRmdnlLMlBPSVdTaWhqMHpTa1RqbGZEU1N1UWxISEE?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "챌린지",
-   "t": "\"유튜버는 얼마나 버나요?\"…숏폼 점령한 수익화 실전 공식 [황순민의 더인플루언서]",
-   "q": "유튜버는 얼마나 버나요?",
-   "heat": "네이트 · 08/11 18:08",
-   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE95Y2p6M18xelR5VmhTUFozdHY3SmVad2tQeER0NUhQVU9VU1NPVU5pYk5MQThIYjg1ZGRFVmFZOE81V25vYm5LZlhrMkJIN0hscmk0?oc=5",
+   "tag": "AI",
+   "t": "황희가 꺼낸 '버스 하우스', 진짜였다고?…6년 전 보도 화제된 이유",
+   "q": "버스 하우스",
+   "heat": "네이트 · 08/12 15:02",
+   "article": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83RUp6MUN0SXZId3V1dnAxaEpBZEp1X3hQTmxhc3FjdDNTSUxKYjduMDJGaEppTC1tWDZubUl2ZjB0NkhuNC1fOVF4aXJMRUp3eTlsUVFpcDVaNjl1S25uMUo5d1dNalpJcVE?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -61,82 +128,10 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "Cloudflare가 조용히 열어젖힌 문 — 다음 1,000명의 AI 백만장자는 여기서 나온다",
-   "q": "Cloudflare가 조용히 열어젖힌 문 —",
-   "heat": "AI 코리아 커뮤니티 뉴스레터 · 08/12 06:01",
-   "article": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMmdCR0tDODZQY3kxZ3BjWHZadEZWTF93UFdqQmtTbFNmVEw5eHd0al9mLXRHZlQ2WGd5R01VN1JEQVpMNlFhcmpYenpieEc1b3NCR2NLYkxEZU1XcVdqS1VqMHFYUFJJMDZaX0VteU9xZUM4ZGRvQjhDNFFwZk0zNGpHdllwb2ZOWHpOcnVKRTY2bmNFbmZjUnA4WQ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "\"여름엔 찜질방, 겨울엔 냉동고\"…'폐버스' AI 풍자 영상도 나왔다",
-   "q": "여름엔 찜질방, 겨울엔 냉동고",
-   "heat": "뉴시스 · 08/11 15:30",
-   "article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HQnJSZmRZZFNfZVdBdUlXQXU1cGZFVGx5UVZQbjlkcVlGazdUQlQ2bXBqUzRuTy1WMHdTLUU5LW5PNUlPRVMzOUJ0SFhwLUpYLVE2SHJVSzhHRXJkWTRRN3o0a0k3eFk2TW1mOFd3X0VjOVN1SWNudtIBeEFVX3lxTE9HQnJSZmRZZFNfZVdBdUlXQXU1cGZFVGx5UVZQbjlkcVlGazdUQlQ2bXBqUzRuTy1WMHdTLUU5LW5PNUlPRVMzOUJ0SFhwLUpYLVE2SHJVSzhHRXJkWTRRN3o0a0k3eFk2TW1mOFd3X0VjOVN1SWNudg?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "\"PDF 대신 AI 영상으로 배운다\"…기업 커뮤니케이션 바꾸는 신세시아[최중혁의 월가를 흔드는 기업들-창업가편]",
-   "q": "PDF 대신 AI 영상으로 배운다",
-   "heat": "네이트 · 08/11 12:43",
-   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1iRVJ6Z3pxajg5Vllmd2pTYS1pUFRBSTQyYXFvVlhQRzZPa3ppX25Qd05PZEtwSVQxRW5rWThpdWZzNm1ZQnE2TWhaWjRXeUlYZlA4?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "\"1분 광고에 5400만원\"…中 사로잡은 여배우 정체 알고 보니",
-   "q": "1분 광고에 5400만원",
-   "heat": "뉴시스 · 08/11 11:12",
-   "article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1GVTNJbXpfbjVCWndNdnA0NUR5RjFEVE1aTl93ZEpHUjBzTUtsR3R0WGVvNmlxMEEtYUowZWVxWmJKc1ZrdkEyTkZiZmVRTUx1aEJwZzRRVGZrZC1ad29rOUpUTUcwWTlZdDlaTThTcjJRbTBhREpuUNIBeEFVX3lxTE1GVTNJbXpfbjVCWndNdnA0NUR5RjFEVE1aTl93ZEpHUjBzTUtsR3R0WGVvNmlxMEEtYUowZWVxWmJKc1ZrdkEyTkZiZmVRTUx1aEJwZzRRVGZrZC1ad29rOUpUTUcwWTlZdDlaTThTcjJRbTBhREpuUA?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "숏폼",
-   "t": "5분이 하나의 드라마, 숏폼 시대 콘텐츠 소비 패러다임 급변",
-   "q": "5분이 하나의 드라마, 숏폼 시대",
-   "heat": "technovalue.com · 08/11 11:01",
-   "article": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1XZTlxdUxHeUh4aktUbTIxLTZid20xRHJCNmo0bncxRUhoT1VJVFJTUU9jaTB0bUl0NnV2cW90NzVvd2IxR2ptRUpCX0w5WnlwckFyQTNqMA?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "1분 광고에 5000만원...中 사로잡은 이 여배우, 누구?",
-   "q": "1분 광고에 5000만원...中 사로잡은 이",
-   "heat": "데일리안 · 08/11 09:51",
-   "article": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBCZVBtTndlV2dZVlRINGJpSTd1T3ZnQXhidTZUX2t6bndOWHRHQ2xpRUFuakJLb2lpVUdaRW1vR0k0UjFUX3lOdEVNMDg0NHdrNXM2aUV6dw?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "x"
-   ],
-   "tag": "K-POP",
-   "t": "\"1년에 딱 한 달, 딴따라로 사는 아티스트\"…박진영, 뜨거운 여름 활동 완주",
-   "q": "1년에 딱 한 달, 딴따라로 사는 아티스트",
-   "heat": "네이트 · 08/10 11:11",
-   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1XbVhtNUVtcXhkY3ZhTVBlQmdEOFV2YVNpcXQyM3lSRUZMVDg5SHVqZTBBSVU2ek5XMEY5cU9vUHdRa2Fpby1TSW8wZU1jdlJtRmNj?oc=5",
+   "t": "김구 선생이 우리학교 교장?...‘영웅들이 학교에 오다!’ 영상 '화제'",
+   "q": "영웅들이 학교에 오다!",
+   "heat": "hdnews.co.kr · 08/12 14:27",
+   "article": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCNDBNd1lNZnhENC1ZWUEyemtmTG54bDVxTWZIdVZya0pjWXJObWg2YmVKUDN0Ukp0VjA3b2liWmF0RVdXb2Y5cDJHRERxUXRBU19vTHJ2dVA1a3NiR3dMUUROZ2J1R2RIR1lr?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
