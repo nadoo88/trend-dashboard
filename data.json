@@ -1,16 +1,16 @@
 {
- "updatedAtKST": "2026-08-14 08:50",
+ "updatedAtKST": "2026-08-15 08:27",
  "trends": [
-  "유리",
-  "드라간 스토이코비치",
-  "이가 시비옹테크",
-  "윤영철",
-  "전세사기",
-  "역세권",
-  "수도권 광역급행철도 c노선",
-  "최화정",
-  "탁구",
-  "오픈ai"
+  "김지민",
+  "schd",
+  "날씨",
+  "thời tiết",
+  "天气",
+  "weather",
+  "погода",
+  "avgo",
+  "포스코",
+  "광주공항"
  ],
  "news": [],
  "hot": [
@@ -20,22 +20,10 @@
     "threads"
    ],
    "tag": "밈",
-   "t": "세계 최고 미녀 심판도 '카인다 시크(Kinda Chic)' 외쳤다…대체 뭐길래? 외모 때문에 커리어 막혔다던 니콜로시, SNS 최고 유행 밈 동참",
-   "q": "카인다 시크(Kinda Chic)",
-   "heat": "네이트 · 08/13 17:28",
-   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HRWoyRmpVS2FiQThxei1yc2x3aVhFTm9CbFFhWXQ4WHpvN3N2dTFUclJ0NEJFQUtjcGF0SHVESkNhVFlSaUdMTGZLcHdlajFDUHdrN2l1MmdPZldqbWx1RA?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "세정그룹, ‘기업색 뺀’ SNS 운영으로 상반기 3억 원 광고 수익 ‘화제’",
-   "q": "기업색 뺀",
-   "heat": "TENANT news · 08/14 00:05",
-   "article": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5DRDFVZDk2NFo5NGw1c1FJTzhuSlg1MVNMUVhWMlE0RUJ5dVpRMWxnUGlHVWJjcnhKZ2dna1otdWxuaUsxS1l1NmtuY20?oc=5",
+   "t": "조혜련, '가난 밈' 소화하다 절었다…\"난 가난하게 컸어!\"",
+   "q": "가난 밈",
+   "heat": "네이트 · 08/15 00:20",
+   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UUGZicElJTmhwenNRTjhMNTVHYUlFNXB0ekpfS1RIZ2RxWV9aNTJ5NXNabmdKVFNURlhoTzB5SzhjZjl6OXR2Z1NBcWtJNlh6Ylhn?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -44,10 +32,34 @@
     "threads"
    ],
    "tag": "밈",
-   "t": "청년주택 ‘폐버스’ 논란이 코인으로…‘버스하우스’ 밈코인까지 등장",
-   "q": "폐버스",
-   "heat": "경기일보 · 08/12 17:05",
-   "article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1Z09EWVQ2eEtSM0JnM1FDNzVfX3FWMlF3TTZLZldHbUI5WTRaYk0tdzEwdHluWWdkN29BVVNnLUQwNjItMEtJQ2Y2VVhORXhVMUNoaVZubjVHT3M?oc=5",
+   "t": "기내식 카트에 겁질려 숨은 트럼프?…전용기 환승 '조롱 밈' 확산",
+   "q": "조롱 밈",
+   "heat": "한국경제 · 08/14 09:11",
+   "article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YekhJVjVfM2ZiZVlmYTl6RnlNU0hmajM0TlZ2WTE3YTQ5MmV2Y0wwTW5YMjhRZzJITmllbE5rbDAzT3djdHF4T1R2Q09FUzVnbENQNWt3Uldtdw?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "여고생 유관순·학생선수 안중근·교장 김구…광복절 기념 AI영상 화제",
+   "q": "여고생 유관순 학생선수 안중근 교장",
+   "heat": "네이트 · 08/15 06:00",
+   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ubTNwN0dsQUZuQ0IyM3RnT0NJTVg0Z2ZYYjZuanVkbDlndmphX1dKRm1ERHhIbllyelhsYzBKNVdDOFJKbXRZWmxxeWgtVk93WmxN?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "[화제의광고] 비비고 생선구이 ‘생선을 넘다’, 열흘 만에 5000만뷰…매출도 30% 껑충",
+   "q": "생선을 넘다",
+   "heat": "푸드아이콘 · 08/14 09:10",
+   "article": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XdWNPLS1sNjRkdE13cElwNXN0NWgzWXFQSEJkNk4tLThJWDE2QlRCWUVBYTN5UjhldHIxM2VqdmRPTTBSaGNweHJ4aUpYUFVEODlibGNnMGU3ZngyX3ZEVXBKY01Qck5RVnhCQQ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -80,21 +92,9 @@
     "threads"
    ],
    "tag": "밈",
-   "t": "\"이러다 '청약코인'도 나올라\"…'버스하우스' 밈코인 등장",
-   "q": "이러다 ",
-   "heat": "네이트 · 08/12 16:10",
-   "article": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vQ0tJQWhZQXMtOUdaczJGOEpOQUJLTGozTHIzeUZmM0wyNlVXbzBTVjhGZ1hnT2NWbVVrbnFJci1MVHdQNk9pNl91ZFhldTRBOGgtSFhUOExvbi1iLWFFVHFiMjRYamNhT0E?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
    "t": "'버스하우스' 논란에 밈 코인도 등장…시가총액 300만원",
    "q": "버스하우스",
-   "heat": "yna.co.kr · 08/12 15:43",
+   "heat": "연합뉴스 · 08/12 15:43",
    "article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVMjZLQlN4X3dwX1ZrZ1N4cHd2TjVBUVlsRkwzVHZkX2paMWs1X1cwelJGRXUtODZwV3RUbVExRWdIcG9lbDRjdHhNX2JTZG9OYm5WWmhnRXgwTWPSAWBBVV95cUxNRTJwTnQxX3JkOG4yVkNScjZHbUNMYmxXTWYtbHVvZGVqLW9xemlGOVk5LWVpQnd6U0JpWmt2TU1jQ3UyYmNxa185UFlPVk5lQUozN3VLNlB2Y3UyM1hWSVM?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
@@ -124,14 +124,14 @@
   },
   {
    "plats": [
-    "tiktok",
+    "x",
     "reels"
    ],
-   "tag": "챌린지",
-   "t": "[셀럽에디션] “고맙습니다람쥐”의 세계화?…반전 매력 ‘고맙투우사 챌린지’",
-   "q": "고맙습니다람쥐",
-   "heat": "르데스크 · 08/11 17:29",
-   "article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ldEJScElTQU5yUUNMbzA2NGs5eUVMUkdYLTJjVjBLZ0tMR2gtRHo3bnlmV0ZUMVpZRzhtb3JlN0NGRjhUSXBBWnpZR2lHZ0dZcUxlemdB?oc=5",
+   "tag": "AI",
+   "t": "KT그룹 희망나눔재단, ‘2026 K-AI 콘텐츠 공모전’ 시상",
+   "q": "2026 K-AI 콘텐츠 공모전",
+   "heat": "dhns.co.kr · 08/14 17:09",
+   "article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YcVVYRWdyT0tzSWdhUlNDM01GZGkxX3BiNkhjV05QMUtuRkxxOVlkVXNtVFVMWG5TLV9nMWs2TFoydnVLZzVzUExaM01PZWdjS0Nwa0FUekZ1ZnhSR2NXdlV4SlhUVUU?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
