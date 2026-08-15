@@ -1,16 +1,16 @@
 {
- "updatedAtKST": "2026-08-15 08:27",
+ "updatedAtKST": "2026-08-16 08:26",
  "trends": [
-  "김지민",
-  "schd",
-  "날씨",
-  "thời tiết",
-  "天气",
-  "weather",
-  "погода",
-  "avgo",
-  "포스코",
-  "광주공항"
+  "시바이누코인",
+  "박선원",
+  "스포츠조선",
+  "대구 도시철도 1호선",
+  "로스앤젤레스 fc",
+  "한화 이글스",
+  "황인범",
+  "동굴",
+  "랄랄",
+  "업비트"
  ],
  "news": [],
  "hot": [
@@ -23,7 +23,7 @@
    "t": "조혜련, '가난 밈' 소화하다 절었다…\"난 가난하게 컸어!\"",
    "q": "가난 밈",
    "heat": "네이트 · 08/15 00:20",
-   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UUGZicElJTmhwenNRTjhMNTVHYUlFNXB0ekpfS1RIZ2RxWV9aNTJ5NXNabmdKVFNURlhoTzB5SzhjZjl6OXR2Z1NBcWtJNlh6Ylhn?oc=5",
+   "article": "https://news.google.com/rss/articles/CBMibEFVX3lxTE03XzVmbVplTmUzcXhiNUg3ZUFUWDV2bG1CTHJ4VGN2c1lHQzFpUHpfdWVMQm1pTWJUWTNoWnVidnItLWNKNGtJTlFLRUpZV3BGdXNFZG1NbXJBZ0diN1RmNC1Wd0ZwZEhnU0tYRw?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -32,10 +32,58 @@
     "threads"
    ],
    "tag": "밈",
-   "t": "기내식 카트에 겁질려 숨은 트럼프?…전용기 환승 '조롱 밈' 확산",
-   "q": "조롱 밈",
-   "heat": "한국경제 · 08/14 09:11",
-   "article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YekhJVjVfM2ZiZVlmYTl6RnlNU0hmajM0TlZ2WTE3YTQ5MmV2Y0wwTW5YMjhRZzJITmllbE5rbDAzT3djdHF4T1R2Q09FUzVnbENQNWt3Uldtdw?oc=5",
+   "t": "\"겁쟁이의 탈출\" 박제됐다…SNS 덮친 '트럼프 밈'",
+   "q": "겁쟁이의 탈출",
+   "heat": "네이트 · 08/14 15:17",
+   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uTm4yTm1lbndCc09mbWJuNUxSU0JrWlJHVnpSWjg5UDhBNDdaSDJPTEVVUU9ndzZiQkh6aEdrcFR5b1l0Uk1COFI0SFB1cy1ZdmdN?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "여고생 유관순·양궁선수 안중근·교장 김구…광복절 기념 AI영상 `화제`",
+   "q": "여고생 유관순 양궁선수 안중근 교장",
+   "heat": "매일신문 · 08/15 12:28",
+   "article": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAwdlQ1MThOeUk3M21WYjZycFBXZ0U0cmEwTjI5OExBR3Q2THRZLXNNcENmTlRXMVdNd0Q2RnRoRHpWenc4S09kU2wtcEUzNnFveDhRWnBuZll6QjB3QldmTjZn?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "백악관, 루비오 55세 생일에 ‘68개 직업’ 밈 선물…트럼프 “당신은 훌륭하다”",
+   "q": "68개 직업",
+   "heat": "파이낸스투데이 · 08/14 11:05",
+   "article": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3RGUtc0ZDQkxQT1pRYzEtVjhWRXNNM3dKQndDRklLUUFGekVUV21iS0pmbVQ1bnB2VkN1eWk2c0xfdTRJZTdabkRzYXhLcExiSUVUekx5Mk9GVkZ2RExWMksyaWd6NFdVR2lsdg?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "충남·대전 교육청 광복절 쇼츠 영상 화제",
+   "q": "충남 대전 교육청 광복절 쇼츠",
+   "heat": "2news.co.kr · 08/15 10:39",
+   "article": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZZm45ZFNjSmdxRDFiNllxVi1QdWVjdFUxNmxyU05abjlWQWljSkRZYVhoSjJYOW95NlhmWG9XbHdFODZlS3VLZlhBVThfNDBhcFpSSVFtdjVBaHpkOTJvRjFrWF9wZy16?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "교복 입고 웃는 유관순·교장 김구…광복절 기념 AI 영상 화제",
+   "q": "교복 입고 웃는 유관순 교장",
+   "heat": "v.daum.net · 08/15 09:54",
+   "article": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjMnQ4UGhUdnpNTDRQVzg2UlVTeVFLZDJNMktlLXdWZUNXM0x1U09EV3FYTDlKRHE5S0t1OG5lbHA0eXprdHhJWnpMTGFyMVU?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -46,20 +94,8 @@
    "tag": "AI",
    "t": "여고생 유관순·학생선수 안중근·교장 김구…광복절 기념 AI영상 화제",
    "q": "여고생 유관순 학생선수 안중근 교장",
-   "heat": "네이트 · 08/15 06:00",
-   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ubTNwN0dsQUZuQ0IyM3RnT0NJTVg0Z2ZYYjZuanVkbDlndmphX1dKRm1ERHhIbllyelhsYzBKNVdDOFJKbXRZWmxxeWgtVk93WmxN?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "[화제의광고] 비비고 생선구이 ‘생선을 넘다’, 열흘 만에 5000만뷰…매출도 30% 껑충",
-   "q": "생선을 넘다",
-   "heat": "푸드아이콘 · 08/14 09:10",
-   "article": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1XdWNPLS1sNjRkdE13cElwNXN0NWgzWXFQSEJkNk4tLThJWDE2QlRCWUVBYTN5UjhldHIxM2VqdmRPTTBSaGNweHJ4aUpYUFVEODlibGNnMGU3ZngyX3ZEVXBKY01Qck5RVnhCQQ?oc=5",
+   "heat": "연합뉴스 · 08/15 06:00",
+   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HeW5jU1ozVlhDQkMyWDZ2TzFGTmVNSHBVbGtJVXNwWlliaVlkeHRoUFhiMnFvcXN0eExsNnpUSmdoZUtBUGVBemlubHZyUmt2cFJUR1ZEWkRaQnMxQWlxX9IBYEFVX3lxTE1HeW5jU1ozVlhDQkMyWDZ2TzFGTmVNSHBVbGtJVXNwWlliaVlkeHRoUFhiMnFvcXN0eExsNnpUSmdoZUtBUGVBemlubHZyUmt2cFJUR1ZEWkRaQnMxQWlxXw?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -68,46 +104,10 @@
     "threads"
    ],
    "tag": "밈",
-   "t": "‘버스하우스’ 발언 논란에 밈 코인까지…시가총액은 ‘300만원’",
-   "q": "버스하우스",
-   "heat": "강원도민일보 · 08/12 17:01",
-   "article": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wLVZVMzYzcGtONWxKSHlDYWh0ZlgxdmJkZ2pmdnFUVW91QjVuUW05cTdZemhXQ2pnZXJxZjQ0M2dsRHN2N2FBeWZSQkdHemYyTU15RENOOHp3M2JVc2F0T18xQm5LRFJt?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "하다하다 `밈코인`까지…숙지지 않는 與 `폐버스 청년주택` 논란",
-   "q": "하다하다 `밈코인`까지 숙지지 않는 與",
-   "heat": "매일신문 · 08/12 16:26",
-   "article": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCSl85djZ3Vno4RmVfVXc1cGotN3ctSjF1dDNhSTV5MjFJc2p0UXFWMVZWc1BDaHFPMVJhSjZ5cjQ1Q1BfRVpXVHM4Skh6aHY1WmNNSkttVU1JOHN2T1QxZlZ3?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "'버스하우스' 논란에 밈 코인도 등장…시가총액 300만원",
-   "q": "버스하우스",
-   "heat": "연합뉴스 · 08/12 15:43",
-   "article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVMjZLQlN4X3dwX1ZrZ1N4cHd2TjVBUVlsRkwzVHZkX2paMWs1X1cwelJGRXUtODZwV3RUbVExRWdIcG9lbDRjdHhNX2JTZG9OYm5WWmhnRXgwTWPSAWBBVV95cUxNRTJwTnQxX3JkOG4yVkNScjZHbUNMYmxXTWYtbHVvZGVqLW9xemlGOVk5LWVpQnd6U0JpWmt2TU1jQ3UyYmNxa185UFlPVk5lQUozN3VLNlB2Y3UyM1hWSVM?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "이게 왜 밈이에요? 맥락까지 알아야 웃긴 밈 활용법",
-   "q": "이게 왜 밈이에요? 맥락까지 알아야",
-   "heat": "캐릿 Careet · 08/12 10:04",
-   "article": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1BOVlCNWpHMWI2dk9nTHZfQmhRUlVlOU9UbmVVcWF5UTctWHBGZjFTZE9aQzlFeU1wRjE0QjRoWjE?oc=5",
+   "t": "“밈을 따라 하지 말고, 먼저 분위기를 읽어라” 옴니콤과 스냅챗이 분석한 Z·알파세대의 유머",
+   "q": "밈을 따라 하지 말고, 먼저 분위기를 읽어라",
+   "heat": "매드타임스 · 08/14 00:00",
+   "article": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBzVGxJRXpBWDI5bXd4RDNyX3ZYQU14QW5JSnU2NTI3TENKaFFCSGEwV29ycXFqQnEtM2EyeW43MUg1QkdRRjVQbGx4WUdLM3EzU2UwM2lXb1JvY0FqS0tzcGVhV3lCLUZaX0hZLQ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -125,13 +125,13 @@
   {
    "plats": [
     "x",
-    "reels"
+    "threads"
    ],
-   "tag": "AI",
-   "t": "KT그룹 희망나눔재단, ‘2026 K-AI 콘텐츠 공모전’ 시상",
-   "q": "2026 K-AI 콘텐츠 공모전",
-   "heat": "dhns.co.kr · 08/14 17:09",
-   "article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YcVVYRWdyT0tzSWdhUlNDM01GZGkxX3BiNkhjV05QMUtuRkxxOVlkVXNtVFVMWG5TLV9nMWs2TFoydnVLZzVzUExaM01PZWdjS0Nwa0FUekZ1ZnhSR2NXdlV4SlhUVUU?oc=5",
+   "tag": "밈",
+   "t": "‘우유말먹’ 이은 ‘아박가토’…‘아박 유니버스’ 키우는 투썸플레이스 [현장+]",
+   "q": "우유말먹",
+   "heat": "쿠키뉴스 · 08/14 01:32",
+   "article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CQWtZVUtvUm1JbDYxTHRGOWNUa3Q2MHVZOFNIQ0pndEp6OHNkVUZwdjVuendYZTVic3IxM1hHeW51TURWM1pEZEtBR1VUUEM2QXRXZ2d4RTAtc21HcnVvVGtkVQ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
