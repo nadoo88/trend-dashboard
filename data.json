@@ -1,19 +1,31 @@
 {
- "updatedAtKST": "2026-08-20 08:28",
+ "updatedAtKST": "2026-08-21 08:32",
  "trends": [
-  "이연",
-  "최준희",
-  "임금",
-  "응급",
-  "같이 삽시다",
-  "구혜선",
-  "결혼식",
-  "pba 팀리그",
-  "쓰레기 봉투",
-  "성훈"
+  "날씨",
+  "몸매",
+  "암모니아 가스",
+  "정철원",
+  "중대범죄 수사청",
+  "송민호",
+  "담보 대출",
+  "주성엔지니어링",
+  "유시민",
+  "3기 신도시"
  ],
  "news": [],
  "hot": [
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "가상자산 '불기둥'에 밈코인도 '들썩'…주요 종목 10%대 '쑥'[특징코인]",
+   "q": "불기둥",
+   "heat": "뉴스1 · 08/20 17:38",
+   "article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xbW01N3d6NzhzYTFLX0xXUUdXaE1xX1lBMzhkRnNfeF8wVUNsV0NMc2FONjlCOW1NN0tMU0Z3OUNIcXRMVkZfRVQ5MG9Yd2VlUDRHOG1Ua0trTC1sTTBTY0YzQzNYcElfOXJZ0gFrQVVfeXFMT3FtbTU3d3o3OHNhMUtfTFdRR1doTXFfWUEzOGRGc194XzBVQ2xXQ0xzYU42OUI5bU03S0xTRnc5Q0hxdExWRl9FVDkwb1h3ZWVQNEc4bVRrS2tMLWxNMFNjRjNDM1hwSV85clk?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
   {
    "plats": [
     "tiktok",
@@ -32,22 +44,10 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "화제의 그록봇, 실전 활용 사례 5가지",
-   "q": "화제의 그록봇, 실전 활용 사례",
-   "heat": "AI 코리아 커뮤니티 뉴스레터 · 08/20 06:01",
-   "article": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAyUm9RcG05QTBaMEtsQ3FySV9MWmJ2VnQ3T29wNE01RHI5QUROS1ZqV1pZRllXNGc5bEZMYjUyYnY3MzZ2dFdncmxIdEE4NlgyYWRPVmJGTGxIM2hWaGJEdVFhRllUd2VieXZ0RQ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "'대세' 리센느, 떴다 하면 화제성 폭발… '전참시' '놀토'로 1·2위 싹쓸이",
-   "q": "대세",
-   "heat": "news1.kr · 08/19 17:14",
-   "article": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBBdl8tbDFsT3hrZ2dEcUt4Qy1wOUFISEJuTVd1djhQYW9YMHdHTTUyZmY5dE5fci13emFNQUZfQWpVSEdKM2JISGNJanNXYXlWa3VwQjFaWWttV0VoWXhOYVBoRnhrWXFUS0HSAWpBVV95cUxQQXZfLWwxbE94a2dnRHFLeEMtcDlBSEhCbk1XdXY4UGFvWDB3R001MmZmOXROX3Itd3phTUFGX0FqVUhHSjNiSEhjSWpzV2F5Vmt1cEIxWllrbVdFaFl4TmFQaEZ4a1lxVEtB?oc=5",
+   "t": "걸그룹 리센느 멤버 메이 생일 고양시 응원 콘텐츠 화제",
+   "q": "걸그룹 리센느 멤버 메이 생일",
+   "heat": "v.daum.net · 08/20 14:39",
+   "article": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nM0NDbkNZZ0taZ3BSNXhKMHJ1SmpKa0xJWjZ1TkFIUjN1bzZWTzh1SkVBUU9KQ3JOcWEtUFM1eXZMQV96Uy05ZTFNakF2cVE?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -68,10 +68,58 @@
     "threads"
    ],
    "tag": "밈",
-   "t": "뉴라이 밈코인 4700만달러 찍었다…창펑 자오 소각설은 해프닝",
-   "q": "뉴라이 밈코인 4700만달러 찍었다 창펑",
-   "heat": "tokenpost.kr · 08/18 07:27",
-   "article": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pbkpkSkZfTlhYdHpWVU5zQklVWEZTTktBSjZWMTdMbkh3QTNfZnNpVW1TZWk1NXB6ai00SDhPNlNIdGRzZkM0enN0TGZ4YWZya3BLLTNaRGZqaXBEZ2tqZHBfYzJJd9IBZkFVX3lxTE9pbkpkSkZfTlhYdHpWVU5zQklVWEZTTktBSjZWMTdMbkh3QTNfZnNpVW1TZWk1NXB6ai00SDhPNlNIdGRzZkM0enN0TGZ4YWZya3BLLTNaRGZqaXBEZ2tqZHBfYzJJdw?oc=5",
+   "t": "‘거제 야호’ 역주행 신화 리센느…극한 호우 할퀸 거제에 5000만 원 기부",
+   "q": "거제 야호",
+   "heat": "부산일보 · 08/20 10:40",
+   "article": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2Q0JTc3N0ZGRlS2N0ZHJabVBQemZlUVFDS2hRYUVFajVFSVRfak9aVDJ6RzBNM2JhZk1VTnQ0Z2FSUlpZU2xrWE9IMG9Vckc2Rmw1OTE1X1BGdFJhY3lGdWdtTTBMU293R0JoN1dNTjlMSmR2U0h6Sk9PWm8?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "x"
+   ],
+   "tag": "K-POP",
+   "t": "NEXZ on Instagram: \"#세븐틴 #디노 선배님과 쏘씬 쏘씬 🥫 @saythename_17 @feat.dino #NEXZ #TOMOYA #SEVENTEEN #DINO #SAUCIN #NEXZ_SAUCIN #SAUCIN_Challenge\"",
+   "q": "NEXZ on Instagram: \"#세븐틴 #디노",
+   "heat": "t.co · 08/20 21:00",
+   "article": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFA2aVNyWVpraG91d0tpc2VhZnBrMWFyOVVKY1k4cG9lQXlOVWpHVC1PczFaTGhzbVVtWm0w?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "챌린지",
+   "t": "'K-푸드' 넘어 'K-소스' 시대… 글로벌 식탁 주연 부상",
+   "q": "K-푸드",
+   "heat": "더바이어 · 08/20 08:35",
+   "article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ycUY2MEU0aExrZ0tKMXR0MmhXeXpHeEFQODVpYmFVYVRnUzhpYXZjREFBQ2g2N2E5eERITjk2T3BxeDVPc3RjU3BxaTRPRnJIUVR4TlpVT2RSRnJTVGE2SUpxajlseUFKUzBv?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "AI로 쓴 글 다 걸리겠네…'식별률 99%' 美 스타트업 뭉칫돈 몰려",
+   "q": "식별률 99%",
+   "heat": "네이트 · 08/21 06:30",
+   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94eGNNNG1wZTZ2cTdVNGZrYzNma0xuMFliTm12RmY3VjAzcGhyanlVOXVlQTVFZWN5SWNyOW9tc1RCYTV1bWJCTDQ2cnBzcDdfZzZz?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "[익산24시] 익산시, 유튜브 콘텐츠 '풍향중-익산로드' 누적 조회 2000만 회 돌파",
+   "q": "풍향중-익산로드",
+   "heat": "시사저널 · 08/20 20:02",
+   "article": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53bmV0bFRsdkxYM0wtZ2NkenZVU0xVQXNOMXlabmNPX1hDMmNqcGpPQjdpV3dPLUh3Z3dnaWJucXZiN3RRTXVQQTVYeDJPTkZOSGVYakhoblAyZ3EwZ3c4dHdib2xCaHliaXc5Zjg5Qmd3V2vSAXNBVV95cUxOd25ldGxUbHZMWDNMLWdjZHp2VVNMVUFzTjF5Wm5jT19YQzJjanBqT0I3aVd3Ty1Id2d3Z2libnF2Yjd0UU11UEE1WHgyT05GTkhlWGpIaG5QMmdxMGd3OHR3Ym9sQmh5Yml3OWY4OUJnd1dr?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -83,55 +131,7 @@
    "t": "리센느, 거제 수해 복구에 5000만원 기부… 팬덤도 동참",
    "q": "리센느, 거제 수해 복구에 5000만원",
    "heat": "Chosunbiz · 08/19 17:21",
-   "article": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUjVHMUZZTzdNRVk3VHROdUhqR05WS2V3ZEEyTVNfb1E1VzAtZGRnVmtwNW1OWG43bDBxeGZXQnREMVlHd0tITjYyVHc4YVBVTjBrRXZDZW9aclUzeGNHcXVPWXdZZDRvblBpSFhLNksySENZTnRtVW1rOFZrTFVNRkhHaS1OTUdUcUE0aHZoNm5hUTVLb0ZkNU9IZG5WajBFbGV0OGVkUdIBpwFBVV95cUxPUjVHMUZZTzdNRVk3VHROdUhqR05WS2V3ZEEyTVNfb1E1VzAtZGRnVmtwNW1OWG43bDBxeGZXQnREMVlHd0tITjYyVHc4YVBVTjBrRXZDZW9aclUzeGNHcXVPWXdZZDRvblBpSFhLNksySENZTnRtVW1rOFZrTFVNRkhHaS1OTUdUcUE0aHZoNm5hUTVLb0ZkNU9IZG5WajBFbGV0OGVkUQ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "x"
-   ],
-   "tag": "K-POP",
-   "t": "역시 무대서 잘 논다…넥스지, 신곡 'SAUCIN'' 무대 최초 공개",
-   "q": "SAUCIN",
-   "heat": "네이트 · 08/18 10:51",
-   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LNHR0OWl2a3JuR1ZjZE5SenV3Q3FFcUxMOVJrbDFKSzVYRTk3RF9VLUl6dmNMc3drZnN0cDRYUmRGc2xmQ2xpYjhWRzJnTUdTUGVZMElXMk9Va195YkVEbA?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "‘우유말먹’ 이은 ‘아박가토’…‘아박 유니버스’ 키우는 투썸플레이스 [현장+]",
-   "q": "우유말먹",
-   "heat": "쿠키뉴스 · 08/18 19:37",
-   "article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CQWtZVUtvUm1JbDYxTHRGOWNUa3Q2MHVZOFNIQ0pndEp6OHNkVUZwdjVuendYZTVic3IxM1hHeW51TURWM1pEZEtBR1VUUEM2QXRXZ2d4RTAtc21HcnVvVGtkVQ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "이즈피엠피, ‘AI관광 기술기업’으로 도약",
-   "q": "AI관광 기술기업",
-   "heat": "잡포스트 · 08/19 17:19",
-   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoRi1mZjlPOTMxRWJOSUZEY2t0OElWNllZVERpMktLZHN6eDhrUGM0c1NYQVRTYjhKUjAxdTNuYnJFRUh0S2xPZ2RkbWdDcnZtVUctOEZZSDB4ZkFQMHNlSTFqU0IxZV9EQ3g5SzFB0gFyQVVfeXFMTVBvWVdkREpjN2prTTZ5U09JdUVhS1AzWlBXX1BlckxXb0JVeGZMWGMtcFVCNTAwdFhjWEpBS0Q0U3BGUVlLMmIySm1NTU1TUGpQM0RmY1R4SWFDY3c0bUJQeVVKUVJSOEVvTlVSNjNXTzlB?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "AI로 나의 인생 다큐를 만든다",
-   "q": "AI로 나의 인생 다큐를 만든다",
-   "heat": "v.daum.net · 08/19 14:50",
-   "article": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE94SnVxeUN5aDIwNTRYQXVTQVdjb3VQUzhjZ3VpZ2JvdW9QbUwxcUpPQ0MxcDduLTMxM016RElKNGFMRHhRNlJMejlXOW5vdG8?oc=5",
+   "article": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONy0yU0JfeGwxUS1JWEJCbVp3QkZGR2JXcUk0WlRNZ3R1SFVnVlljdUJMOUVOTlpZcEZqNVdLUTM3OThIRDVld0YtTGwzYXJmVTBoRWZWeDFUcUNwMkt6ekZGWUtkMGJtYjhORDZWRTJpaHgxVkFyTGpwV0VWSEU2dlFoZnE1RTRtUmx4eldhRFJkZkXSAacBQVVfeXFMT1I1RzFGWU83TUVZN1R0TnVIakdOVktld2RBMk1TX29RNVcwLWRkZ1ZrcDVtTlhuN2wwcXhmV0J0RDFZR3dLSE42MlR3OGFQVU4wa0V2Q2VvWnJVM3hjR3F1T1l3WWQ0b25QaUhYSzZLMkhDWU50bVVtazhWa0xVTUZIR2ktTk1HVHFBNGh2aDZuYVE1S29GZDVPSGRuVmowRWxldDhlZFE?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
