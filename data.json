@@ -1,16 +1,16 @@
 {
- "updatedAtKST": "2026-08-21 08:32",
+ "updatedAtKST": "2026-08-22 08:30",
  "trends": [
-  "날씨",
-  "몸매",
-  "암모니아 가스",
-  "정철원",
-  "중대범죄 수사청",
-  "송민호",
-  "담보 대출",
-  "주성엔지니어링",
-  "유시민",
-  "3기 신도시"
+  "염증",
+  "수도권 광역급행철도 c노선",
+  "처서",
+  "김요한",
+  "국내총생산",
+  "치맥",
+  "죽음의 조",
+  "테일러 프리츠",
+  "세단",
+  "이란 대통령"
  ],
  "news": [],
  "hot": [
@@ -46,8 +46,8 @@
    "tag": "AI",
    "t": "걸그룹 리센느 멤버 메이 생일 고양시 응원 콘텐츠 화제",
    "q": "걸그룹 리센느 멤버 메이 생일",
-   "heat": "v.daum.net · 08/20 14:39",
-   "article": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nM0NDbkNZZ0taZ3BSNXhKMHJ1SmpKa0xJWjZ1TkFIUjN1bzZWTzh1SkVBUU9KQ3JOcWEtUFM1eXZMQV96Uy05ZTFNakF2cVE?oc=5",
+   "heat": "news.sbs.co.kr · 08/20 14:37",
+   "article": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CQ1dvRGhqRGUycFRoeWhYcWtmcm9fa1BzTjdUZlJfekVaS0hwRHpVak9UUjh3OUZyX2Z5UTNFLWowWElHZ2pyNHpOd29lSDBjdFVuMTBkYzNJOVRob005SXg3MDZPQQ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -56,10 +56,58 @@
     "threads"
    ],
    "tag": "밈",
-   "t": "'밈' 전쟁서 승리한 아이돌이 음원차트 휩쓰는 세상 [엔터그알]",
-   "q": "'밈' 전쟁서 승리한 아이돌이 음원차트",
-   "heat": "MTN 머니투데이방송 · 08/18 12:30",
-   "article": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HQUJUNUdHTFI1ODNnQVFaTm85c2ZFYzdhbkR1cU1xNFFWTmwtbnpKVlR1Y0ZpTld6a3RoNjV0ZUhNQXlReS00TXNBZnhUSnZ5NmpPaHcwaGt4VmdXWTRVTVhaN3c?oc=5",
+   "t": "돌아온 ‘고양고양이’, 숏폼 타고 시민 일상 속으로",
+   "q": "고양고양이",
+   "heat": "디스커버리뉴스(DISCOVERYNEWS) · 08/21 13:58",
+   "article": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pTmQ0cWNIb0xRZUkzNUZxOFlzQ2pfRjBONnppcUFnRWVBcXlENkdHeWo2Y040QTM5eDBlMHo5X25YandxNVdHbG1NTXAtZG5YNG5LdlBENTE0TDdrdFJndjNfRXRhSFFpQTFZek9RTEFOUQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "숏폼",
+   "t": "이슈 대응은 개발사가 가장 빠릅니다뮤즈직광고주모집",
+   "q": "이슈 대응은 개발사가 가장 빠릅니다뮤즈직광고주모집",
+   "heat": "아이보스 · 08/21 11:30",
+   "article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VX3JQSzA3UVpmanJtbHZ5bjNGRmx4dDk5MzhXSDR4dXBKUnFEdHBYeklLZVJVc2pEU0ZQWVgwZmFPZ3o3eElBQmZjckd0VmlQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "숏폼",
+   "t": "다음 4가지를 안하면 인스타 팔로워 늘리기는 어렵습니다",
+   "q": "다음 4가지를 안하면 인스타 팔로워",
+   "heat": "아이보스 · 08/21 11:24",
+   "article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XMUJMaW5JYm9Tc0c5Q0FmM1dTMThQZWVrZHhtQjV2Sm1EUnB3OEdQWmxyenNCM0IyaWpLTHVUUUE3WWI5TmRPcFZKTTIxaTRi?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "숏폼",
+   "t": "플레이스 실행 플랫폼 '루메인' 대행사 모십니다.",
+   "q": "루메인",
+   "heat": "아이보스 · 08/21 11:15",
+   "article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOS29qbVV4ajJGekFQc1BqMkdXRTk2QzRSTjByMDM5ZHp2Y1RYR2s3dGdoazJMblNtQVU3eVZsaDBFMFpRdDhOeG4tY25Dam03?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "숏폼",
+   "t": "쿠팡 리뷰체험단, 왜 어떤 상품은 순위가 오르고 어떤 곳은 반영조차 안될까?",
+   "q": "쿠팡 리뷰체험단, 왜 어떤 상품은",
+   "heat": "아이보스 · 08/21 11:15",
+   "article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IcEpuc2lWLXI5VkVPdGJGQmdJZjVPT1l2WFBZaGFjX0oyVFJWT0dEQlJ4d01EcnRyNkdjR3phMUEzTExuay1DdThYVXkydS11?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -77,18 +125,6 @@
   {
    "plats": [
     "tiktok",
-    "x"
-   ],
-   "tag": "K-POP",
-   "t": "NEXZ on Instagram: \"#세븐틴 #디노 선배님과 쏘씬 쏘씬 🥫 @saythename_17 @feat.dino #NEXZ #TOMOYA #SEVENTEEN #DINO #SAUCIN #NEXZ_SAUCIN #SAUCIN_Challenge\"",
-   "q": "NEXZ on Instagram: \"#세븐틴 #디노",
-   "heat": "t.co · 08/20 21:00",
-   "article": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFA2aVNyWVpraG91d0tpc2VhZnBrMWFyOVVKY1k4cG9lQXlOVWpHVC1PczFaTGhzbVVtWm0w?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
     "reels"
    ],
    "tag": "챌린지",
@@ -96,42 +132,6 @@
    "q": "K-푸드",
    "heat": "더바이어 · 08/20 08:35",
    "article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ycUY2MEU0aExrZ0tKMXR0MmhXeXpHeEFQODVpYmFVYVRnUzhpYXZjREFBQ2g2N2E5eERITjk2T3BxeDVPc3RjU3BxaTRPRnJIUVR4TlpVT2RSRnJTVGE2SUpxajlseUFKUzBv?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "AI로 쓴 글 다 걸리겠네…'식별률 99%' 美 스타트업 뭉칫돈 몰려",
-   "q": "식별률 99%",
-   "heat": "네이트 · 08/21 06:30",
-   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE94eGNNNG1wZTZ2cTdVNGZrYzNma0xuMFliTm12RmY3VjAzcGhyanlVOXVlQTVFZWN5SWNyOW9tc1RCYTV1bWJCTDQ2cnBzcDdfZzZz?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "[익산24시] 익산시, 유튜브 콘텐츠 '풍향중-익산로드' 누적 조회 2000만 회 돌파",
-   "q": "풍향중-익산로드",
-   "heat": "시사저널 · 08/20 20:02",
-   "article": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53bmV0bFRsdkxYM0wtZ2NkenZVU0xVQXNOMXlabmNPX1hDMmNqcGpPQjdpV3dPLUh3Z3dnaWJucXZiN3RRTXVQQTVYeDJPTkZOSGVYakhoblAyZ3EwZ3c4dHdib2xCaHliaXc5Zjg5Qmd3V2vSAXNBVV95cUxOd25ldGxUbHZMWDNMLWdjZHp2VVNMVUFzTjF5Wm5jT19YQzJjanBqT0I3aVd3Ty1Id2d3Z2libnF2Yjd0UU11UEE1WHgyT05GTkhlWGpIaG5QMmdxMGd3OHR3Ym9sQmh5Yml3OWY4OUJnd1dr?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "리센느, 거제 수해 복구에 5000만원 기부… 팬덤도 동참",
-   "q": "리센느, 거제 수해 복구에 5000만원",
-   "heat": "Chosunbiz · 08/19 17:21",
-   "article": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONy0yU0JfeGwxUS1JWEJCbVp3QkZGR2JXcUk0WlRNZ3R1SFVnVlljdUJMOUVOTlpZcEZqNVdLUTM3OThIRDVld0YtTGwzYXJmVTBoRWZWeDFUcUNwMkt6ekZGWUtkMGJtYjhORDZWRTJpaHgxVkFyTGpwV0VWSEU2dlFoZnE1RTRtUmx4eldhRFJkZkXSAacBQVVfeXFMT1I1RzFGWU83TUVZN1R0TnVIakdOVktld2RBMk1TX29RNVcwLWRkZ1ZrcDVtTlhuN2wwcXhmV0J0RDFZR3dLSE42MlR3OGFQVU4wa0V2Q2VvWnJVM3hjR3F1T1l3WWQ0b25QaUhYSzZLMkhDWU50bVVtazhWa0xVTUZIR2ktTk1HVHFBNGh2aDZuYVE1S29GZDVPSGRuVmowRWxldDhlZFE?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
