@@ -1,19 +1,31 @@
 {
- "updatedAtKST": "2026-08-22 08:30",
+ "updatedAtKST": "2026-08-23 08:27",
  "trends": [
-  "염증",
-  "수도권 광역급행철도 c노선",
-  "처서",
-  "김요한",
-  "국내총생산",
-  "치맥",
-  "죽음의 조",
-  "테일러 프리츠",
-  "세단",
-  "이란 대통령"
+  "국가유공자",
+  "왕 즈이",
+  "여수시",
+  "김영옥",
+  "킬리안 음바페",
+  "모병제",
+  "축구 감독",
+  "집중호우",
+  "인공지능",
+  "백하나"
  ],
  "news": [],
  "hot": [
+  {
+   "plats": [
+    "tiktok",
+    "x"
+   ],
+   "tag": "K-POP",
+   "t": "오유진, 탈색 머리·걸그룹 비주얼 \"아이돌 팬들도 사로잡고파\" [엑's 인터뷰①]",
+   "q": "아이돌 팬들도 사로잡고파",
+   "heat": "네이트 · 08/23 06:25",
+   "article": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmT0xGUEJxeEF2N0hEZ3k1X3ZBLVZWRG53N29CVUd1WE43TE9WWWlZODJyUXh3eE9uaEZtWnBfcVBNaHowYXJGeTd2Xy0xeUIzc2lUMVI1YUdvLTd4enRySGJZWEtPZ2V5Y2dsY1BmWFMwSjkzbEFtWQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
   {
    "plats": [
     "x",
@@ -22,20 +34,20 @@
    "tag": "밈",
    "t": "가상자산 '불기둥'에 밈코인도 '들썩'…주요 종목 10%대 '쑥'[특징코인]",
    "q": "불기둥",
-   "heat": "뉴스1 · 08/20 17:38",
-   "article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xbW01N3d6NzhzYTFLX0xXUUdXaE1xX1lBMzhkRnNfeF8wVUNsV0NMc2FONjlCOW1NN0tMU0Z3OUNIcXRMVkZfRVQ5MG9Yd2VlUDRHOG1Ua0trTC1sTTBTY0YzQzNYcElfOXJZ0gFrQVVfeXFMT3FtbTU3d3o3OHNhMUtfTFdRR1doTXFfWUEzOGRGc194XzBVQ2xXQ0xzYU42OUI5bU03S0xTRnc5Q0hxdExWRl9FVDkwb1h3ZWVQNEc4bVRrS2tMLWxNMFNjRjNDM1hwSV85clk?oc=5",
+   "heat": "네이트 · 08/20 17:39",
+   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DeXJyaUUzYU1ZR2pFVEVxMk1tcVNBeGZwT0FKQV84dE96V3c4cENGV2JmZ1VZeGVaRDhhb0FaYzdDYW5OMUZEc1o0SEJSR0pWbGV3?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
    "plats": [
-    "tiktok",
+    "x",
     "reels"
    ],
-   "tag": "챌린지",
-   "t": "유행은 옷장 아닌 ‘손끝’에서 시작한다…네일, 마이크로 트렌드의 발원지로",
-   "q": "손끝",
-   "heat": "한국섬유신문 · 08/19 17:22",
-   "article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mNmR3WnplV1BzR3dhSFFEQzRuM29fM3N2czJBUnB2c2FpNU1nS2Rham9VYk9YdXVhY3RMZjdJMGhrMDFtUks5ZFhOZkJOR1BTcXpEd3plN250dmlLdDlNZEZCVnJPSmc?oc=5",
+   "tag": "AI",
+   "t": "인공지능이 학생들의 꿈을 현실로 만들어줄 때.",
+   "q": "인공지능이 학생들의 꿈을 현실로 만들어줄",
+   "heat": "Vietnam.vn · 08/22 18:17",
+   "article": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNejFqQjM1aXJYU1ZLVWcySmtpWHM1THFocUxYWlZ1aGc3WWMwcGhtTkNQVUhsTDcyQ2lKbEp3SzhUMXFVVTBWYUlSQXZJLUFaVURrTFYzenV3SnlRZ09HYlFiQ19rMUN6TkEzZkRiMWt1UmdQNFBnXzlVVVhzLXkxUg?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -46,8 +58,8 @@
    "tag": "AI",
    "t": "걸그룹 리센느 멤버 메이 생일 고양시 응원 콘텐츠 화제",
    "q": "걸그룹 리센느 멤버 메이 생일",
-   "heat": "news.sbs.co.kr · 08/20 14:37",
-   "article": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CQ1dvRGhqRGUycFRoeWhYcWtmcm9fa1BzTjdUZlJfekVaS0hwRHpVak9UUjh3OUZyX2Z5UTNFLWowWElHZ2pyNHpOd29lSDBjdFVuMTBkYzNJOVRob005SXg3MDZPQQ?oc=5",
+   "heat": "v.daum.net · 08/20 14:39",
+   "article": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE12QTlXLTJfWWxGZGFBSzNWcDBOcng0dDVBTFdDZEEtUDl1T2piV25pX2s2aU5mNXRoMTJLUXVwWXFBeDJobEFDdFJZblNidFhCc2F1dw?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -60,6 +72,30 @@
    "q": "고양고양이",
    "heat": "디스커버리뉴스(DISCOVERYNEWS) · 08/21 13:58",
    "article": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pTmQ0cWNIb0xRZUkzNUZxOFlzQ2pfRjBONnppcUFnRWVBcXlENkdHeWo2Y040QTM5eDBlMHo5X25YandxNVdHbG1NTXAtZG5YNG5LdlBENTE0TDdrdFJndjNfRXRhSFFpQTFZek9RTEFOUQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "AI 시대, 광고·마케팅의 영향력을 어떻게 증폭할 것인가… 2026 부산국제마케팅광고제 컨퍼런스 공개",
+   "q": "AI 시대, 광고 마케팅의 영향력을",
+   "heat": "국민기자뉴스 · 08/22 06:30",
+   "article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PVXN5eHh1cmlkZlhIRWhJM2hKa3hDZmJQODE0dHRQdXVsYkRzQ2ZoZjBqMWV4am9PbDlaSDdEWDJ2Q0NMU2NuQS1zZlhoblUzTHNGVGdWV1Q1ZDNJV3FRbkxsSdIBZ0FVX3lxTE1Wd0hxSEZUU09JRnQyNTFqRThpUzlXWlRfNzhmUVhubVRYaEs2V3pIcDNVdjhNMXB6dTN1MjIzV09xcEJhNlZ6aGNoVHlQMm9FTDU1Yy1IbV83djgzZFdjVndJcG1FNzg?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "x"
+   ],
+   "tag": "K-POP",
+   "t": "'전원 춤수저 그룹' 넥스지, 통통 튀는 만능 레시피 컴백",
+   "q": "전원 춤수저 그룹",
+   "heat": "네이트 · 08/20 15:42",
+   "article": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01S3JsbGVXa1ozY0NLdEQxNlpNaU9VOFFGVnVSQXNqWTljMlZaaS0ySUI0azdtQnI0ZVBRTGJrSU1kWkFUcDlqR0xUeEpVMFpfUGxXb29oNlBDaW42d2JQS1lJclFFRWNYLXV3VQ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -96,42 +132,6 @@
    "q": "루메인",
    "heat": "아이보스 · 08/21 11:15",
    "article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBOS29qbVV4ajJGekFQc1BqMkdXRTk2QzRSTjByMDM5ZHp2Y1RYR2s3dGdoazJMblNtQVU3eVZsaDBFMFpRdDhOeG4tY25Dam03?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "숏폼",
-   "t": "쿠팡 리뷰체험단, 왜 어떤 상품은 순위가 오르고 어떤 곳은 반영조차 안될까?",
-   "q": "쿠팡 리뷰체험단, 왜 어떤 상품은",
-   "heat": "아이보스 · 08/21 11:15",
-   "article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5IcEpuc2lWLXI5VkVPdGJGQmdJZjVPT1l2WFBZaGFjX0oyVFJWT0dEQlJ4d01EcnRyNkdjR3phMUEzTExuay1DdThYVXkydS11?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "‘거제 야호’ 역주행 신화 리센느…극한 호우 할퀸 거제에 5000만 원 기부",
-   "q": "거제 야호",
-   "heat": "부산일보 · 08/20 10:40",
-   "article": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2Q0JTc3N0ZGRlS2N0ZHJabVBQemZlUVFDS2hRYUVFajVFSVRfak9aVDJ6RzBNM2JhZk1VTnQ0Z2FSUlpZU2xrWE9IMG9Vckc2Rmw1OTE1X1BGdFJhY3lGdWdtTTBMU293R0JoN1dNTjlMSmR2U0h6Sk9PWm8?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "챌린지",
-   "t": "'K-푸드' 넘어 'K-소스' 시대… 글로벌 식탁 주연 부상",
-   "q": "K-푸드",
-   "heat": "더바이어 · 08/20 08:35",
-   "article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ycUY2MEU0aExrZ0tKMXR0MmhXeXpHeEFQODVpYmFVYVRnUzhpYXZjREFBQ2g2N2E5eERITjk2T3BxeDVPc3RjU3BxaTRPRnJIUVR4TlpVT2RSRnJTVGE2SUpxajlseUFKUzBv?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
