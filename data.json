@@ -1,29 +1,90 @@
 {
- "updatedAtKST": "2026-08-25 08:27",
+ "updatedAtKST": "2026-08-26 08:30",
  "trends": [
-  "송해나",
-  "아버지",
-  "빅뱅",
-  "김승현",
-  "중앙그룹",
-  "天気",
-  "비트코인",
-  "로베르토 데 제르비",
-  "사업",
-  "tsla"
+  "이다현",
+  "김숙",
+  "에코프로",
+  "mu",
+  "트렌드",
+  "카르다노",
+  "극초음속 활공체",
+  "장우혁",
+  "중국인",
+  "nvda"
  ],
- "news": [],
+ "news": [
+  {
+   "title": "‘오디세이’, SNS 점령…활시위→아르고스까지 밈 영상 쏟아진다",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE51ZTROZHhUc09jMjZiMG5ZZjFSb1ZVT1owSl9yUXZibHlpelhabTNBLVp4WHhrSlhfOUZ2blRGMkZ3VlhSbERUSWkzSW5XX1RCRjVGYm1SM2swdWV4MjEyMmR3?oc=5"
+  },
+  {
+   "title": "'오디세이', SNS 챌린지·밈 열풍 힘입어 천만 관객 돌파 기대",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iaUZnVFAyc0NURC1sQlVHNWh5M1pLMVB5M2pyS04wc25nU2liVG5jNHRzRlVsdk5GaWlUTVQwWE9lX1BISmlBcXkxSkNjNGlkdGg4UzNEakl1TXhMRTkwaEk0V3Q3bXd6Sm0wVg?oc=5"
+  },
+  {
+   "title": "'오디세이', SNS 점령…활시위→아르고스까지 밈 영상 쏟아진다",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Mamc3Y3pVRUtHSWQ3Q0xINjhXRk1QRlZmSzk5aTYwUmRyMzVJNFRNUkl2T0o1dlkxVGRqcTNnMk92Rnh3V1RGVVBHSDhWdXYwQjBWWHVqVXBYRzJKdlUwVEE0bk9zLWF6aG9JaQ?oc=5"
+  }
+ ],
  "hot": [
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "[계층] 해외에서 유행하는 헐크 밈",
+   "q": "계층 해외에서 유행하는 헐크 밈",
+   "heat": "인벤 · 08/25 17:24",
+   "article": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9DRUdfUWZPbE9Ga2JrbkpCeEJXclhkWVRwTjBzOVRheTJQdmtPa3pfR1d0MjBwR3RFckZkeVBFVVpYb3U1RXhSSEdiU0ZPZTUtNlJWSU9TZEdYLUhNb0w0?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
   {
    "plats": [
     "tiktok",
     "reels"
    ],
    "tag": "챌린지",
+   "t": "‘오디세이’ 23일 연속 최장기 예매율 1위…SNS에선 챌린지 ‘후끈’",
+   "q": "오디세이",
+   "heat": "v.daum.net · 08/25 08:19",
+   "article": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE16TEZIOGo3ekRicmRyT2dRYUVlZzB2T2szckUwaWNrZUEtNE16NmVsMDFPV1ZFTGZLSFAzdDVyOFh6ZXZBUkE?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
    "t": "'오디세이' 23일 연속 최장기 예매율 1위…SNS에선 챌린지 '후끈'",
    "q": "오디세이",
    "heat": "네이트 · 08/25 08:19",
    "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zaWFOX0pmcnNrclI3czBNSmFhMTNJTElqRzIyRGV2LUUzTWdLWXgyXzlNY0l4aXBsYzlFdGczYndxbkxYTHRyQTVJLWtWTjZMVkpR?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "양산인공지능고, 학생·교직원 1인 1자격증 '화제'",
+   "q": "화제",
+   "heat": "양산신문 · 08/26 07:40",
+   "article": "https://news.google.com/rss/articles/CBMib0FVX3lxTE03ZW9McUp3ckR4SWw2WEFwZVBTdGFpY2ZJZTlNbHNWTHp3a09NMFJWSW5heHNhSWREWXZ2aDJBRHpUOV9PVHd2ZWFkWHc1TmF4VXdvUmNxVVFBejBaeFdTMl96U2EzZHlIOGlTUzdIUQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "x"
+   ],
+   "tag": "K-POP",
+   "t": "'오디세이', SNS 챌린지·밈 열풍 힘입어 천만 관객 돌파 기대",
+   "q": "오디세이",
+   "heat": "네이트 · 08/25 12:26",
+   "article": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iaUZnVFAyc0NURC1sQlVHNWh5M1pLMVB5M2pyS04wc25nU2liVG5jNHRzRlVsdk5GaWlUTVQwWE9lX1BISmlBcXkxSkNjNGlkdGg4UzNEakl1TXhMRTkwaEk0V3Q3bXd6Sm0wVg?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -36,6 +97,30 @@
    "q": "귀여움 한도 초과",
    "heat": "네이트 · 08/24 18:46",
    "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9KQUpEM0FTWmx3c3VMeGtCeWdqVFRoWHdRTlZtTVgxZE9qZllVN1VfR1ozMzZqTmNxdlFSdG8zTU02akNJLUxwQjBkUjVWVG96Z1N6XzE3QlhoLTNtT29ndw?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "반응 엇갈리는 `나혼산` 전현무 즉흥여행…그래도 화제성은 1위 [공식]",
+   "q": "반응 엇갈리는 `나혼산` 전현무 즉흥여행",
+   "heat": "마이데일리 · 08/25 13:20",
+   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kTElYb3JrbmhpMEFrY2ZhNUNBTEhoZHozRlJRX2lRZXhyMzJqbEpDa2hwbGFYcE9UaWFIRU5EcFE2dkh3SXp3Mkc1UEJKR01IVklJUEJodUk3WlNGaUg1Yw?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "x"
+   ],
+   "tag": "K-POP",
+   "t": "알파드라이브원 준서, 컴백 이틀만 리포터 변신…생방송 도전",
+   "q": "알파드라이브원 준서, 컴백 이틀만 리포터",
+   "heat": "네이트 · 08/25 12:22",
+   "article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tQXQ5VGhwWEdvWmNCdXJud2o0Nm82YmVHYWgyaG83Q3ZNOXVrVnA1LWZvRlU2S1ljMXVRV2N5aFhrOHo1MlQyWFc4b2VRWk82VUMzYjZBZzN3Ujc0aXR4V2t6MWZ6UjBCMk9EMW5RWV9RS3ZzNUlXeg?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -58,80 +143,8 @@
    "tag": "밈",
    "t": "이현우 맞아?…한때 박보검 닮았다고 화제였는데, 요즘은 연극계서 특급 팬서비스",
    "q": "이현우 맞아? 한때 박보검 닮았다고",
-   "heat": "v.daum.net · 08/23 14:31",
-   "article": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9xY3JYRl9XM2RxcjZ2SDJoY3Q0dElyMmFpb2djdC1GQ3RiWnhvbnVQX0o4ZTFXazhCSnRXMEFOWWhqV0FYUnc?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "챌린지",
-   "t": "boldpage.global",
-   "q": "boldpage.global",
-   "heat": "t.co · 08/24 20:26",
-   "article": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9fdXBUWE1ZQkFQWGtQYW1JN09TcEJBTFIyQnJRUHhxUUc0NXdldENVaVYzQ3pOZzZtVkV3?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "이름 숨기고 공짜로 풀린 AI ‘옥스 알파’ 화제…이번에도 중국산?",
-   "q": "옥스 알파",
-   "heat": "조선일보 · 08/23 14:43",
-   "article": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQempsN0k3cTFMbExLMVhwTFBHeVBrUjJOVEFSMnhwalg1U0ZlU3JxZDA1Ri01dnBOZGp5X0RKcVF1N2J0NG5sdjdaMU1YWEJLTlZib01BVFZQLS1Sb1htSWZGRUhpR2xCa09VOFg0aTgzV2ZXMVZjVWw1NS1TNHFha0dHdw?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "x"
-   ],
-   "tag": "K-POP",
-   "t": "\"원이가 같이 방송하고 싶다고\" 최홍만, 리센느 챌린지 비하인드 방출 ('전참시')",
-   "q": "원이가 같이 방송하고 싶다고",
-   "heat": "네이트 · 08/23 00:51",
-   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1iRTlqUDJ0cFBmb3FkS1JkYUxDeWUxWUh5dHZTX0paV2NBX180VEl3UmNvUzBaNGZKb0FOSlRadjg0Ulk0S3B3OTI2aE44R2NLZTNfMV9Wc3czTkNQeDJ5Yw?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "손짓·표정까지 똑같다…'사람 같은' AI 기상캐스터 등장[1일IT템]",
-   "q": "사람 같은",
-   "heat": "네이트 · 08/25 07:01",
-   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ueUN2RDVJUWticzRpWHpOYm9YYk1oUXBIak1DU1RrTDRWRUZBQ0FTX1ByNGJjX3pRcmRFSXJldUZCVHlnNTdiMFAwUUpNRlg0NmhZ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "바다의 안전을 디자인하다…\\'해양안전 콘텐츠 공모전\\' 개최",
-   "q": "해양안전 콘텐츠 공모전\\",
-   "heat": "해양레저신문 · 08/25 03:18",
-   "article": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XVUlfOUNmanR5U2hTaGtySXVtNTdJWTV1YUVGWWtqaUptZ05IMVRCa2haX0F2eUxvVFp3SzBqQmJibW5yS0FKdlFFMnVJWWxrRkxQeXNkVQ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "'거제 홍보대사' 리센느, 성금 이어 수해복구 음료도 지원",
-   "q": "거제 홍보대사",
-   "heat": "연합뉴스 · 08/24 18:47",
-   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1VTllUZXRBc05mWi1IbGJoLWU3dEtZaUw4T0tDNFBHQXpNeHBhN3hzeEpUWFViTWxBTGhvLTBYTERCUmN0cEJralhXemxYTXJ3UmZEekIxSkdWeFo1Q3VqbNIBYEFVX3lxTE1VTllUZXRBc05mWi1IbGJoLWU3dEtZaUw4T0tDNFBHQXpNeHBhN3hzeEpUWFViTWxBTGhvLTBYTERCUmN0cEJralhXemxYTXJ3UmZEekIxSkdWeFo1Q3VqbA?oc=5",
+   "heat": "텐아시아 · 08/23 14:29",
+   "article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xNE1pSlhsLUVkX01HZ3VvWlZ1cWJhVTVEcHU3MmFTOHpsQ25TNTJtbnNKVjdNajA5OXluLWhXcDBYbjNFTDZSMUdMaTNkMXBKeWxRM1RqRkxoNWc?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
