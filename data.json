@@ -1,18 +1,27 @@
 {
- "updatedAtKST": "2026-08-28 15:50",
+ "updatedAtKST": "2026-08-29 13:06",
  "trends": [
-  "여의도 시범아파트",
-  "불",
-  "한덕수",
-  "대전 날씨",
-  "이언주",
-  "한진칼",
-  "비밀이야",
-  "나이키",
-  "ok저축은행",
-  "환율"
+  "오연수",
+  "용종",
+  "유재석",
+  "엄태웅",
+  "자폭",
+  "션",
+  "창신메모리테크놀로지",
+  "포스코노동조합",
+  "찰스 3세",
+  "공장"
  ],
- "news": [],
+ "news": [
+  {
+   "title": "“아이돌 남동생 있으면 좋은 점?” 크래비티 형준, 누나들과 ‘현실 남매’ 케미 폭소",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE41MGtyUHNPYVRuaGNqS01nQTNYREJFU3JBNVJlc0NQNWI4TWNqM2lOaTJlSHBwaDZ6NFYxZVRmSWFESzF0LTMxOEdWNA?oc=5"
+  },
+  {
+   "title": "\"아이돌 남동생 있으면 좋은 점?\" 크래비티 형준, 누나들과 '현실 남매' 케미 폭소",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYYmVMWUJpRTVPYUNjaEFZZ3d4bXV1UGRTRDZGVU9iU3BoLUFoN0lHNmZGVVpyZTh0eUZmcUdMQ3ZtQjRmb05Tbm1tbjNKSEFYTW40?oc=5"
+  }
+ ],
  "hot": [
   {
    "plats": [
@@ -22,8 +31,20 @@
    "tag": "밈",
    "t": "발가락 양말에 굴비 키링까지? 이해하기 어려운 요즘 유행 설명해 드림",
    "q": "발가락 양말에 굴비 키링까지? 이해하기",
-   "heat": "캐릿 Careet · 08/28 10:04",
+   "heat": "캐릿 Careet · 08/28 15:37",
    "article": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1uWThzMEdaaEtUNWYwNzFwZm42WXRIYlJfNkNkVUwtak5xZlRJSU90V0NvemphRy1TX2RjQ3gxSmQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "에버랜드 블러드시티 10주년 티저 화제 > 뉴스",
+   "q": "에버랜드 블러드시티 10주년 티저 화제",
+   "heat": "더코리아 · 08/28 23:54",
+   "article": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMYzlaaUJBc2o5VTJ0bmRycDhVOTNLREUxa2MzaUlNWmYtNVRKaTg3U0tMeXhjTDBHTWl2bFczaHEtcGZGT3NXRFlrRHUyYWczV21pVE9NTFQ2b3RrY2g2dGYtZHlOakItVnlaWUpqd0E?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -47,19 +68,7 @@
    "t": "리센느 덕에 유통가도 '야호'…매출·화제성 '쑥쑥'→러브콜 쇄도",
    "q": "야호",
    "heat": "머니투데이 · 08/28 11:01",
-   "article": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1UXd1b0Fwa1F3aUZaU2NVMGw3ZTJaekRfSDh1aXl6cXczeGM3ZjdXZTdXVXdwTm1vM3d5cGlvcnZ2eVFiNDBWbmFmRlVtal9KQXhLMkFENDZzcUdZbXlzNWYxVG9VMVhvSGxpS2dtNNIBb0FVX3lxTFB1UXd1b0Fwa1F3aUZaU2NVMGw3ZTJaekRfSDh1aXl6cXczeGM3ZjdXZTdXVXdwTm1vM3d5cGlvcnZ2eVFiNDBWbmFmRlVtal9KQXhLMkFENDZzcUdZbXlzNWYxVG9VMVhvSGxpS2dtNA?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "x"
-   ],
-   "tag": "K-POP",
-   "t": "윤주모도 칠과 함께 블링이 챌린지 블링이블링이 빠져들어~🚀 #NCT127 #Blingy_CHALLENGE #태용 #쟈니 #해찬",
-   "q": "윤주모도 칠과 함께 블링이 챌린지",
-   "heat": "t.co · 08/27 20:52",
-   "article": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE03eldRZ3hBVU50ODgxekVVLXdLaXo3ZVRKdjUxTDJKZ182WTJ1bUg0YlFqYUo3Q2dNYjMw?oc=5",
+   "article": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xWTl5elJ2c3BqNlB2bkItQ0FycEJPQlBtSFNmX3lfTVlvMXVGSzZScXVKc3hYS3NLLWtkM1pqOVBjV0kyZnZQTERNNWtYMDA4N0I0aU4xTDFQWm5mX2NPc3RwZjFhbkdOLVY1ODJkY2lrVkpla0dV0gF8QVVfeXFMUGVMcmJGSFhmWWlVOWZfM2pFbFlTOHpHbGRRUndFS0VBOW9hZDlUYkJRY3duMU5QelRTanl0RGI2ZldxUHg1QWt6UlVPaFFWMER3YVRYRm1Fdy1hSWxFUjgxZkNWbXRNODZoTmtzMFhFeHF3c2dKMENWa0lINg?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -82,8 +91,20 @@
    "tag": "챌린지",
    "t": "“아이돌 남동생 있으면 좋은 점?” 크래비티 형준, 누나들과 ‘현실 남매’ 케미 폭소",
    "q": "아이돌 남동생 있으면 좋은 점?",
-   "heat": "스포츠경향 · 08/27 17:12",
-   "article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80cGw4dk1qMnFyR2x4X1FaMlVHSU12WGN6N3FIbXpsYWVwbHZ3dnJuX2xQUTZuWHN3bFhpUVU2VFRQRTBLRTdEd1RXUDVzWjgybFZrRUd3YW5Pa25SQXfSAWNBVV95cUxNVk9hRkFtYTRyS2hhNkRCOHVNVGdtSTZ5anAyQzFUOC1nSjI0TDFCSjJOc1YxNEJTX0ZDeE9YOEZSNjdoM3o0QkFfbUxaMEdYaHhBejVCNW14VExYWkp5ZHljX28?oc=5",
+   "heat": "v.daum.net · 08/27 17:14",
+   "article": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE41MGtyUHNPYVRuaGNqS01nQTNYREJFU3JBNVJlc0NQNWI4TWNqM2lOaTJlSHBwaDZ6NFYxZVRmSWFESzF0LTMxOEdWNA?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "이젠 '융합'으로 고도화…中 'AI 드라마 왕국'이 된 배경은",
+   "q": "융합",
+   "heat": "네이트 · 08/28 16:14",
+   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0xazlCbVhNM2pnVGRyLUZGMUdKekp3QTZrN2NUd2VFUnRFZDFMTm8wWjZhYjZtZ3I1T3ZlNmFVeHBEQXN2NEhGaVNSRGN5b1drb0pN?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -120,18 +141,6 @@
    "q": "상품 찾아줘",
    "heat": "mstoday.co.kr · 08/28 09:38",
    "article": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82OGNDWUhIOFVoVjRhc3ROX0VreEhWQkRPMU1NbXBuY1dDYjFQVmdDUm5LUGNSaTRiem84ZGxQaEtBckhyNTZFcDItWC1LazdiUDM5NnJ0UV8yUnUwT0JWWTJ0U1hpa0ZJSUZpVQ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "동아오츠카 \"리센느 모델 발탁 후 나랑드사이다 매출 48% 증가\"",
-   "q": "동아오츠카 \"리센느 모델 발탁 후",
-   "heat": "연합뉴스 · 08/27 09:11",
-   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NOGFWRWhmQ2pNQi1JRkc0Q2xGZ0xMc1BzeE10RVJocVhVdUFhTmlCV1prSnRQTzBDemZ2VWs3VDBLZEtoYzdrcEpNd3lCSElQeG9aWF9Ha01Ta29ZM2ItM9IBYEFVX3lxTE5NOGFWRWhmQ2pNQi1JRkc0Q2xGZ0xMc1BzeE10RVJocVhVdUFhTmlCV1prSnRQTzBDemZ2VWs3VDBLZEtoYzdrcEpNd3lCSElQeG9aWF9Ha01Ta29ZM2ItMw?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
