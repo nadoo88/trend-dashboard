@@ -1,18 +1,23 @@
 {
- "updatedAtKST": "2026-08-30 10:11",
+ "updatedAtKST": "2026-08-31 10:19",
  "trends": [
-  "메르세데스-벤츠 s 클래스",
-  "inter miami vs montréal",
-  "스페이스x",
-  "차두리",
-  "일본 엔",
-  "국민일보",
-  "서영교",
-  "dc 유나이티드 대 엘에이 fc",
-  "범죄",
-  "할인"
+  "안성시",
+  "드라이브",
+  "이범호",
+  "유리",
+  "부산광역시의회",
+  "남편",
+  "김원훈",
+  "유학생",
+  "외국인",
+  "보증금"
  ],
- "news": [],
+ "news": [
+  {
+   "title": "BTS·임영웅도 제쳤다고?…리센느, 멈출 줄 모르는 장기흥행 [SS뮤직]",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LZkszUlphM1ZFOEZsUmJHR21odnpWdHpWQjFubjR3bGZiYWo0MjBwYVJKN01Wekx1RzYtMkhxeFlqREpnQzZUdDZNd1pwUzMwX052VUlqQmZOR2hRaERPS25yZDJzX2RxYXduSA?oc=5"
+  }
+ ],
  "hot": [
   {
    "plats": [
@@ -29,6 +34,30 @@
   {
    "plats": [
     "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "실사 촬영 없이 만들었다…AI 아이돌 서리아, 오늘(31일) 데뷔",
+   "q": "실사 촬영 없이 만들었다 AI",
+   "heat": "텐아시아 · 08/31 09:00",
+   "article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84R1hSSWZteTJ1c09hUS0zTTdEREI0QUZNZkp1NEw0REswenBPWnI0S0d3dmttSU9lZUNUSkdReWRaQTVsaHJSb0xyckJkV3QxclRXSTdZTTdLSVE?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "“너무 기특하개”…CPR하는 강아지 ‘신디’ 온라인서 180만뷰 화제",
+   "q": "너무 기특하개",
+   "heat": "경기일보 · 08/29 18:12",
+   "article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QV2RoZUwwaEd4MUVfaXU5MWxiQUVYc0k4VHIwQmJLelhuWXNfRmFHZGRad05Vek1MMjM2WmxIX0xrdEw0aTc5bVFDdlp5dFVTdWVkTnFwOWhHUGc?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
     "threads"
    ],
    "tag": "밈",
@@ -36,6 +65,30 @@
    "q": "발가락 양말에 굴비 키링까지? 이해하기",
    "heat": "캐릿 Careet · 08/28 15:37",
    "article": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1uWThzMEdaaEtUNWYwNzFwZm42WXRIYlJfNkNkVUwtak5xZlRJSU90V0NvemphRy1TX2RjQ3gxSmQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "숏폼",
+   "t": "하이브 새 걸그룹 튜이드 성적은···역대 걸그룹 톱10",
+   "q": "하이브 새 걸그룹 튜이드 성적은",
+   "heat": "네이트 · 08/31 10:16",
+   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90UHRwQzJVc1VEQld0WVJyRTFlNnZBOVI3NTVLU2xrdzY0LWY2a0NCTXFNd2lRTEppUHJhdVM3eXkxMi03R19OYVI3dlBobEpzWDJRRTgtWDFtQWw3WXNjMQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "네팔 홍수 사망자 538명 속 가짜 AI 영상 확산…진위 판별은 결국 개인 몫",
+   "q": "네팔 홍수 사망자 538명 속",
+   "heat": "위키트리 · 08/31 02:28",
+   "article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SQmlpWlFpWG53VmI5TDdLcGNleUZNWnVLSjhicUxYT3I1TzNxekNXUVc0NzlYeDRRb3RndExXV2dRWXFCbUZyOVh5dkpQVEsxWlZEb2ZR?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -53,25 +106,13 @@
   {
    "plats": [
     "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "\"별세하자마자 코인으로\"…돌리 파튼 '밈코인' 우후죽순",
-   "q": "별세하자마자 코인으로",
-   "heat": "뉴시스 · 08/27 18:00",
-   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aazNuSTJFQTVSRUNyczJ2OE1yTXRwQmViNnQ2enhuRkF4RndQaXpITkZiTGswYXBVSEJaOUtkdkUzM3FwdEFLZGVXUmRsM3BjdG9PUHdTeFJmUTFydkIzc9IBeEFVX3lxTE8waW5iWFdjc2g2R09JSjVnOVlRMmRSSE1NRjFQcjFrSHJoTmpYMWMtd0VwTmNWVFJuRDZxWXB5ZURpbGhOTEhVNGpRUFVjOW8zU0JGWDBEVzc1SU0yT3EyWVBTVm5GVDV4QzNCWXBxRnJyc1ZBbDJJZg?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
     "reels"
    ],
    "tag": "AI",
-   "t": "리센느 덕에 유통가도 '야호'…매출·화제성 '쑥쑥'→러브콜 쇄도",
-   "q": "야호",
-   "heat": "머니투데이 · 08/28 11:01",
-   "article": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xWTl5elJ2c3BqNlB2bkItQ0FycEJPQlBtSFNmX3lfTVlvMXVGSzZScXVKc3hYS3NLLWtkM1pqOVBjV0kyZnZQTERNNWtYMDA4N0I0aU4xTDFQWm5mX2NPc3RwZjFhbkdOLVY1ODJkY2lrVkpla0dV0gF8QVVfeXFMUGVMcmJGSFhmWWlVOWZfM2pFbFlTOHpHbGRRUndFS0VBOW9hZDlUYkJRY3duMU5QelRTanl0RGI2ZldxUHg1QWt6UlVPaFFWMER3YVRYRm1Fdy1hSWxFUjgxZkNWbXRNODZoTmtzMFhFeHF3c2dKMENWa0lINg?oc=5",
+   "t": "[AI상보] '최민석 다승 선두·세베리노 韓 첫 홈런' 두산, 키움 15-1 대파",
+   "q": "최민석 다승 선두·세베리노 韓 첫 홈런",
+   "heat": "네이트 · 08/30 21:54",
+   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iMERRWDZfOW1PRzhYRnJyU2RyaVlOQVRPaW1fTVprSmhGam53VHU3NjN0Z0ozWWhVOFRxdFE1UWdfTG5HZU9waEtOOUZUV3ZDZEwxZ3NPZWFmY0ZIMkpiUA?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -96,42 +137,6 @@
    "q": "김부장",
    "heat": "미디어오늘 · 08/29 19:15",
    "article": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sb0tKNExkaFZMVWFJSmd6N1ZRZmpwYXRBOVNjbXRocFRfMm5Ed2dsTk1hUGZfZlFlOVltZmR3d29QLWVYOWNka000N2ZwclhiZ25PVlR2Z2IyMjRJWDgyT3A2MC1rSVBqcjJGdzk2am4?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "올해도 이어지는 북페어 트렌드, 군산북페어도 곧 열린다고? 📚 [이 주의 트렌드 ❤️‍🔥]",
-   "q": "올해도 이어지는 북페어 트렌드, 군산북페어도",
-   "heat": "뉴닉 · 08/28 16:20",
-   "article": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE14ZUJGckJRTHNiSkR5QzROQmw4TDljNFVNV1pFZEtla3V4cEN5MHI0UTNJSWFXX0g0YkJtQkQzM0lCTWZfcEFmV21iZy1vdXYyMzJBeE5wbw?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "숏폼",
-   "t": "\"자정 넘기면 릴스 차단\"…메타의 자진 셧다운, 韓 규제 입법 흔드나[사이다IT]",
-   "q": "자정 넘기면 릴스 차단",
-   "heat": "뉴시스 · 08/29 09:00",
-   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5ZkczOFlYZHd0MWtwV3BTdS0yT2doOFlCaXlfcGp3enZVUUxXTkxkemNPYmpRS25kNmpodHJvV08wTXdGeWpqQTI1M2RjYzZRZVpuNlZET1owN2JzUmVDR9IBeEFVX3lxTE9yNTJSazNUdWhIN04wUS1xYzBmcXU1ZTBJeDZDNXRPc3c0cnV1TXFObEp3SXlOaldMd1JIMjI5aFh5N2RUeHIzRUd3d0pUSmY4cG1LRHQ1NmpLWHQzVE9zZUVtTjNzSWFzNUJLOGNDZFdRQWtXRUQ2TA?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "챌린지",
-   "t": "“아이돌 남동생 있으면 좋은 점?” 크래비티 형준, 누나들과 ‘현실 남매’ 케미 폭소",
-   "q": "아이돌 남동생 있으면 좋은 점?",
-   "heat": "스포츠경향 · 08/27 17:12",
-   "article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80cGw4dk1qMnFyR2x4X1FaMlVHSU12WGN6N3FIbXpsYWVwbHZ3dnJuX2xQUTZuWHN3bFhpUVU2VFRQRTBLRTdEd1RXUDVzWjgybFZrRUd3YW5Pa25SQXfSAWNBVV95cUxNVk9hRkFtYTRyS2hhNkRCOHVNVGdtSTZ5anAyQzFUOC1nSjI0TDFCSjJOc1YxNEJTX0ZDeE9YOEZSNjdoM3o0QkFfbUxaMEdYaHhBejVCNW14VExYWkp5ZHljX28?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
