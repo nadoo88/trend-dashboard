@@ -1,16 +1,16 @@
 {
- "updatedAtKST": "2026-08-31 10:19",
+ "updatedAtKST": "2026-09-01 10:45",
  "trends": [
-  "안성시",
-  "드라이브",
-  "이범호",
-  "유리",
-  "부산광역시의회",
-  "남편",
-  "김원훈",
-  "유학생",
-  "외국인",
-  "보증금"
+  "버거킹",
+  "정창성",
+  "박경림",
+  "성별 임금 격차",
+  "훈련",
+  "육아휴직",
+  "김봉곤",
+  "제주서부경찰서",
+  "항소이유서",
+  "광주은행"
  ],
  "news": [
   {
@@ -19,6 +19,78 @@
   }
  ],
  "hot": [
+  {
+   "plats": [
+    "tiktok",
+    "x"
+   ],
+   "tag": "K-POP",
+   "t": "원곡자 룰라 이상민·채리나도 등판…앳하트, 신곡 '3!4!' 챌린지 화제",
+   "q": "3!4!",
+   "heat": "네이트 · 08/31 17:54",
+   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrQmdta0prYmJNUTFoQTBiTldsRFNpQXhKQnRyeTBsYXo2SFlGcHNJTFg2blhtVGpMZ0pIbFpObXY4QWY2NVhxWGdTV1dTSFNXNEt1YTZKSkY1Zy1ZSEd0TQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "'주문 폭주' 화제의 오리 로봇…핵심부품은 한국산",
+   "q": "주문 폭주",
+   "heat": "한국경제 · 09/01 09:38",
+   "article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Ga3dOOG9fdjdQUnZqVWkzMkR1OFdYRkphWGRCakU1M0hmOWdtb0NLLTFHMWQ1MnJCXzhsSWlWTERVcGlkbEs4WUo0T2JQYmIzV1F0OVk5TThlZw?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "x"
+   ],
+   "tag": "K-POP",
+   "t": "NCT 127 '블링이', 맷 데이먼도 댄스 챌린지 참여 '화제'",
+   "q": "블링이",
+   "heat": "네이트 · 08/31 11:52",
+   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBETkNCV2dYQjJ6dHhieTZ1X3NKSjBQVllVOVlaR1hKRUJySkRsNGs3cTBuSmJPSVFDM0ZfU0J6WUFkVTRRWGpXaWlodXFQbVRkUTBUc19UekVLUWFVdWpTUQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "x"
+   ],
+   "tag": "K-POP",
+   "t": "82메이저, '히트'로 전격 컴백···댄스 에너지 극대화",
+   "q": "히트",
+   "heat": "네이트 · 09/01 09:41",
+   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1oYmJjUnBfUk1RdFFBUHBDWm1WUktPRlpJZTJKRjNKemxHQUFmZ19DamlMaGhqNnJ6WGZ1Tk5WM2hXTDdhM3VKRy1kRmZ4WkdKeXl3?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "챌린지",
+   "t": "안전수칙을 1분 숏폼으로…거제소방서 영상 경연 참가자 모집",
+   "q": "안전수칙을 1분 숏폼으로 거제소방서 영상",
+   "heat": "거제타임즈 · 09/01 09:05",
+   "article": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aN19GbGhlUWNBeWNjTWFFYmdCRU1vTHdfbXNHV2lvRTA1Q0haLXdOUm1tOVR2bnJIWlBLcGpDLTRCN1lyUmpmWUtvUmJ0WW9PQVBGelp0U0VfWjVLOVJFbnVSVUNVSXRyR05PWDZaZkQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "숏폼",
+   "t": "튜이드, 데뷔 앨범 초동 11만장 돌파…역대 걸그룹 데뷔 톱10",
+   "q": "튜이드, 데뷔 앨범 초동 11만장",
+   "heat": "네이트 · 08/31 14:31",
+   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0bGtPSmx6Q1EzM0ZJS1ltMVVXc1RCcDlRY2hxZ1dxWE5fUDVWcXZJZjJUYzNmSnh6R2dWcm5kSW1sNEZkSmRBWkpxVXZsLWJ6RW9uRGdmYkdzS2llTWNjXw?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
   {
    "plats": [
     "tiktok",
@@ -37,10 +109,10 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "실사 촬영 없이 만들었다…AI 아이돌 서리아, 오늘(31일) 데뷔",
-   "q": "실사 촬영 없이 만들었다 AI",
-   "heat": "텐아시아 · 08/31 09:00",
-   "article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84R1hSSWZteTJ1c09hUS0zTTdEREI0QUZNZkp1NEw0REswenBPWnI0S0d3dmttSU9lZUNUSkdReWRaQTVsaHJSb0xyckJkV3QxclRXSTdZTTdLSVE?oc=5",
+   "t": "AI 시대, 도끼를 든 사람이 되자",
+   "q": "AI 시대, 도끼를 든 사람이",
+   "heat": "오픈애즈 · 09/01 07:04",
+   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJUHNEUXgzOU5pblREREhaZUVrcHlYTGRVdE9vSlVaZlB6emVuUzJGT1lQdzVoNG9ZbVcxYndNbEN0M0ZaR3c5NmVTdFRVa3NLbDIwUFB5Z3BjNlhXdHFVVmJ6dTJpQkVKZ1JobENn?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -49,34 +121,10 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "“너무 기특하개”…CPR하는 강아지 ‘신디’ 온라인서 180만뷰 화제",
-   "q": "너무 기특하개",
-   "heat": "경기일보 · 08/29 18:12",
-   "article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QV2RoZUwwaEd4MUVfaXU5MWxiQUVYc0k4VHIwQmJLelhuWXNfRmFHZGRad05Vek1MMjM2WmxIX0xrdEw0aTc5bVFDdlp5dFVTdWVkTnFwOWhHUGc?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "발가락 양말에 굴비 키링까지? 이해하기 어려운 요즘 유행 설명해 드림",
-   "q": "발가락 양말에 굴비 키링까지? 이해하기",
-   "heat": "캐릿 Careet · 08/28 15:37",
-   "article": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1uWThzMEdaaEtUNWYwNzFwZm42WXRIYlJfNkNkVUwtak5xZlRJSU90V0NvemphRy1TX2RjQ3gxSmQ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "숏폼",
-   "t": "하이브 새 걸그룹 튜이드 성적은···역대 걸그룹 톱10",
-   "q": "하이브 새 걸그룹 튜이드 성적은",
-   "heat": "네이트 · 08/31 10:16",
-   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90UHRwQzJVc1VEQld0WVJyRTFlNnZBOVI3NTVLU2xrdzY0LWY2a0NCTXFNd2lRTEppUHJhdVM3eXkxMi03R19OYVI3dlBobEpzWDJRRTgtWDFtQWw3WXNjMQ?oc=5",
+   "t": "초록뱀미디어, 'AI 심야극장' 9월 3일 정규 편성…AI 콘텐츠 페스티벌 열기 잇는다",
+   "q": "AI 심야극장",
+   "heat": "네이트 · 09/01 06:02",
+   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0tTmljOHhqMlh5eU1pZVF3T0puLUhkRDlQckcyMXZmbVRoY2Y2UDhhVVhDSXNLaFE3a2p6NnVKNzNLaXppT2pyOGxnRTdkQ3diUXhv?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -85,58 +133,10 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "네팔 홍수 사망자 538명 속 가짜 AI 영상 확산…진위 판별은 결국 개인 몫",
-   "q": "네팔 홍수 사망자 538명 속",
-   "heat": "위키트리 · 08/31 02:28",
-   "article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SQmlpWlFpWG53VmI5TDdLcGNleUZNWnVLSjhicUxYT3I1TzNxekNXUVc0NzlYeDRRb3RndExXV2dRWXFCbUZyOVh5dkpQVEsxWlZEb2ZR?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "에버랜드 블러드시티 10주년 티저 화제 > 뉴스",
-   "q": "에버랜드 블러드시티 10주년 티저 화제",
-   "heat": "더코리아 · 08/28 23:54",
-   "article": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMYzlaaUJBc2o5VTJ0bmRycDhVOTNLREUxa2MzaUlNWmYtNVRKaTg3U0tMeXhjTDBHTWl2bFczaHEtcGZGT3NXRFlrRHUyYWczV21pVE9NTFQ2b3RrY2g2dGYtZHlOakItVnlaWUpqd0E?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "[AI상보] '최민석 다승 선두·세베리노 韓 첫 홈런' 두산, 키움 15-1 대파",
-   "q": "최민석 다승 선두·세베리노 韓 첫 홈런",
-   "heat": "네이트 · 08/30 21:54",
-   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iMERRWDZfOW1PRzhYRnJyU2RyaVlOQVRPaW1fTVprSmhGam53VHU3NjN0Z0ozWWhVOFRxdFE1UWdfTG5HZU9waEtOOUZUV3ZDZEwxZ3NPZWFmY0ZIMkpiUA?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "“김부장” 소지섭 북한 전투신, 알고 보니 AI가 만든 3분 압축 영상이었다",
+   "t": "'김부장' 액션도 손석구 아역도..AI, K콘텐츠의 '구원투수'일까 [★창간22]①",
    "q": "김부장",
-   "heat": "위키트리 · 08/29 23:05",
-   "article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JRm9NcThBRjNBb2ZuajVtbVZGMmg5N3dzdlc2TV9tbGZTSEFxUVlpQkZRNFhiU3VRWjJLTjJUdGZRRy1vYl9UaDNmMGZ1bVBtaDF3V2N3?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "SBS ‘김부장’ 액션씬까지 만든 AI… “그래도 감정·스토리텔링은 인간 몫”",
-   "q": "김부장",
-   "heat": "미디어오늘 · 08/29 19:15",
-   "article": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sb0tKNExkaFZMVWFJSmd6N1ZRZmpwYXRBOVNjbXRocFRfMm5Ed2dsTk1hUGZfZlFlOVltZmR3d29QLWVYOWNka000N2ZwclhiZ25PVlR2Z2IyMjRJWDgyT3A2MC1rSVBqcjJGdzk2am4?oc=5",
+   "heat": "starnewskorea.com · 09/01 06:00",
+   "article": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbzE0dEU3eWZDV25tVV9EcDY4Q3BGSWRKeFBiRURZRTlOMjRncFlpMFNHa2p2amNFM05xTDRZMXItQXdPeWRDSXR5ZjdmSjYwcHN2QTg2UzlIY0FIcV84QW1QVW1QSkdXc1hoVE03QVYzU09BbDhNcmZDVFctUUttUHRn?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
