@@ -1,16 +1,16 @@
 {
- "updatedAtKST": "2026-09-02 09:57",
+ "updatedAtKST": "2026-09-03 10:02",
  "trends": [
-  "카를로스 카라스코",
-  "지예은",
-  "리센느",
-  "이영택",
-  "윤이나",
-  "엔조 페르난데스",
-  "매일경제",
-  "9월 모의고사",
-  "오타니 쇼헤이",
-  "골키퍼"
+  "내야수",
+  "외환시장",
+  "빙하 붕괴",
+  "사우 델",
+  "정책",
+  "중앙일보 오늘의 운세",
+  "코레일",
+  "남보라",
+  "공동 명의",
+  "블리즈컨"
  ],
  "news": [
   {
@@ -20,13 +20,45 @@
   {
    "title": "'더쇼' K팝 대표 아이돌 컴백부터 차세대 데뷔까지···SF9·알파드라이브원 컴백 스테이지·AEN·아워벌스데이 첫 무대까지",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhVzZoZVFQc0JuOFJrdldITFpWM2g1NWludWp2bmxiXzNHRll1SWNlUHFPZ3FZNXNjYmlQX2MyVWhJUGM0T3VZT1N1MjRIQTUyczVsdmxvYWoyQzBuOWxkWnI3eHZ5TW9Sbk1jTUxRcTR3bXV6cXIw?oc=5"
-  },
-  {
-   "title": "‘더쇼’ SF9 인성·재윤 ‘숏들어가요’ 출격…컴백 무대까지 한 번에",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vMUV5RjVtWjdvc1UybUZlcDJkZTk5RFdNNnU2VFFpZUFzNUtiZFhvZVZNTGpQZWVXNDdsTTBYT25BSy1PVmp2bUFKeV83U19uZjJ0Yi1QcDQ0WGdXSnhPN1VUS3VMSGJxeHRR0gFvQVVfeXFMT0dWbFRtMUpwZFlqWmN1VnktaE10aUxNYkpKcy1TaENQcWRLVWkzblNIZW5zMjNsRnFGbUEzaV91by1rT3R5RDIwczUwemNLeDlDSEVBQWIwWlB0b1hOM01jT0NSbzV0UUlvbWFTaENZ?oc=5"
   }
  ],
  "hot": [
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "챌린지",
+   "t": "[TF초점] '챌린지 문화'가 K팝을 망치고 있다",
+   "q": "챌린지 문화",
+   "heat": "더팩트 · 09/03 07:00",
+   "article": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkWERuank0VUZ2SDN2blVmNWt0NlRONHBhSmxsWHVOdzJaZVNPVnZNWVo1YUpBUnZXRkwyTXROVnNMZnMxZExHOEdRdm5yS3FjWGdUcVI2NXFhWUY50gFXQVVfeXFMT0hROWNxRGs5WVJWQUJXUEZFNHlRV0g4ZWpfOFFpcTZjRElMSTJ6VW80dDFncXlGZll0X3lUQjFqSG5kRUlDejROcFVGZUljVUtaczJrQUhJ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "한국인이라면 모를 수 없는 밈 다 모였다…전두환 손자가 만든 AI 영상 화제",
+   "q": "한국인이라면 모를 수 없는 밈",
+   "heat": "네이트 · 09/02 14:54",
+   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ldTZNX0VoRVBHNjB3Y0JHSDZucTVuQ2xxYXNTbl91MkRYaHcwek1mUWF5MmxQR1d3c1FSclR3VW9kLTloYWx5b3FEaEc3VTNKREM4?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "x"
+   ],
+   "tag": "K-POP",
+   "t": "NCT 127, 듀오링고 부엉이와 챌린지까지···일상이 '네오'",
+   "q": "네오",
+   "heat": "네이트 · 09/02 09:56",
+   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jel9zX0E2Yi1zVGp4TWRWdDNGM2p6M1JOM09HUDZncmNPQ3NWZDVzUWhTa3VWVl9GOWc3VVBwWi1GcGp0R0JrZGJwc2hMSENuVU80?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
   {
    "plats": [
     "tiktok",
@@ -37,6 +69,42 @@
    "q": "3!4!",
    "heat": "네이트 · 08/31 17:54",
    "article": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JMGk4RUVlS3NmU2dCWlRSUThDMDJuSlN4dU5FNzE5X3ZKcTR3YW15SG44LUFjd3BwSFVwMk41ekhJNzlvUjIyS094YmM1OWVMcG9SNE5oMVNqdzJmOFo5WmNWTVFDTGZpOG1Jbg?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "최민수가 전두환 손자 머리에 총구를?…31초 AI 영상 '대박'",
+   "q": "대박",
+   "heat": "네이트 · 09/02 20:58",
+   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95cnJta2Z4TTk3b3o3cVZoVTVJd0Q0WmswSm5qYlNUMjdueEhzck1zRk9zeVoxT0xXbGU4QTBaYjI0OWI3VDlGZ281UjdVSGUwT19lNUVSV2VJa19VMGdacQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "[영상] '호박고구마' 나문희·'김 먹방' 하정우가 한자리에?...전두환 손자의 뜻밖의 능력",
+   "q": "호박고구마",
+   "heat": "dailian.co.kr · 09/02 15:37",
+   "article": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81djhVRzNDWVFQX0tLcmVTcWI4VkhRcVlmVXR0d29xamUyR1plWE1JRFNpd2FMcVl6cFZkNmlaU2lLY013dTNMR1NpNWhKdEdwUDF1ejFJOA?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "\"뺏고 싶은 재능\"… 전두환 손자가 만든 AI 영상에 누리꾼들 '감탄'",
+   "q": "뺏고 싶은 재능",
+   "heat": "한국일보 · 09/02 11:50",
+   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9McjhlX2pTS3U2TXh1OVpQdFA4eVVEdzhFcWJZMEFQcDhnZ0F4TUlwVkwwOFV6RHFfX1hJT05PRE5QS0hyVXRaZVlCN1FpMm9vcVRtVkhuS2tleG1IekNMaHpNcTVyRU9RVS1sb1RB0gFzQVVfeXFMT1NMUnRRaHlNSDFKcG96U3RwdkxKUlhYTEU4N2xuX1ZlSTV5dnRURjczenJ0THF2ZVFZRVRHaWlWWHR0Y2ZteHd0VThrV2FBajh2Z1JZSEZIczdNX2FYZGQ1cTFMZVBOT19USnMzN2tkV0lVNA?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -60,7 +128,7 @@
    "t": "NCT 127 '블링이', 맷 데이먼도 댄스 챌린지 참여 '화제'",
    "q": "블링이",
    "heat": "네이트 · 08/31 11:52",
-   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBETkNCV2dYQjJ6dHhieTZ1X3NKSjBQVllVOVlaR1hKRUJySkRsNGs3cTBuSmJPSVFDM0ZfU0J6WUFkVTRRWGpXaWlodXFQbVRkUTBUc19UekVLUWFVdWpTUQ?oc=5",
+   "article": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFelRPR1d2WG9JVDJmRVBGTGl4MzFFVmRUT1E2STVJblRubzFDYl9sNTkxOXNlTXlSMzlCY0RIR0hqZFpXbGZFam92UTZJQnhCMUpGVHQ4eEFoZzlET1Q1bzk1V0JjVk5uSXJjMw?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -71,80 +139,8 @@
    "tag": "K-POP",
    "t": "미국 무대 도전했던 고우석, LG 컴백한다…“복귀 의사 전달”",
    "q": "복귀 의사 전달",
-   "heat": "매일경제 · 09/01 10:55",
+   "heat": "mk.co.kr · 09/01 10:55",
    "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ycUhmMG1UWGhUcFJEdk9RNXlVaWRrRGJtWVl5X194cjFiQ2tCWEpycjMyajdRVGhJREVUNVpCRkRLbl81VEdCblJTMnBCZFB2MFBz?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "x"
-   ],
-   "tag": "K-POP",
-   "t": "82메이저, '히트'로 전격 컴백···댄스 에너지 극대화",
-   "q": "히트",
-   "heat": "네이트 · 09/01 09:41",
-   "article": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iTldSaEFlWDkyZFdFc01jZktZZTBfUWpxWXF5U08yd21NT19IS3J4bmF4TUdjSVQ0aC1hNXpNb2ZyZV9kTGJzcWk4V3Nla0R3RVdGMG5sekRXS1ZkYzI1dzNzYmZDQnRrY0U4SA?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "지난주 화제의 주식: 엔비디아, 마벨, 세일즈포스, 아이렌, 크라우드스트라이크",
-   "q": "지난주 화제의 주식: 엔비디아, 마벨,",
-   "heat": "Benzinga · 08/31 10:27",
-   "article": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNOTBMY0ZsNmlfNkw2QXNtZGFmZEMzbzd5U3BiVE1reWdta3R2aUc4aU1xWmd2bVFoT0F0OHBsRkt2dWZsWE5aelcwNW5wOWZnclZWMGgyRHdQOEZoR2QzQmV5b010aE5rTS0za3o1V0NxTEp1STRyWUQ4WTFLRUNCX1pCRFZKamdUUWlFRTJQRTBUSG5VN0tIcWloMHliaHRVYWF2Q091XzBPQkZfVW9DekpYazItTEZESTlKZ25fNTQ3MUlXRGdnb2xLX182NW1jbWFNYmJOellieVI0R01MdUcxZ0xudENfeGdoTU9FWkhXWVk1bk8zOW9zZ3JVM1FPcldfdFNPNTJLWWV1NkxFZi01WlNHNnExcDJKT2w2dFlwN0t1MjNrNUNYa21ZcjVveUZRWkk0SmcwX0tid1N1UGNEbFVod3hWeThYLWw3ZjZBLXZ6X2x3UA?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "챌린지",
-   "t": "안전수칙을 1분 숏폼으로…거제소방서 영상 경연 참가자 모집",
-   "q": "안전수칙을 1분 숏폼으로 거제소방서 영상",
-   "heat": "거제타임즈 · 09/01 09:05",
-   "article": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1aN19GbGhlUWNBeWNjTWFFYmdCRU1vTHdfbXNHV2lvRTA1Q0haLXdOUm1tOVR2bnJIWlBLcGpDLTRCN1lyUmpmWUtvUmJ0WW9PQVBGelp0U0VfWjVLOVJFbnVSVUNVSXRyR05PWDZaZkQ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "공감 가서 더 재밌는 Z세대 콘텐츠",
-   "q": "공감 가서 더 재밌는 Z세대",
-   "heat": "주간동아 · 09/02 07:00",
-   "article": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLd3hQRVRXeVBFWTE1OTZOTVhnUllFNlcxVUR4bmN0VTRSOWZNZTk3THFJZjJ2NlFDLWxsMWxpVWVxSXBEZUZnMU5aVVZ3bjUxMUpnRHl0dzcyZlM5NE5raXpLenp5U3h1?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "숏폼",
-   "t": "튜이드, 데뷔 앨범 초동 11만장 돌파…역대 걸그룹 데뷔 톱10",
-   "q": "튜이드, 데뷔 앨범 초동 11만장",
-   "heat": "네이트 · 08/31 14:31",
-   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0bGtPSmx6Q1EzM0ZJS1ltMVVXc1RCcDlRY2hxZ1dxWE5fUDVWcXZJZjJUYzNmSnh6R2dWcm5kSW1sNEZkSmRBWkpxVXZsLWJ6RW9uRGdmYkdzS2llTWNjXw?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "AI 시대, 도끼를 든 사람이 되자",
-   "q": "AI 시대, 도끼를 든 사람이",
-   "heat": "아이보스 · 09/01 09:37",
-   "article": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1TNmRISkFOQ0lEdkdRc2VIMG9uWjdYZ29TaFlsV2NkQlRfT0pqOWp0X1R0aWlpQTJXaGdtaVhadTZkcmp4cUZjNzh2YjVLcnc?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
