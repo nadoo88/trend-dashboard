@@ -1,29 +1,82 @@
 {
- "updatedAtKST": "2026-09-08 10:05",
+ "updatedAtKST": "2026-09-09 10:09",
  "trends": [
-  "일본",
-  "문구점",
-  "박용택",
-  "gpt 6 astra",
-  "gpt 아스트라",
-  "구직",
-  "응급실",
-  "여수시",
-  "르윈 디아즈",
-  "땅"
+  "이재명 정부",
+  "땅집고",
+  "dwcs",
+  "홍윤화",
+  "삼성sds",
+  "이종상",
+  "리버풀 fc",
+  "폭발",
+  "의왕역",
+  "황희찬"
  ],
- "news": [],
+ "news": [
+  {
+   "title": "'수어 아이돌' 빅오션, 미국 뉴욕 무대 선다…오늘(9일) 컴백",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxNUVqRl9pcFVNSDF2LTRKcF9LZF80YmJMS2RsWVhXWEVHNWFNV0YwTjBXcEx2NGZ6cHlhbGFKcm5VNWxLSnBWNzRSb0ZscUswdmJGUTlGSm5wX2c?oc=5"
+  }
+ ],
  "hot": [
   {
    "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "바이든 차남, '트럼프 겨냥' 밈코인 만든다",
+   "q": "트럼프 겨냥",
+   "heat": "뉴시스 · 09/08 17:05",
+   "article": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBOU2k1SFF4UTRCOEV0REJGYV9hMHZnRFhwUVJ1OFNocGlacy1qYzN5cDhYMkxTSDJhTHpxa1N0RVR1NkVQMk9Gd2pWUVU4RnhSNHA0VUx3RWhiRWFSeWoyZ1FDbDlCbWtQQnYzOUxKQTJsNWxrZlNqN9IBeEFVX3lxTFBOU2k1SFF4UTRCOEV0REJGYV9hMHZnRFhwUVJ1OFNocGlacy1qYzN5cDhYMkxTSDJhTHpxa1N0RVR1NkVQMk9Gd2pWUVU4RnhSNHA0VUx3RWhiRWFSeWoyZ1FDbDlCbWtQQnYzOUxKQTJsNWxrZlNqNw?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "긁히면 어때, 웃기면 됐지! ‘밈수저’ 스타들의 유쾌한 대처법",
+   "q": "밈수저",
+   "heat": "sports.donga.com · 09/08 16:13",
+   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wNm5zM0NQTDBaZ1R3VVV0eWctWWtmWGZsUXYwNDJJZGFXVzZNSWVaczRfWmctQUZuZDQ5TjdwclNhMjBYb2JQN1JHejRxUGhmNE5ZQUpiVkJmcWxFcldCRUNLZnRaS0xYOEZEUWVn?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
     "tiktok",
+    "x"
+   ],
+   "tag": "K-POP",
+   "t": "'수어 아이돌' 빅오션, 미국 뉴욕 무대 선다…오늘(9일) 컴백",
+   "q": "수어 아이돌",
+   "heat": "텐아시아 · 09/09 09:33",
+   "article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxNUVqRl9pcFVNSDF2LTRKcF9LZF80YmJMS2RsWVhXWEVHNWFNV0YwTjBXcEx2NGZ6cHlhbGFKcm5VNWxLSnBWNzRSb0ZscUswdmJGUTlGSm5wX2c?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
     "reels"
    ],
-   "tag": "챌린지",
-   "t": "에스플릿, 데뷔 첫 활동 성공적 마무리…밴드 라이브→숏폼·챌린지까지",
-   "q": "에스플릿, 데뷔 첫 활동 성공적",
-   "heat": "네이트 · 09/07 10:58",
-   "article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1vVGV2U3RLM3RCNmxrNVVPLWlsRXlYWHhBZGRuZXItUE9COXAzSVoxWTF4b2QxU1dTQmdGRUFKVjQ5amtkbzJGNk5nTHltU3JISm4yX0JWOGpGWWxPb1ZXYXZBU1M0SWZIZk9zMUUxOTBHVkUtNmx0OQ?oc=5",
+   "tag": "AI",
+   "t": "‘690만뷰’ 터뜨리던 이수지, ‘정치색 논란’ 후 복귀…화제성은 ‘주춤’",
+   "q": "690만뷰",
+   "heat": "매일경제 · 09/07 22:27",
+   "article": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBEZFJ3cnh1SGpGd0UzbTlUV3dzZTltMzdpcWh0UlZ4cGJGVWVjeHgtM1pHYTh1dFlFMGpfaTVtblNienlRaml5bjBmbW1JamlmNHBxag?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "x"
+   ],
+   "tag": "K-POP",
+   "t": "베리베리 'CONFETTI' 발매, 데뷔 후 최초 유닛곡 도전…성수동 '깜짝 등장'까지",
+   "q": "CONFETTI",
+   "heat": "Nate News · 09/08 08:09",
+   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHVENNZGpPY2pnd1dTRzFZNXJDSHFyaGgwLVI5XzJPX1FHWEl1Sk9CWV9SYlJ6TDR5YzlLOW1GbTc3WG9hZ01jMW1ZSC11Z2xNZUhV?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -46,8 +99,20 @@
    "tag": "AI",
    "t": "가수 이승철, 더헤븐리조트 새 모델에 자발적 참여 화제",
    "q": "가수 이승철, 더헤븐리조트 새 모델에",
-   "heat": "전자신문 · 09/07 12:19",
+   "heat": "etnews.com · 09/07 12:19",
    "article": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE14WmItVnA5NmI1WThqQ3hOYW1XaTJ6SWhUS0FPc1o2ZkhaRUd1VXc3MENubXpsNmFJZG8xb3R1QzRuQkJGTFQtcERpME1GUQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "1인 창업가를 위한, 지금 가장 핫한 오픈소스 AI 5가지",
+   "q": "1인 창업가를 위한, 지금 가장",
+   "heat": "AI 코리아 커뮤니티 뉴스레터 · 09/09 06:01",
+   "article": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SR2ZyN21VQkREcWRNdXZDaGdUbl9FV3pFcWRkOWdPNHhrTEtjM0p4ZElSM1hEM3FiUUpvcFpkaHRKZE9ZQnp5dWV6UFJ2ajFNNW9QZThmOTRnTjV5UGJacFZDcHZiZzFRQ3FzY1hxX3lOZmZCdGhR?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -58,7 +123,7 @@
    "tag": "K-POP",
    "t": "'JYP 신인' 킥플립, 첫 더블 타이틀곡 도전…10월 6일 컴백(공식)",
    "q": "JYP 신인",
-   "heat": "네이트 · 09/07 09:31",
+   "heat": "Nate News · 09/07 09:31",
    "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IUG1za0JCZ05wRjBUbV8wb1h5NHpVZFRwSVlsVjhZTDF5Y1otWDRiZUROMlNqeW5paGtsT1drYU9QWEdPZVpaTkJsVUpaRVVlbmtZ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
@@ -70,68 +135,8 @@
    "tag": "K-POP",
    "t": "킥플립, 10월6일 컴백…첫 더블 타이틀 도전",
    "q": "킥플립, 10월6일 컴백 첫 더블",
-   "heat": "네이트 · 09/07 09:12",
+   "heat": "Nate News · 09/07 09:12",
    "article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FUHBlTTBwc2V3MWtBWm9pTnhrWUJLUGRzT2MzMVlrX0pnY01KVGU5LXBUUW1Rbkx0bzU2SG50dU5BSDVtQTJENThLZ0c3NTVNcU0yem1NaW1vMlFGT1QyWnpXbWJ2VjloSjdLN0huYzVqS3BqTjJpLQ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "같은 이슈·비슷한 밈…인스타매거진은 무엇으로 차별화할까 [알고리즘이 만든 매체③]",
-   "q": "같은 이슈 비슷한 밈 인스타매거진은",
-   "heat": "데일리안 · 09/05 14:01",
-   "article": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOZnBNbnc4d0NiVUdvYlBLS1FGbUFlcDBXSmdGLTZ2VWZoT3g5T2QzN2g4eER3cEpsaGdJdXBPbktsN0M3aFU4TUU5NFVZR2pscGowT1R6STF2OWprZFBnbXcwRm96cUgyVWxyVFJrWTI4OHRZZ2w5a3llb2lfaHlYVG9ybU5FRi0yY3pBZU9PWnNlT3FFTm1BVzJtU19ZYXhLVVprOXdISWQybk5RU29obmV5UW1KMDEzR1dDY0xfSWJldm1YcW82VHpiRS1qblpPS2FpVGNHbGRhRkxnQTltV3dCRnJPTm1nZUhmVk9hSFRYSThaUFJmbFNObnRFbm1Kd2REUW9KNndnbEFhVjJkdTh5ZkxoQTB1SHRISGVweWhCQQ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "\"기술은 바꾸고, 이야기는 지켜라\"…AI 시대, K콘텐츠의 생존법[★창간22]③",
-   "q": "기술은 바꾸고, 이야기는 지켜라",
-   "heat": "네이트 · 09/08 06:00",
-   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9GUUZtb0laQ1FNU1dXU1hDLXMwSW5WRzZhaVZDQlRGWnFid0t4UWJ3RkJfN0FnMElpT0dFMXVmTGxMcHBqTlZOV19lZ0hYbWpHX1lR?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "이오콘텐츠그룹, AI 시즌제 드라마 '더 레스큐(The Rescue)' 제작 확정",
-   "q": "더 레스큐(The Rescue)",
-   "heat": "네이트 · 09/07 18:29",
-   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FNEcwTUVjQko2Yjhxc2VJZHNoa2Y2V0QwTWNqUTRJX3hiREkyOF9fTVVreTBBR3JMNjBoQTZ1ZkVwY3h3LURDWjRWQldpMU5VZ25N?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "이오콘텐츠그룹, 생성형 AI 시리즈 확장…'데쓰코드' 이어 50부작 '더 레스큐' 제작",
-   "q": "데쓰코드",
-   "heat": "네이트 · 09/07 18:11",
-   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HVlF5cnRRenlCR282RUFoSGJJQkhvUXBGdm5teEJfUmZpQWh2eWZ4MmZyWUp5b0xBZ2xRRzlScU5iSzBnSE5PTm1Kdm1QVjlUSGNF?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "한밭대 HUSS, '하계캠프 in 군산·AI 콘텐츠 대회' 개최 등[교육소식]",
-   "q": "하계캠프 in 군산·AI 콘텐츠 대회",
-   "heat": "newsis.com · 09/07 16:45",
-   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83aUZDV1R3aFBwMXU4Ulc4UWdxVzlmY0VIbE5EOHByNVpRakVldE9pendPV1FZSXhqM2dmZWR2MnhpTjc0a2d0OVF0WnZ0ZXAzTFVYNTJveUY5VlNDMW5NNNIBeEFVX3lxTE5lenN0UGprWHN1bU5TTWRSZnh4SDliT2xLeUEtS2N0TE1MSWhWV3pFMVpCelczMHFHS2tNRE9Ga1dqdDVmNFF4Y0h0eDlPRjdkNDUwWHF0U3JiYktwRlFudFNSVENvNTJYREx2TUdFdDU3a3BQVGpteg?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
