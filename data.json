@@ -1,16 +1,16 @@
 {
- "updatedAtKST": "2026-09-11 09:54",
+ "updatedAtKST": "2026-09-12 10:00",
  "trends": [
-  "제시카 페굴라",
-  "pba 팀리그",
-  "스페이스x",
-  "마우리시오 포체티노",
-  "연금복권720+",
-  "코모",
-  "반찬",
-  "장교",
-  "김연정",
-  "기사"
+  "도루",
+  "아스트리드 공주",
+  "天気",
+  "박명수",
+  "통장",
+  "m",
+  "안세영",
+  "송지호 바다하늘길",
+  "오픈ai",
+  "중국"
  ],
  "news": [],
  "hot": [
@@ -23,7 +23,19 @@
    "t": "밈코인, 웃음에서 시작해...변동성 촉각",
    "q": "밈코인, 웃음에서 시작해...변동성 촉각",
    "heat": "CBC뉴스 · 09/11 00:05",
-   "article": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iazBpS3RrLWlTRXhWZDFwU0tMdWNZYzZUZEw5WFlMcm44MkpPSkZxaEF2Y2xYYmNlXy1CaHdCZEZvOXpGZEkzMG51elNGUEZwYUc4QWpRMU9mRFNwam9XbV9EU2x5UzZH?oc=5",
+   "article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zbEVMVXJkbDVkOVBmMlNheVlkWnFZRWtUYnZpbUxuQU5VVEhjeDhBZ1JBNWJHZE45VFRyeVp0a3FuNm9YTnkzLUpfNzNsVnAzT0Q3RzNSYmwwS2VBcm1mdDlaR1pVaDA?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "장원영도 안 ‘장원영 밈’…“장원영 하루 보내” 온 세상이 장원영 열풍",
+   "q": "장원영 밈",
+   "heat": "스포츠경향 · 09/10 17:52",
+   "article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhNkEtTm9rcU5sUnJiUzg0U1NGN29IdUY2bS0xZ0Y4UnIxcVZiZEFJS3dCaWtaT3hGUnpxOEpWN3BZbHR6VkdKZ2FaSGx6aXJVbFhrU3JKUmllcmVVVFHSAWNBVV95cUxPOEFDNGZDZkxFQWdGNWk0c2tia1RlZ204SFl2WmNITjJmZ1VPZV9PbHRtWkZCT3NzUW1wOGVFekRadFYxQk9uNktnc2xWSTlWT0ZoeW1qMDJFWVoyMmNqSVFWNGM?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -36,6 +48,18 @@
    "q": "바이든 차남, 트럼프겨냥 밈코인 출시했지만",
    "heat": "중앙일보 · 09/10 15:09",
    "article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8tbXlPVkg2NHpVRHZFelNVWkNBRVYzVlM3Vi1KM0RQUUh6X2VPZ1VlaU5jTTNvWEhxaEdZZTdZWWpZNXd5elg3UUVCTk1jLVVzVEVJRkN3?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "컴투스홀딩스 오픈AI 게임 빌더스 서울 화제의 백엔드 플랫폼 '하이브 액실' 핵심 비전 공개",
+   "q": "하이브 액실",
+   "heat": "게임포커스 · 09/11 12:50",
+   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xOV93Ym9tVzd1TzJIdFhhSXVxT2xLbWdVUHBTYVJEcjlOdVB1QlQ2aVdvd21Kbnh1Vnc3cWxocVR3OFhrNVpZRVBoMmc5elZDbXd4MjFvRzZxck5PSFBaRQ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -76,26 +100,14 @@
   },
   {
    "plats": [
-    "x",
-    "threads"
+    "tiktok",
+    "reels"
    ],
-   "tag": "밈",
-   "t": "바이든 차남, '트럼프 겨냥' 밈코인 만든다",
-   "q": "트럼프 겨냥",
-   "heat": "뉴시스 · 09/08 17:05",
-   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95ZzA0dmlXenZKRk9NbEpwTUItakI1OGpwNk0tY2RtSVZ1cEI2MHJBbEk3b2hIeExDTDdIM3BydTk3eWZLdk9IQkllbEpqTGtlVmdkSkFHaGduMU1PSWF1RdIBeEFVX3lxTFBOU2k1SFF4UTRCOEV0REJGYV9hMHZnRFhwUVJ1OFNocGlacy1qYzN5cDhYMkxTSDJhTHpxa1N0RVR1NkVQMk9Gd2pWUVU4RnhSNHA0VUx3RWhiRWFSeWoyZ1FDbDlCbWtQQnYzOUxKQTJsNWxrZlNqNw?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "긁히면 어때, 웃기면 됐지! ‘밈수저’ 스타들의 유쾌한 대처법",
-   "q": "밈수저",
-   "heat": "스포츠동아 · 09/08 16:13",
-   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0wNm5zM0NQTDBaZ1R3VVV0eWctWWtmWGZsUXYwNDJJZGFXVzZNSWVaczRfWmctQUZuZDQ5TjdwclNhMjBYb2JQN1JHejRxUGhmNE5ZQUpiVkJmcWxFcldCRUNLZnRaS0xYOEZEUWVn?oc=5",
+   "tag": "숏폼",
+   "t": "하이브 신인 걸그룹 튜이드, 7인 7색 춤선",
+   "q": "하이브 신인 걸그룹 튜이드, 7인",
+   "heat": "뉴스엔 · 09/11 14:22",
+   "article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0ycEZyblZjY0drdVVyYjVYTHBuRU8xdG9xZTIwMVoyVEVLY1BaWDNDMkFEcDVTeTZ2RlFhU0dWSFByUzZjalg2bGtOVGt0ZFVTU2R6R0w5MVdIdUI2ZWFPcWVhMDhLU2ZVZ0t3?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -104,34 +116,22 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "어센트, ‘130만뷰’ MV 화제",
-   "q": "130만뷰",
-   "heat": "bntnews.co.kr · 09/09 15:09",
-   "article": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5raTI5enBxekpyNTFuY0NMNzBMV0VRd2FVclJLT0N4aEdCTUVhRFBmZ0Ffc1Zzd25zWDZhbU5keGd4YlE3c2w0Y2lTR3JSVDVQRHpzSXl4WGV6Y3owSW1SamVYR3ZHdGFxUF9wdg?oc=5",
+   "t": "[웨비나] 2027 브랜드 전략, 시장 분석은 어떻게 해야 할까?",
+   "q": "웨비나 2027 브랜드 전략, 시장",
+   "heat": "오픈애즈 · 09/11 11:20",
+   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XNm02dzE4S084T0M5RXRrTHh2T0VCOUVqZXNYbzRUUzFoMjBiN2todnJkOHpocGJ0M09tTmFXTHpiYmY4NWRIOHFuaGR5UmNnMHNGckRvRTVHRDVNM2NaT0ZYNmxyNThQS3MzUmx3?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
    "plats": [
     "tiktok",
-    "x"
+    "reels"
    ],
-   "tag": "K-POP",
-   "t": "하입프린세스 컴백, 새 싱글 'AWA' 공개하며 활동 시작",
-   "q": "AWA",
-   "heat": "Nate News · 09/09 14:32",
-   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EOHBZWlZtaU95b2xyc18zNWxsUmdlODh0RFlSa05KUXZ2LWlOVlhhTFhHUWhhcEZIWDBGMjM4VDV6LUtLVzQ1dXdLMGIwbnlJbzV3?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "x"
-   ],
-   "tag": "K-POP",
-   "t": "'수어 아이돌' 빅오션, 미국 뉴욕 무대 선다…오늘(9일) 컴백",
-   "q": "수어 아이돌",
-   "heat": "텐아시아 · 09/09 09:33",
-   "article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxNUVqRl9pcFVNSDF2LTRKcF9LZF80YmJMS2RsWVhXWEVHNWFNV0YwTjBXcEx2NGZ6cHlhbGFKcm5VNWxLSnBWNzRSb0ZscUswdmJGUTlGSm5wX2c?oc=5",
+   "tag": "숏폼",
+   "t": "발소리까지 귀에 쏙! 튜이드, 7인 7색 'SUN KISS' 안무 연습 영상 공개",
+   "q": "SUN KISS",
+   "heat": "네이트 · 09/11 11:02",
+   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hOWxJckZjaExBSjQ3UjFHTFRJQTdIWWJlcF8zeFdCMDhPRXVvbHE5cVdhOTl6alQ2RUZ3aUxlUUpMdGl5bWJzLTIzT05QbGxHdTNZ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
