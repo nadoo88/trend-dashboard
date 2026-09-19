@@ -1,19 +1,40 @@
 {
- "updatedAtKST": "2026-09-18 10:11",
+ "updatedAtKST": "2026-09-19 10:05",
  "trends": [
-  "허양 임",
-  "이재명",
-  "철도망",
-  "왕옌청",
-  "한화그룹",
-  "노란봉투법",
-  "세무사",
-  "단발",
-  "크리스티안 로메로",
-  "사노피"
+  "중국",
+  "공무원",
+  "엘레나 리바 키나",
+  "노시환",
+  "출연료",
+  "사고",
+  "ai 데이터 센터",
+  "필리조선소",
+  "이승철",
+  "조선일보"
  ],
- "news": [],
+ "news": [
+  {
+   "title": "리센느, 11월 3일 컴백 확정 ‘거제 야호’ 한마디가 홍보대사와 차트까지 이어졌다 : 네이버 블로그",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMXdQaDFUNEFxaXFiUHpWZHlScWxHNnVhMHVIbEIyV1JrMVJtNVVFdF9lNjU4MWVfdjhJbjEzMi1jYzZacHo0NHJfLXBRNVR1Z1ZYR3h6Y0NCWFR1X3VUV1d0eW5lMGdma0g1MEVXS3VpUl9qNzM1Nk5jWkJzWG9OTXlBNTlCQUVyR2tlUmhiblg?oc=5"
+  },
+  {
+   "title": "[피플]'잇츠 미'로 증명한 아일릿, 10월 컴백으로 '대중픽' 굳히기",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zSjlHRzJIUVpaaUFOMmhrUEhrM3NzY3d1VEtyQVZ6N0k2azdRZk9nNllsRVZFRUFzTVlYa0J2dmoyNy1ZRVl3VDVhZjRMZmtpSDhr?oc=5"
+  }
+ ],
  "hot": [
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "챌린지",
+   "t": "AI에게 빼앗긴 ‘모방의 주권’…‘따라 하기’ 열풍은 설계돼 있다",
+   "q": "모방의 주권",
+   "heat": "supple.kr · 09/18 10:30",
+   "article": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82WHNRM3pvSDBBUGFZbkVQeXo0SGhSc3NnWFNraGkxTDlEUzQ3dHFEX0RGOHFPRHNfSHJnMUxNeVlsSEdTUGN2dU9ON2RKVkhhVUxENjdZdEVNRWhK?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
   {
    "plats": [
     "tiktok",
@@ -24,6 +45,30 @@
    "q": "불꽃마냥",
    "heat": "헤럴드경제 · 09/18 07:49",
    "article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTcmxwVXN0T0ZQRFJ6bmNfLVE4WFd0djRfa0pQLUlVMW5KTXJCcGRyUUlVWC13aEpPVGxidkc4QkZtcWE1MG84UU5YVFQ0SjkxNmJCNk9n?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "\"AI 쓸게요\" 야구 감독 화제…-15였는데 우승까지 넘보다니→日 기적의 팀, 어떻게 만들어졌나",
+   "q": "AI 쓸게요",
+   "heat": "SPOTV NEWS · 09/19 01:05",
+   "article": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XX2U4WkFDck56X05HUnhrYTkza3R3MnBhTVRGYUh5M3NtWFlaeHZsMkRuSmdkTzdUYTNWWThIM0Vnbm81ZGNyTzk3ZEVJeVpyVElzRWQtbEcxQUFvNllySEtHREx3Q2xWc1h1MGJRODc?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "[화제의 신간] 한국금융인재개발원, 금융사기예방전문가 자격시험 교재 출시",
+   "q": "화제의 신간 한국금융인재개발원, 금융사기예방전문가 자격시험",
+   "heat": "매일경제 마켓 · 09/18 14:27",
+   "article": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RVHJXa3lmM3hhZE1WWkRsWEE4Rk93ZllwTzdjRC1Ma2JkMXhacVRZdHNkc0JHV0k2VWxNRzZpU1ViVnI1dkdvYmRMdVNucnpZQ2c?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -47,31 +92,7 @@
    "t": "챌린지 밖 일상에 스며들다… 정국 ‘골든’이 증명한 음악의 생명력",
    "q": "골든",
    "heat": "v.daum.net · 09/16 15:52",
-   "article": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE91T3hOWUU5NndpSkZYUU00QXN5TVMwaWEyOFNFQi02bHBiNGV6a0JFVVdaQWU0VTdpSmlNZ09tVnp2UzY5bFdBUk5ROA?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "인공지능(AI)이 트럼프-시 회담의 주요 화제로 떠올랐다.",
-   "q": "인공지능 AI 이 트럼프-시 회담의",
-   "heat": "Vietnam.vn · 09/17 14:42",
-   "article": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPVUlBNGgxclJpSlRTZXhyaFdma0UybUVmTUx4TE5hRzNuZG9wamZCbnl3VmtMTGFCSXlkX09SSENjLXJDQ1FoNXVIbTRsNVlHNENXUFhhWXl0dExIa2hfdzBON19seUJ4VUl5Q05CZkhJa0dDcVk4?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "밤티 반대말이 장원영? 지금 써야 제격인 화제성 높은 밈모음",
-   "q": "밤티 반대말이 장원영? 지금 써야",
-   "heat": "캐릿 Careet · 09/16 10:00",
-   "article": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE4zT1YwOEhqTHkyZG5OSlowSnNXWFp1blNheVpmYzAxbFBoSW93OU5oZ1dyV1hGTEhfRW94M2EwQ2s?oc=5",
+   "article": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XUGx1R1NIelVaampHVTZCbHBiYm1obnYxbUhkMFBHWkNJV2tPQm5HVmJINUlUcmFMaFhJWFBrV1lpbzk0REJtQTFYR2tKektHczZTdw?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -92,46 +113,34 @@
     "reels"
    ],
    "tag": "AI",
+   "t": "폭이 차 두 대 수준…괴상한 '초광폭 자동차'",
+   "q": "초광폭 자동차",
+   "heat": "전자신문 · 09/19 06:00",
+   "article": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01ZFJ0b3NTZXE2S2RCZm5MM1AwMFcxZDM4VUw4aGtTX2tCbVJMTHRSM05nUERsR3dnVndPQ2VsZTJnN3ljZEJtOU5MeW9VODFIYnNmczFJMHpLS3hLMmJET0p3?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "x"
+   ],
+   "tag": "K-POP",
+   "t": "[피플]'잇츠 미'로 증명한 아일릿, 10월 컴백으로 '대중픽' 굳히기",
+   "q": "잇츠 미",
+   "heat": "네이트 · 09/17 11:42",
+   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zSjlHRzJIUVpaaUFOMmhrUEhrM3NzY3d1VEtyQVZ6N0k2azdRZk9nNllsRVZFRUFzTVlYa0J2dmoyNy1ZRVl3VDVhZjRMZmtpSDhr?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
    "t": "칸 수상 공식? \"잘 만든 광고보다 화제 되는 광고\"",
    "q": "잘 만든 광고보다 화제 되는 광고",
    "heat": "브랜드브리프 · 09/16 17:44",
    "article": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11MEtmeHVKZUJYREQwQzZpWFR6Y245TWwwenNENHhaenB0amVseVJvUW1zY015ME5DWGVJOG1sUm1Vb3JQVTE2Q0xhcUM4TVBNYTdscnlyNXdhRXJ6c1VZS1d3TVViMHNYY203TVA3cw?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "'반 고흐'부터 '키스' 사진까지...트럼프를 둘러싼 풍자의 역사",
-   "q": "반 고흐",
-   "heat": "데일리안 · 09/17 13:25",
-   "article": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNblNBSElVc2ZwdGhmYU5Nd0J6MlIxUlBXMXBzQ0JFRHJtdllGdVdHaXkyZ1JKX1pIa1o3ZTFGZTRFNFJweTRUVTJ3NHdQRkpNeU9TUzl2MjhMdHRHVXhvYTVndWh5Z0hNaWNoa1lFWlRDaFRjRlVtOUI4MVBVRW5ybm5aZWwwMzE1a3FNTGg3WVFUdFpDaTBEbkVFcGRZMGNUUldja2I0MnYzamE3UUxwNlBNeTE5LTM2bjh3RTNoUS1WemJYdVNtZW1QMVhFY1NQZUxuMFZ4YjdEUlJEYndNcEExbXo1V3Nhbmk1MG5kWUpoS3lKLWFPeXZjZUVSZWFDZnhsUUh5M2kySlBiT2pGU3JSMW1qOGc?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "“도서관이야, 팝업스토어야?”… 한성대, ‘K-컬처·AI’ 다 잡은 이색 북큐레이션 화제",
-   "q": "도서관이야, 팝업스토어야?",
-   "heat": "스마트경제 · 09/16 08:31",
-   "article": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBkWmkwUFc4cG44ZVlqdzFNbXdkRGFoUzh5dGU3RzBnWHdNNFRtQ2Z6cmZ2OFNULVlNa2h2a3o0R2t1ZlhHV0h0NTlWVGFUd1BaRGc1NHVFaXVEYW1vaUlya3AwSC0tcFl2LVFiQWpnWQ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "현재 단계가 헷갈릴 때 보는 에보플레이 슬롯 상태 안내",
-   "q": "현재 단계가 헷갈릴 때 보는",
-   "heat": "Histoire pour tous · 09/17 20:53",
-   "article": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaTY5VS1jSGVuS0VmNS1fbXhLSDhXMkRjSjhqU0F2WEo5OWxHYlg2UGVOOC1MeFFST3RhTzd2WXMwY1RJSVkyMDAzWXZHVFFnb0dGbk1UUTFPWHZWazNmLUQ2eW1Gd2JSQTlvWDgzUzZiMGJBOEhORURuQTUwMENRa1BPZy1TM0ZvWjhkSUxkOEduUjhfUk1EWW5IdDQ3T3l5bExZbTJFNlg?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
