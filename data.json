@@ -1,32 +1,40 @@
 {
- "updatedAtKST": "2026-09-23 10:22",
+ "updatedAtKST": "2026-09-24 10:17",
  "trends": [
-  "추석인사",
-  "25 사단 지뢰",
-  "드래프트",
-  "유태빈",
-  "가덕도신공항",
-  "롯데그룹",
-  "부부의 세계",
-  "신봉선",
-  "관광",
-  "돈"
+  "afghanistan vs japan",
+  "두류공원",
+  "한일전",
+  "습관",
+  "삼전닉스",
+  "굿파트너",
+  "전설의 사내",
+  "무안국제공항",
+  "장윤주",
+  "재테크"
  ],
  "news": [
-  {
-   "title": "리센느, 11월 3일 컴백 확정…‘대세 굳히기’ 나선다",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9XWk5vcGpZZlYzUW00Um8tY2Vqc3hJQzBMQkstdjdhZmlKTjJYMTNfandyTHVObENIaUFpSlRpVlBVVnByYXc?oc=5"
-  },
   {
    "title": "리센느 11월 3일 컴백 확정, 이번엔 진짜 신곡 온다…미니 4집 ‘PULSE’ 지금 주목받는 이유",
    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOGRiakJyRF9DYkROUWtqcVFXR0RtaHg0UmttT19HaDI2MmdWbjlDR2dpNW5hNzJzN1FTMDMycC1IbU9fc290bEZ4MkNrNi03OG5rS2VueDJySnhhenRJX3FibjhZNG1nUmh3UWpEc0dDVFZmbVkwSmVUWU8zTGZFN0NpbWlIaFZIR3cw?oc=5"
   },
   {
-   "title": "영탁, ‘꺾어’ 음악방송 성공적 컴백→챌린지 열풍",
-   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE01bUVtQXBIcTlaUnBSTWNmMmhCWEs4Q3UtR2l0U0dza0dLc2EwbGlfSEVxSDFrdnBCU0x6QVZ5SGpHc29NNFFkWmpGU3N4NmNQZjc2UER3?oc=5"
+   "title": "RESCENE은 지난 11월 '스타'로서의 위상을 재확인했습니다.",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWWlnY2swV3gtMVlkaTVfVm41Y3Z0ZlQ2UG9GeG5VU3dCSVpfV0RtTTNZa19kSTJhX19fUXBRTGxOZnhhM0lvUzVQMTZONzNUWEZWS0ZzclJEU0t0TWhWd1VKSzZWams1NVc0QVhnTjBDUE9wSUV0Tk1adTZOMTJjUVozVXdjSzBQTmlZ?oc=5"
   }
  ],
  "hot": [
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "부산 북항 '부캉이' 인기에 기업·지자체도 '상어 마케팅'",
+   "q": "부캉이",
+   "heat": "연합뉴스 · 09/24 07:30",
+   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVRmE4YkJPeDhLWjdjb0FSaEdlVjRKZ19VTU82TW15cHMxMDduUTkyMFFOT0tLZlBlZ0tZZ3p4MWpSajcwRjYxS2FWUmdlNjY4QUdXdzJ0dnJFU3NDVTA3SNIBYEFVX3lxTFBVRmE4YkJPeDhLWjdjb0FSaEdlVjRKZ19VTU82TW15cHMxMDduUTkyMFFOT0tLZlBlZ0tZZ3p4MWpSajcwRjYxS2FWUmdlNjY4QUdXdzJ0dnJFU3NDVTA3SA?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
   {
    "plats": [
     "tiktok",
@@ -81,6 +89,18 @@
     "reels"
    ],
    "tag": "숏폼",
+   "t": "13년 전 노래인데…베스티 `연애의 조건`, 역주행 열풍",
+   "q": "13년 전 노래인데 베스티 `연애의",
+   "heat": "마이데일리 · 09/22 16:10",
+   "article": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5YLUZmYlVUVGN3eWRRQ1NONkhYeUNjdU5lZVcyQWhvQTByOWhvRHlBLWFhazlTTmhvaDFITE1xYk83eUtnQ2tYbWE4YWFzeE1WMU51MU1YUWtwejA5YWtNaFVka1pWUQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "숏폼",
    "t": "베스티가 해냈다, 쇼츠 인기곡 차트 2위 등극",
    "q": "베스티가 해냈다, 쇼츠 인기곡 차트",
    "heat": "iMBC 연예 · 09/22 14:46",
@@ -90,13 +110,13 @@
   {
    "plats": [
     "x",
-    "threads"
+    "reels"
    ],
-   "tag": "밈",
-   "t": "'부산 상어' 출몰에 '아기상어' 주가 10%대 급등…'밈 테마주' 어디까지",
-   "q": "부산 상어",
-   "heat": "v.daum.net · 09/21 09:45",
-   "article": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE13UVNmdUc5UWw4eU1pcVRzMWFWWlVDYnZpblFQUXdHMVBrb3kxT284dUlYRnduTlRvU0J0Q1NOeEZMMHd0Zmc?oc=5",
+   "tag": "AI",
+   "t": "\"추석 보너스 3만원 입금 완료\"…댓글 폭발한 '악덕 회사' 정체 [이슈+]",
+   "q": "추석 보너스 3만원 입금 완료",
+   "heat": "한국경제 · 09/24 08:58",
+   "article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YckNfQ29yVTRHZDh4WE13ZGdvTXZMazB1OFJzaGpsTGJONlUtWG55Z3lTOTFXUm8tdjdxQ2QtQWNsZ3NRdm5qUlk5Ymw1ZFZnM1lQMWFwUXNPQQ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -105,10 +125,10 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "'AI 대체테스트' SNS서 화제…10년 후 일자리 연간 25만개 감소 전망",
-   "q": "AI 대체테스트",
-   "heat": "아시아경제 · 09/21 18:36",
-   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10ckhPNUliRTJ6R1RlZFllVU9Vd2pmbjBwQUE5T2UwUkJ4Y1BtblhlRkN0amx6eWRvdWROQTFINmpmUlNTb0lFU1VKN3RvUkVGYlZkMU4zOEJWUDRjQXh5Yw?oc=5",
+   "t": "“롯데 우승할 때까지 있어줘”…북항 상어 ‘부캉이’ AI 스타된 사연",
+   "q": "롯데 우승할 때까지 있어줘",
+   "heat": "네이버 프리미엄콘텐츠 · 09/23 14:29",
+   "article": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdXZvNmFsOURYWGduZXV2SlZueWVabS1wSW1tdlZSQ0FMZmlSTk1VUkNDTjhfWkNUOTFEVmpZNi1jMGZmamxwaWZrcEZ5MTROQkVwV1E4V3VBakFVTG5Pd3JuOGVNRW9XdHd1WFg3OXdnSXpPYTV4M0FBdEVpVzdlUmdNcw?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -121,30 +141,6 @@
    "q": "케이엘큐브, 제21회 서울특별시 수어문화제서 생활",
    "heat": "전자신문 · 09/21 13:14",
    "article": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8tek5FOFUxR25aU00yanFNRXNLY0xlV3pMQV9NaHh4b0pHcVBuZFAxNG5lcjR6T3ZNLW95a1lTbTRfaVFjXzM1SHpsaUhydw?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "x"
-   ],
-   "tag": "K-POP",
-   "t": "올아워즈(ALL(H)OURS), 컴백 2주 차 활동 성료",
-   "q": "올아워즈 ALL H OURS ,",
-   "heat": "스포츠경향 · 09/21 23:59",
-   "article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UNUc0clpnUkdWM2JrSEctb0JIM1JTUlVCeWFFdG9QS3E0QkV4UDZzTERNNGFkMTRjaU1CQWtEOHdhdUduTGQ2VGhrRlVxSURDV0lsOHVid254OU10Y3fSAWNBVV95cUxOTHlBX3NEcnJ4X2U3NVdBWHhwel9KNmN1a3JJd1p0dFRieXlMVklOOWt2RTRKVkU4bUgxUXRnX2N2ZVhJVHdUWExnMFZjQ0JNT1BVbmZJNl92dXprai1KT0hmMEE?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "RESCENE은 지난 11월 '스타'로서의 위상을 재확인했습니다.",
-   "q": "스타",
-   "heat": "Vietnam.vn · 09/22 11:44",
-   "article": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWWlnY2swV3gtMVlkaTVfVm41Y3Z0ZlQ2UG9GeG5VU3dCSVpfV0RtTTNZa19kSTJhX19fUXBRTGxOZnhhM0lvUzVQMTZONzNUWEZWS0ZzclJEU0t0TWhWd1VKSzZWams1NVc0QVhnTjBDUE9wSUV0Tk1adTZOMTJjUVozVXdjSzBQTmlZ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
