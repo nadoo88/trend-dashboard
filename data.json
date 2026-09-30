@@ -1,19 +1,43 @@
 {
- "updatedAtKST": "2026-09-29 11:32",
+ "updatedAtKST": "2026-09-30 10:58",
  "trends": [
-  "63빌딩",
-  "윤종훈",
-  "세무서",
-  "개그콘서트",
-  "장한별",
-  "김명수 배우",
-  "정은표",
-  "문화일보",
-  "sl vs nep",
-  "창신 메모리 테크놀로지"
+  "멕시코 대 페루",
+  "아시안게임 롤",
+  "라민 야말",
+  "다음",
+  "김사랑",
+  "핵무기",
+  "빈곤",
+  "원주시",
+  "국군 의 날",
+  "연애전쟁"
  ],
  "news": [],
  "hot": [
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "화제만 되면 가상자산으로…부산 상어 ‘부캉이’ 밈 코인 등장, 시총 17억원",
+   "q": "부캉이",
+   "heat": "더퍼블릭 · 09/29 11:19",
+   "article": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMTFR6eVFsSHJDMnFZUHhBYkY4RWk1eVA3Ynl2X1hFSkctRGNkWWotMmk0M0FuNG12dFNQeGNFdnQySmx5UGdXeG9oVjVjTjZmeE9vN21kNHVNOVFYaW5Bd0V4bG04Qll5aS1YVDJQb9IBb0FVX3lxTFBMTFR6eVFsSHJDMnFZUHhBYkY4RWk1eVA3Ynl2X1hFSkctRGNkWWotMmk0M0FuNG12dFNQeGNFdnQySmx5UGdXeG9oVjVjTjZmeE9vN21kNHVNOVFYaW5Bd0V4bG04Qll5aS1YVDJQbw?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "챌린지",
+   "t": "안동국제탈춤페스티벌 10월 4일까지… 숏폼 댄스 챌린지로 해외 관심 끈다",
+   "q": "안동국제탈춤페스티벌 10월 4일까지 숏폼 댄스",
+   "heat": "디지틀조선일보 · 09/29 10:34",
+   "article": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81akJfdmthMGxqdmdRdDRGVnZtd1gyVDBlUGpPdkNObUVMTjlzLUhpSlpYWVc3VTN3LWdwWDhsVFdnMEotMDloSEozT21DLXZSZDlMMUttOWRCMDZpc3pTMDBPenZBdGprYlplZ21SMXIwZlNYMk9JTk1FNNIBe0FVX3lxTE81akJfdmthMGxqdmdRdDRGVnZtd1gyVDBlUGpPdkNObUVMTjlzLUhpSlpYWVc3VTN3LWdwWDhsVFdnMEotMDloSEozT21DLXZSZDlMMUttOWRCMDZpc3pTMDBPenZBdGprYlplZ21SMXIwZlNYMk9JTk1FNA?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
   {
    "plats": [
     "x",
@@ -53,6 +77,18 @@
   {
    "plats": [
     "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "‘카톡의 미래’라는 화제의 에이전틱 AI ‘인스팅트’ 직접 써보니",
+   "q": "카톡의 미래",
+   "heat": "비즈한국 · 09/29 14:22",
+   "article": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1NG1IUkVIOVc3T2M2b29NaUhfYUp0N3I2WDBlTWhiTFZ1V3hXNUh3V0Q2NHQ0ZjNvUFFWWnY4LUJ1dGZaU1ZfV2c4Wk04S182alRxTWtoQTg1R3BUWWZwSGNzUlQ2UU53dTBLbGpTTmhOSDhHYU90SVV3?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
     "threads"
    ],
    "tag": "밈",
@@ -60,6 +96,30 @@
    "q": "부캉이",
    "heat": "연합뉴스 · 09/28 14:11",
    "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94SU1ZMmNoYTRkZllNaW8tR19ieUg0RE1hbjJzcFB5ZkxQVFNWdFFpMUlsNU02aEVzbHhhSWpsTzFwWXRCcVhnbVpBUnRKQ1BhNDgzSkNxa1BuLXU2c1FtdNIBYEFVX3lxTE94SU1ZMmNoYTRkZllNaW8tR19ieUg0RE1hbjJzcFB5ZkxQVFNWdFFpMUlsNU02aEVzbHhhSWpsTzFwWXRCcVhnbVpBUnRKQ1BhNDgzSkNxa1BuLXU2c1FtdA?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "AI 시대 생존 지침서 '그레이트 리셋 5.0' 화제",
+   "q": "그레이트 리셋 5.0",
+   "heat": "etnews.com · 09/29 11:02",
+   "article": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9FdDZ4OWVFNFlOMkNTYmhFUUtXcFo0a3VMOFoyYTQ3UmNrZ0dPRnJRLWdCX3FnTnhpRWdsd3J2ZGZVX1JNZTNZMmNPVkZ1QQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "챌린지",
+   "t": "안동국제탈춤페스티벌, 세계가 함께 ‘덩실’ 어깨춤이 '들썩'",
+   "q": "덩실",
+   "heat": "잡포스트 · 09/30 10:30",
+   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE40QlM2dVdGd1Y0YU9wZ18zOWF2NGYzV3R1cTVrOThXLThBZS1aVUFubmJocVgxczlCNDlsNW9yQUZ2REVrbTU5Z21lU1g4aGNZU0lPc3BpMlZDVVBjci1MT1JLQ2pFM2N6RWpCQVln0gFyQVVfeXFMT3RvVnJQWDBVMXpueXl2allKTkNGVW9zMnBJeld2YlBlNmxpQjNoal9tZjVrMWpkLWRVV1ZOSHh2a2tsbm5kOG5iX3gxZmlNcGk4bU9XMDdxOXZ1MnU2bk1aUFVKMFdUeUVuX0l5TmtHM0dR?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -72,66 +132,6 @@
    "q": "단편 영화와 AI의 독성 열풍",
    "heat": "Vietnam.vn · 09/29 00:59",
    "article": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUFpEbTBkNlVhRW45WEhzNzJ5Yy1ON3BpcnRoLXRDREhLQWN6M0JjNUZYeElOOTdIRzN1RlVTYV9UQjliV0h3WTI5ZkV5Z1RhZVpxSmdzY1ZBcnEtT2xlSncwVXZWek11ZmJkMkZtcG1ZUlE0dHQ1MDlMTzBXeDJwQk1BQ1M3OGVDUXhrV3RQMmVYTkZiVHJvakp5Yw?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "숏폼",
-   "t": "석예빈 디티디(DTD), 외국인 K컬처 추석 팸투어 인기폭발[PS]",
-   "q": "석예빈 디티디 DTD , 외국인",
-   "heat": "v.daum.net · 09/28 17:52",
-   "article": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YbGtmWHphZmo4YVJRQklWLUhRSWYwcHp1aHhRd1dtb1lmZjU1ajN1T3lRbzJadEh3MkQ0R1hSeE5YZm5FZGdMb2FfVUE2R1E?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "실사 없이 조회수 200만, 화제의 AI 드라마",
-   "q": "실사 없이 조회수 200만, 화제의",
-   "heat": "뉴닉 · 09/28 11:19",
-   "article": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6bTdvM3F0ZGcwVk9zbTFUT1lqZV9YQ0NUMDlocTB1dTA1WlJXRkhlUlNaYXAtNFU0cGhBbGhld3RtaVBNbktYOVFVWTEtUklXNE1tSw?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "‘부캉이’ 코인까지 나왔다…시총 17억, ‘98% 폭락’ 늑구 전철 밟나",
-   "q": "부캉이",
-   "heat": "kyeonggi.com · 09/28 14:38",
-   "article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OZHh6VFphbl8wQTFSN2hKajNYdlQ5T2Q4dmFRcFJEc1AyZHpka2x6Q0RVWHRxMUdVOG4xWkkwMjlXTEhvVnFJbGlFaTJYbTVxTHk2d0JmSXBWRlE?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "라라스테이션, 글로벌 팬덤을 'IP'로…커머스 수익화 모델 키운다",
-   "q": "IP",
-   "heat": "어패럴뉴스 · 09/29 02:23",
-   "article": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCM2gyX1VzYmNUVFRzTXBhVFVONERaemhBay1zTGNzeG9CclNzMUZYUFhsU252X2xXY0l1WFZXaF8ydmpodk1jLWgtcENGczZ6Y01QLU5uZW50RklKT1d5VGVhcmRRNi1hb0VyVy1qQy05VS1fd0w0?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "부산 동구 '부캉이' 캐릭터 개발 나선다…다음달 23일까지 공모전",
-   "q": "부캉이",
-   "heat": "뉴스1 · 09/28 16:14",
-   "article": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1yYnRpLXpZdjRlSmJ4Y0l1RDZ5Z3JOanpCRTFjZF8xaEdnUWVfaFAwRVhaVXpDa3dPd2JrTGNrU2ZYVGppcFlJek5mckFWS1F5ekNkNUh5SUVnQTZOQlRmVXNlTm7SAWRBVV95cUxNcmJ0aS16WXY0ZUpieGNJdUQ2eWdyTmp6QkUxY2RfMWhHZ1FlX2hQMEVYWlV6Q2t3T3dia0xja1NmWFRqaXBZSXpOZnJBVktReXpDZDVIeUlFZ0E2TkJUZlVzZU5u?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
