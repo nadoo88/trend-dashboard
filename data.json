@@ -1,16 +1,16 @@
 {
- "updatedAtKST": "2026-10-04 11:30",
+ "updatedAtKST": "2026-10-05 10:47",
  "trends": [
-  "조여정",
-  "띠별 운세",
-  "argentina vs burkina faso",
-  "아르헨티나 대 부르키나파소",
-  "자전거",
-  "오타니 쇼헤이",
-  "보그",
-  "현대 투싼",
-  "퇴직",
-  "김하성"
+  "브레이브스 대 다저스",
+  "김준현",
+  "황재균",
+  "미운 우리 새끼",
+  "김성근",
+  "구속",
+  "교사",
+  "lpga",
+  "임신",
+  "나는 solo"
  ],
  "news": [],
  "hot": [
@@ -20,10 +20,22 @@
     "threads"
    ],
    "tag": "밈",
+   "t": "\"'부캉이' 뜨자 8억원 몰렸다\"…화제만 되면 코인부터 만들어",
+   "q": "부캉이",
+   "heat": "한국경제 · 10/03 08:17",
+   "article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TX0kta29kaVIxaEdac18tUHFpUkxod18wRWNZSWJDdlFvMndDRGhJcTh4Zld4ZzRWN0VNSkJXdWxTdzVTeHdMZ3JrRzlHX3A1dU5qbWZ3YlJjUQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
    "t": "부캉이부터 푸바오까지…韓서 화제되면 '밈코인'부터 나온다",
    "q": "밈코인",
    "heat": "v.daum.net · 10/03 06:11",
-   "article": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5PSkJzNG9RczJPTkZJNnVnai1teTZqdzlWVXh6RjlIaDBFZXFuYjZKdlVCMjlXN3hLcU1iUlI4eUJucWkwNXc?oc=5",
+   "article": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12MWR2V1hodWIxS1dUd21oUDBLMFRELTE3UnRCQzdNOWZkTW0tR1RodUF0bHk2dnQ0dUpPTFMwQ3VTQThCejhaUnpYVQ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -58,20 +70,8 @@
    "tag": "K-POP",
    "t": "지상렬, 20년 만에 뮤뱅 출근길 포착…샤이니 민호와 소주밤 챌린지('살림남')",
    "q": "살림남",
-   "heat": "스포츠조선 · 10/02 10:40",
-   "article": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV1ZfUk0yQnVXMl95QnVxUlFvQTYzWTZSVms0Y09YZWE2a3Vtc1RCMWQ2ZGx0bnZYdHFpazdWMzZaWjVxR3hfNWV5V3R0cklSd3c4NC1QcmxxVk9FTGY3VU1LM3pPQlJvLVVKYmZjakZrd2JjQTR4SEwzeTNVTlhOYnJfSzM?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "“축제가 끝난 후 청소 퍼레이드도 감동!”...서초구 ‘서리풀 청소 퍼레이드’ 300만 누리꾼 화제",
-   "q": "축제가 끝난 후 청소 퍼레이드도 감동!",
-   "heat": "헤럴드경제 · 10/02 07:13",
-   "article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9MMmVUV2xCanotVjlMb1FweHhJb2M0Yk14YkY5YlYxbk1lYzlrTEx6cjZ2YlV3MFBsRm1nYm02VWFUX2Zod2N2SktrajkwREJJbXBoVHZR?oc=5",
+   "heat": "조선일보 · 10/02 11:51",
+   "article": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSmZ4cV90LTNqbVRud3lrcDVqZkJnMU5HYUlwd1lyNVVuaHVidnczRi16NzNlUGFpRWdxX0xMX2twZVJqXzlBVlNtTUYzVWt5V18tSHJGWk5uRDNqZzBMZVQzNkxINmJMODQtYzlGeTNnSlNjWFgtMWhZZGhtdnRHRmYwMXFSYzVPNlFseFUybw?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -88,18 +88,6 @@
   },
   {
    "plats": [
-    "tiktok",
-    "x"
-   ],
-   "tag": "K-POP",
-   "t": "지상렬, 20년 만 가수 컴백인데…“사실 노래 울렁증 있다” (살림남)",
-   "q": "사실 노래 울렁증 있다",
-   "heat": "sports.donga.com · 10/02 09:27",
-   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE44NzhRd2l2NFpnNVdNR2ZiN1FwcTdBVEo4NHYxTVlQZEJRTGh3bWlaRVlYNzRxOHFwRkRKakp5VFhaUF9JcDNWcXVkMlVLUkpUUjVuTHQyd1VIaGJoN0RrM2s5cVFYMXloSVRfYkZn?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
     "x",
     "reels"
    ],
@@ -112,18 +100,6 @@
   },
   {
    "plats": [
-    "tiktok",
-    "x"
-   ],
-   "tag": "K-POP",
-   "t": "지상렬, 20년 만의 가수 컴백 ‘비상’…“노래 울렁증 있다”",
-   "q": "비상",
-   "heat": "sports.donga.com · 10/02 07:58",
-   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oZXNoU2NodV9sOTNFY2x0NnE5U2ZMQUZkcVZJN2xUVHZrcXFRRlVNRE1PUHBhZlNkSzFyS2tGTHI5WGZrcDM4VlB6WHVkS3BIZnRzVlF2R0gtWjhYbUhVOWt5WnUwaFczVmFNSlNB?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
     "x",
     "reels"
    ],
@@ -132,6 +108,30 @@
    "q": "소개 페이지에서 살펴볼 토토 나르샤",
    "heat": "Calgary Roughnecks · 10/03 16:14",
    "article": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRDhxbTJiMHNFdWtESzhITjg5SDhkVThPcHBMOGJNblJRRVhxQl9tWkRuUV9xR0VrTVo4VWF1R1B6MU14SnlqNnlNeUFoczhXdklfRTJKZTRCRGNXS19YTllOV0V0QXZlN2N4eFMyMHBkQ1k2amFOUXBUUGs1RWpmdFFWaG55RTUyZXY5OGFRcllBV2hPZzA5VzdlZ0RyMnc0aEQ4R0hOOHdFOF9Ed1lPVF85emZNMy1vSmgwajhBc3FlYTJ3?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "요즘 SNS는 먼작귀·치이카와가 점령했다고? [이 주의 트렌드 ❤️‍🔥]",
+   "q": "요즘 SNS는 먼작귀 치이카와가 점령했다고?",
+   "heat": "뉴닉 · 10/02 15:00",
+   "article": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5NcHVGdk4wRFNGdWhDb1BmX3BSWXEtYXRWS3dVaVQ5dTdRMHRxUk9BWG5pNkgxbkdrZElhckNDQlRmZU5URWRnODN1UmtOa21NMnFWSkNrUQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "“여성 팬 많이 생겼다”…’타짜4′ 스윙스, 제작진 질문에 인정→정작 “여친은 無” 씁쓸 [MHN:픽]",
+   "q": "여성 팬 많이 생겼다",
+   "heat": "mhnse.com · 10/02 11:41",
+   "article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YdUNuem5NbHZ2MlZiVmstUEtBUkdwSl9vTEIzdHhYTmtnWUNvX3JkQXFSSm9pS0o5aUl0VFk3X3p3cVZOOGlJOGJyRjVTS2dCd3BfNkNxVThOV2FGdFVGUG5tdw?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
