@@ -1,19 +1,67 @@
 {
- "updatedAtKST": "2026-10-08 11:37",
+ "updatedAtKST": "2026-10-09 11:52",
  "trends": [
-  "구글플레이",
-  "신세계",
-  "토미 에드먼",
-  "티빙 보상",
-  "티빙 보상 신청",
-  "카드뉴스",
-  "송금",
-  "라이언 와이스",
-  "제민일보",
-  "최순실"
+  "nba",
+  "안젤라 박",
+  "네이마르",
+  "집",
+  "도깨비의 세계 보물상자",
+  "자산",
+  "잠실 돔 구장",
+  "프리미어리그",
+  "한글날 태극기",
+  "울산공업축제"
  ],
  "news": [],
  "hot": [
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "'배드' 열풍 에이티즈...내달 13일 컴백",
+   "q": "배드",
+   "heat": "더쎈뉴스 · 10/08 16:49",
+   "article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hNFNueWtZeXRHX3VZTVdVUDVJTlFTaWxadE1nbENSUGJYMWxaNGhOVFBYVmI3VTlOazBSZEpOdGszOFFabzA4TW5UTUROa3VPa3l2SHNjdW9EeWI4aU1ZVDJBcF84S2c?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "에이티즈 ′배드′ 열기 잇는다…11월 13일 컴백",
+   "q": "에이티즈 ′배드′ 열기 잇는다 11월",
+   "heat": "시사투데이 · 10/08 11:36",
+   "article": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBpS2FKUlVhOEstNFVXOEZLQ3BuVm4yc3daOWRPT21XOWRKSzNKcmx6dU1fc2dvVzlMTG81aE5OYmJwYkE1MjMzN3lzSldfOGVpd3VibXM3a9IBV0FVX3lxTFBpS2FKUlVhOEstNFVXOEZLQ3BuVm4yc3daOWRPT21XOWRKSzNKcmx6dU1fc2dvVzlMTG81aE5OYmJwYkE1MjMzN3lzSldfOGVpd3VibXM3aw?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "로딩 중 표시를 이해하는 카지노 칩 단위 쇼미더벳 접속 안내",
+   "q": "로딩 중 표시를 이해하는 카지노",
+   "heat": "Calgary Roughnecks · 10/09 05:47",
+   "article": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeHdSVG15V1MyaHJpcWdOMzZZZmJwV1FqQVZEYUNvUVZpeWJXVDdDY1pkdmdkVEp6cFZRcjJMSndiZXh0Z3Q4Wm9KdmdyNEJFbFlEQ2xCaW9uVXNSS3JaZjNpeUZta3M3ZlgtY2NKTlN5enQwVUZRWVBFZFFrZVpGRHpmT2l5WmNodU1GSUh1Y2VPRTlVZ1Z5T3dTWk1kZXBzWXMxM1pERTNtOHUtMU81ZTNobEp2cjdNYnZnbVgyX0IzYzlZUVUwRFMwRzY?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "게임 정보 페이지를 천천히 읽는 토토밥 홍천",
+   "q": "게임 정보 페이지를 천천히 읽는",
+   "heat": "Calgary Roughnecks · 10/08 20:33",
+   "article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xQWpwTGJlSTZvd2x3RThXYzJydFpQanVyTHdLTzdtSlBLSXYyTVNjcHU1Q0pEeG5KVkMxMl9oMHZranhybHR6R1VZNktmM29CclZZczJ3MDFpTDByYWtDb2d0RmNBa1NYbXdR?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
   {
    "plats": [
     "x",
@@ -41,13 +89,25 @@
   {
    "plats": [
     "x",
-    "reels"
+    "threads"
    ],
-   "tag": "AI",
-   "t": "아이딧, 화제의 ‘제복 판타지’ 포착 ‘눈호강 비주얼’",
-   "q": "제복 판타지",
-   "heat": "Chosunbiz · 10/07 13:51",
-   "article": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZWIwYWttVWloSTM3WmI2R09ZQWtwRVdDcFAzczl6SGNRX2h4MDRCTlIweHdSNllQcmg5c1pVejk2VUtJb05xS2kwVXlrT3dWcTg4eWtfc3IwNUE3Qkxma3JyRGNIYy1hWXNGSl9RV244UHI1RVJuQmpXOFBqSl9McGNYZjJOZDU0R05CaXJxZUV3d0nSAacBQVVfeXFMTjRqc3RGb0dYdm1ZUVlrRHYyTU1KdEV6b1JHYkk3YXRGUlBQX0FmRENqMDFpQ1U1ZHQwb1h1N3RheHhZUkhzMjI0UDBZdmFMQ2IxblQzNkxSOGxmT2ZJTXpxS3hjN2JVYjRUa1F2T0tULUZhbUloaFByMFAtd3Faekd5S3BWS2VHZS1sNURCOFM3dnU2OVZqT2FkVzFtTF9HVmEtWHVueFE?oc=5",
+   "tag": "밈",
+   "t": "에이티즈, '배드' 열기 잇는다…내달 13일 미니 15집",
+   "q": "배드",
+   "heat": "연합뉴스 · 10/08 11:36",
+   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xSlJqVzFVQUZnSXZrU0N5QmNIWEZkNjBnOVA4ejVPV0ZONmd1eEtHYjlzRENLaE1GNjY4RzRTMUJWWE9yckIxZGJDWUtPb2FVcnI1QWdNY1VEbVNiekdTc9IBYEFVX3lxTE4xSlJqVzFVQUZnSXZrU0N5QmNIWEZkNjBnOVA4ejVPV0ZONmd1eEtHYjlzRENLaE1GNjY4RzRTMUJWWE9yckIxZGJDWUtPb2FVcnI1QWdNY1VEbVNiekdTcw?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "와이즈토토일정 더블유사이트 잭팟 기능 유무와 적용 조건",
+   "q": "와이즈토토일정 더블유사이트 잭팟 기능 유무와",
+   "heat": "Calgary Roughnecks · 10/08 10:48",
+   "article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RM1BpcnlhOHk2MGlYSGVJaFp5aDNMYTlsQkhVZzlsZkYyUHUwYnh4X28tbFg5U3hpRDVSSE1zd3JlMFdqRzE5Y0FLR2Q5WXNTSVJRcFNBQlBzVUlPd0w3OW9KZzJfOVB0cTMwTmUza3dGc3RTbmlXeg?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -68,70 +128,10 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "'엔비디아 CEO 젠슨 황이 마이클 잭슨처럼 춤추는' AI 영상이 화제가 되고 있다.",
-   "q": "'엔비디아 CEO 젠슨 황이 마이클",
-   "heat": "Vietnam.vn · 10/06 16:00",
-   "article": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQnVWSmFMZ2VPdjN1ZG8xcVMzakVmWVZNa3B2UEVoQXdfdzhaR0ZNNXRYOG0zX084WkxUcDcxdk1iYUV3RkhtcVRxZzM0Q0YzTmtYWWdvZ2ZNcDBGOG9VRURGYkJOZU5GOFZCY056cGprUWduV1ZPbjJyLUFrMHVrTGVYS2pZRk03dXhLUWlQVWgyUlU5d3c?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "MLB, ‘에이스러너’ AI 화보 화제",
-   "q": "에이스러너",
-   "heat": "패션포스트 · 10/06 12:10",
-   "article": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSUxOYU9oTjhsOWd6SHR1Wk9YbUl5VElIa2doaVlxRXNPMGxsM1ItX2t3SFhrcWZFOEN0cFhfVFpya2xadTBoZFE2aVZyWHFGWXRPNXZvLW1oWjVMdHVoRC03QTBBWnVxQUl1UDg4VlZDTGdlS3lSUkZWOUtmT1RPNGdPZTJtZw?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "KT, 한글날 맞아 어린이 그림책 문화행사 개최",
-   "q": "KT, 한글날 맞아 어린이 그림책",
-   "heat": "www.dhns.co.kr · 10/08 10:11",
-   "article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zM0RCZ0UxcVdNWFlJWENOQUtZTE05eHB2N2lFWmVEam1wbzVtLUJlQjQ5NDA4dTlOMXBJeFc2MlJmdS15NjZQenJET3M0am9qQ3kwUlp5RkIxdmo4VWg2QmVwdEhZQm8?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "과천 경마장 입장 방법 연결이 끊긴 뒤의 확인 순서",
-   "q": "과천 경마장 입장 방법 연결이",
-   "heat": "Calgary Roughnecks · 10/07 07:55",
-   "article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5HdVNNMFRtaWcxMEtEdzJ3aTViSWFHY2EtU1cwbFRuRkZQTmU0ejh0b2Zodm1UWFJmVlNJODdnaHdHcElLdk1NVXZ5R3JlNTZ5N0czcXg5dWdobllKa2Y1Y04xSjJpc1FzcE5r?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "챌린지",
-   "t": "‘밥값 하는 남자들’ 이준·딘딘 “우리도 먹방 한다”… 일요일 간판 예능 도전장",
-   "q": "밥값 하는 남자들",
-   "heat": "위키트리 · 10/06 15:42",
-   "article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kclJHWmY0c0hVX2toTWJpN2RhaFZMTHNXSTk2NkJWVHEzZlJPd3BvMTRFVUVLT3lMTkcycUYzUHo2VjB6dkUtRVdBYzVHMlVfUFN3Y09B?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "챌린지",
-   "t": "말도 안 되는 '지뢰 폭발 조롱 논란'... 마녀사냥에 고개 숙인 금메달리스트 [아이치 나고야 AG]",
-   "q": "지뢰 폭발 조롱 논란",
-   "heat": "머니투데이 · 10/06 07:00",
-   "article": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSLUNoNThmTmFPSWJ2UWIwbnFSS3BlMkRNWjBGRlJMTENtWlQ5YmtQWFlhaVc3OGIwSUIzS0FnSktzQkRmdUVTMWhZWFU5WlljVF8xbzFWMUN1dkRVcnVwWUhpOFJlUE05UUhJeTVFTdIBb0FVX3lxTFBSLUNoNThmTmFPSWJ2UWIwbnFSS3BlMkRNWjBGRlJMTENtWlQ5YmtQWFlhaVc3OGIwSUIzS0FnSktzQkRmdUVTMWhZWFU5WlljVF8xbzFWMUN1dkRVcnVwWUhpOFJlUE05UUhJeTVFTQ?oc=5",
+   "t": "선덕여왕, 올 AI 애니메이션으로 깨어난다…EBS ‘덩이랑 쾡이랑 인물 한국사’",
+   "q": "덩이랑 쾡이랑 인물 한국사",
+   "heat": "스포츠경향 · 10/08 16:10",
+   "article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50UGZxYUhQcXdmU09ORXRBbzViM0Y3TWVFT0RweWxMZmVKOVFXdGNlSXpLRDRjM0k4b1d6ZDlfT3VMcmFyQ3ppMDd5ZGNKWF9JanBDVWdIUThFcnVlWkHSAWNBVV95cUxQUXNlczdmUHpzdEQydS1lc3Rud3FUWHBwRHZvcVE2YUptNlNhOGRFeEdDdFRPTzFsekpIRlhZXzdzTlJqbGNXZmRfbGVUbjJ2alA1bGxTaGt3d191Wm5zRHhTSWc?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
