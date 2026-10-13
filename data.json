@@ -1,16 +1,16 @@
 {
- "updatedAtKST": "2026-10-12 11:13",
+ "updatedAtKST": "2026-10-13 12:28",
  "trends": [
-  "조희대",
-  "임차인",
-  "손태영",
-  "국회",
-  "국민은행",
-  "국정감사",
-  "두산에너빌리티 주가",
-  "금융투자협회",
-  "삼성전자 주가",
-  "코스피지수"
+  "특허 괴물",
+  "장애인",
+  "삼성전자 주식",
+  "선로",
+  "이범호",
+  "유럽 연합군 최고 사령관",
+  "놀",
+  "삼성전기 주가",
+  "브레이킹 배드",
+  "삼전 주가"
  ],
  "news": [],
  "hot": [
@@ -53,6 +53,18 @@
   {
    "plats": [
     "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "\"로만 디코 스트롱, 유 스트롱\" 통역 없는 유도 이현지 인터뷰 화제",
+   "q": "로만 디코 스트롱, 유 스트롱",
+   "heat": "노컷뉴스 · 10/12 16:18",
+   "article": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcXVPSG1Xc0UtYkFDX0NXWWNmVUhlaGVnbmF5cl9nWTZoY0huTDVDUzB3LVNJZ2JORzhkZ0NNeGFJekh1alB1bDl0RG9iU1dBWlgzektjQmJ0MEo3R2ZhVVdlRk1qZGM4c05yOERkUll3VTN5cWpTbGVXVXZTTElBWHBMWVZUbDBFUUFjUzFKOUs1ckFDbGVfcktHdjE3amx2S2lhaWJQWlhaNHUxanZlWQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
     "threads"
    ],
    "tag": "밈",
@@ -60,6 +72,30 @@
    "q": "해외에서 유행 중인 밈, 베컴이",
    "heat": "지큐 코리아 (GQ Korea) · 10/11 12:58",
    "article": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNbW1pY1ktNzA3X0gwOTVOVU1YdXpsSkxSR0Zabk9GN0NKSWhQdk9aLVFOUlRZbFNyTzc1RmJUb2NzMno5YVk0LUR5SVctdjFPMnprWFA1LVNLeVlfUU50c29GS0hYVGxTUlRXdzNQWWdNWWNCQ3UtdldJZVpDcFFTVF8yYjBodlYzOWVTaHJfWlhmclUtTHVRUUtaaG9iQVBXWFE0WENucG1Vb2xQQ3hTTnowcXZ2UWdvUWZKX2ZxVzV4RklHM1IzM3E1dTRmNGZRakhSb21YTDZkYWk0TjM0RmQzVEhtOWlKZjUweDhKVS1BeWpYS3VWaXUyY1lON0h4UkpMb05OeS1wMmRjTm9QYk5ma051andoRmZJVEgwM1ZJMURFUmtiLWM5T0dWOTFwdzlhYUY5MVlDQUpwTnFpeTVtUUdCOHFoZml1djRDT0NIQTJ2?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "최대 연 19% 얹어준다…화제의 적금, 오늘부터 달라진다",
+   "q": "최대 연 19% 얹어준다 화제의",
+   "heat": "SBS Biz · 10/12 06:58",
+   "article": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEay1aMzBfXy10eHRGaHhmZE1fLUNKTTd5REhCa1ZpS0ZJbnVfX2FkSkItRVJTVDFwWG5SVUk0TUkxc0tUTFpxbTFFaXc4eXZVSlc2MUJxMTXSAVhBVV95cUxQRGstWjMwX18tdHh0Rmh4ZmRNXy1DSk03eURIQmtWaUtGSW51X19hZEpCLUVSU1QxcFhuUlVJNE1JMXNLVExacW0xRWl3OHl2VUpXNjFCcTE1?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "x"
+   ],
+   "tag": "K-POP",
+   "t": "플레이브, 오늘(12일) '하이퍼드라이브' 초고속 컴백..첫 월드투어 출격",
+   "q": "하이퍼드라이브",
+   "heat": "스타뉴스 · 10/12 13:45",
+   "article": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LeDlySE1UQzIwOWI5bHVrbUEtWGdlRGY3ZF8wcld2T1JCeVYyeVRFdGNEM2VBNE9tTVA5eHYxVlFBOEw2R2JjNnNWdzlndGdENW12LXdMb1BXRU9JcnpxM3BHNXJJMEptSVhZaXlYeXBrWVZn?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -76,62 +112,26 @@
   },
   {
    "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "숏폼",
-   "t": "숏드라마 가능성",
-   "q": "숏드라마 가능성",
-   "heat": "전라일보 · 10/11 14:23",
-   "article": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnbGFyRnF5VTlfbms4bXlmVmpIMXpCZmhEM1kyek1Id2g5d002WndQMmo2bkVHTHMwZkZuS1g3U0Z5bDd5QjYyMWRSSVEtbE5JbWxJSERhU2VPWFE5YTZqMG9pYVBHdktZcVlCVHEta2jSAXBBVV95cUxQZ2xhckZxeVU5X25rOG15ZlZqSDF6QmZoRDNZMnpNSHdoOXdNNlp3UDJqNm5FR0xzMGZGbktYN1NGeWw3eUI2MjFkUklRLWxOSW1sSUhEYVNlT1hROWE2ajBvaWFQR3ZLWXFZQlRxLWto?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "숏폼",
-   "t": "AI 영상, 이제 광고 소재로 활용할 수 있을까?",
-   "q": "AI 영상, 이제 광고 소재로",
-   "heat": "오픈애즈 · 10/11 11:10",
-   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoOXgxRnQyMXlFYzE1QjV1cDRvNzMxWnBfZXJJMjI3ZEJCakQwLThJMlRDR2lLbXdSdm1CbkNhU1JMS0lkZzN1SVhjd3FrcjNUaVRWS2dVU0pOaFVmTVQ5NVlsVTRLWk9kaExtZEpR?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "`부국제` 거장의 향연 속 문제적 ★, 그리고 `암살자(들)` [제31회 BIFF 중간결산]",
-   "q": "`부국제` 거장의 향연 속 문제적",
-   "heat": "마이데일리 · 10/10 22:14",
-   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAteG1odWFRQW81X1Q5X21meEphMGJvZFdpMjVsV2ZCNUR3d00tTjNHUGZQcktvZ0h5eEFja0J6OTdBbnR2c0FIYWVGSFdpWWd6ampORC0yNUdfY2hEbEZtcA?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "기관총 든 관우? “삼국지는 건들지 마”…中 AI 드라마 논쟁[중국나라]",
-   "q": "삼국지는 건들지 마",
-   "heat": "이데일리 · 10/10 15:36",
-   "article": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZmkzVkRQTWtwRzU2RzFfNWF2bmdKOHhWMHMtZDV1c3E0aUplYWQ3LTVHbHRUbUVnelVsUjFtSDRHYUFBbWZjbmpOQnBzc3EtQW9WV3BFcmFpdURMZnJvWTBSMUM1RkthUlJETnN1eGk0MzVVRzducHVFdTd0Qmt5Mg?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
     "x",
     "threads"
    ],
    "tag": "밈",
-   "t": "처음 이용하기 전 읽는 카지노 8화 누누티비 이용 제한 정보",
-   "q": "처음 이용하기 전 읽는 카지노",
-   "heat": "Calgary Roughnecks · 10/09 15:27",
-   "article": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNel91Ynl2d3JPWllZeVVaWHRYNERjQlN4ajZkNG85bmFsbmprblFURTdZeU85SmlHYUJCdXJGdlVvaEx3RFFZTzkwMTc3RXlHWW5kOGhPRmZtZFA2cWdmczlHZVhocEVlVWRqMDRQZ3RKZnAyZmhkYmo3YXE1b05TcTJJaE9DODFxbnVhNlZCZWgtS1luc3pYY3V3b0VjU2JLdDBwUjBqcGx2emxldnR2M01JVWRQOExuZ0NCR2R1MWR4QQ?oc=5",
+   "t": "와일드가 모든 심벌을 대신하나요? 제주 오리엔탈 카지노 규칙 확인",
+   "q": "와일드가 모든 심벌을 대신하나요? 제주",
+   "heat": "Calgary Roughnecks · 10/12 20:37",
+   "article": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeDgzVUZvNTRoM3lxXzBMSi1GNHdzSVN3cTMwTUlvcW5tQ0NyUHlkZVkycHFZUXpmMHhpeFNZQXY4WnE0ZUtUR3FqRFo3WnE3RzhkQ3JOSC1iaEhKOFZOaG1vejRiV0VWZXMweXJxUF9xUnBPbW53QjhUc3pGUzBjdXlNV2lvTXBadTg0QWtVYXB2QlFRaHMtNXZWSnFSNW9sekRLT1M5amdQOEdHVEtpb3NmTTd6dFFzeEFodA?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "도박인생 연결이 끊긴 뒤의 확인 순서",
+   "q": "도박인생 연결이 끊긴 뒤의 확인",
+   "heat": "Calgary Roughnecks · 10/13 09:30",
+   "article": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JNmdQYS1vZHV5V2RlZzQ1MlYtOWxQb3NVV1BoTjhTSkM3NTBmUkMxSmNMX3N4dGsycjhmYzdFZndYNjU0UGdkcVdCbHdrV213OS1lQU1fS0lscTY2Z1Zz?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
