@@ -1,19 +1,36 @@
 {
- "updatedAtKST": "2026-10-19 10:01",
+ "updatedAtKST": "2026-10-20 10:40",
  "trends": [
-  "네이버",
-  "빌라",
-  "별자리",
-  "김하영",
-  "대기업",
-  "나스닥 선물",
-  "토스증권",
-  "하도급",
-  "김승수",
-  "허양임"
+  "유튜버",
+  "박준형",
+  "엘리스그룹",
+  "솔리다임",
+  "배영만",
+  "독도",
+  "김학래",
+  "가디언즈 대 레이스",
+  "심형래",
+  "세종특별자치시"
  ],
- "news": [],
+ "news": [
+  {
+   "title": "‘더쇼’ 성한빈 솔로 데뷔·유주 컴백 무대",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wVzJHcUxKTm1tX0Itb0Rqd2JMdkVNalNFRzJqVnNKS1JSZGdJT0szYWpsbmg5ZXYyTVNDcTE0N1huRFRtLWY5Z3ItdFd6aU9WS0g2eFNlUHdFTVppSHNrTWFPMWg?oc=5"
+  }
+ ],
  "hot": [
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "챌린지",
+   "t": "[이즈] 💃 \"미혼앤 비혼~\" 사진 한 장으로 누구나 걸그룹, AI 댄스 챌린지",
+   "q": "미혼앤 비혼~",
+   "heat": "이즈보험 · 10/18 18:49",
+   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2OGZra08yeXYtb29zVktEcTlsNWZiWGZNTEpuRU5oUVFXMEVmZ2dURWdLNTZFc1M1QnNfWm5XV1RGRFRIb294RjFBQXRvM0dlZkRjV1Y5cmRWeFJNa0lxUw?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
   {
    "plats": [
     "x",
@@ -24,6 +41,18 @@
    "q": "로드스터",
    "heat": "세계일보 · 10/18 16:32",
    "article": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BVXdRbFg4dHRRNzBva2pzdmF6QVNYN21sYUJadjgwMjQyNzBtRlUzTUN3SktBNzRLV2ZsQnFWekRJZ2NFY2JUQXpNYklhV2dDYmhYRFdlazbSAVRBVV95cUxQZm5LNzByOVppOGFfeXdwSDl5SUpoT2JjN28zal9xclBvU2NrRUdPdGI0X2lMOVFBTFBDQTZnd29sR3AzTzR3Yjd5clJzVXJxdGhONDk?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "강소라, 무협 콘텐츠 290만 뷰 화제...'유퀴즈'서 입담 펼친다",
+   "q": "유퀴즈",
+   "heat": "국제뉴스 · 10/19 15:34",
+   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOZTBSS0VUZGVQTmk2Zks3dkJMY1FSVzRpc2NMT1RiMjhVdlgwLXBYdlV0b3pqSklzd3MwYnpHOXpFVE1UMDNmd2xWZG5JSEg2SERYNkFmSW5ld3JpMHBoOXMydmtpR21QTDc0bS1B?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -77,61 +106,37 @@
   {
    "plats": [
     "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "[속보]'23명 화재참사' 아리셀 박순관 대표 징역 4년 확정",
+   "q": "23명 화재참사",
+   "heat": "노컷뉴스 · 10/20 10:07",
+   "article": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONXNTTFJEZENqc1djR3ZpUHJlVTd0TTUtbEFUcWdRSGdvc0NrM04tYk44UHI2UU01SnQ4TVMwUTBZS0k3bEtfYWhQcENfV20yLU5WNVZuamlOLW4tbnE0Tl9GcldOSEdySkQyaXVoSkdQWnRnQWx4MFNlazdGX0RwZV92akY4d3N5eXVMa1ZmQ3BxM3BweHV5aHBnMHlIVklhQnAtbHV3azVIQzM0YnVpYQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
     "threads"
    ],
    "tag": "밈",
-   "t": "경고: '플래시 스텝' 댄스 유행으로 많은 사람들이 병원에 실려 갈 수 있습니다.",
-   "q": "플래시 스텝",
-   "heat": "Vietnam.vn · 10/17 10:29",
-   "article": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMGNrd3J4ejVrelBXRTZ4cHRCMlExV0ZNZ0dqQWJxTVhCYUlONVN3NzJYRHl5aGY2ZjRCbTl6aElWcktPVG0wMXJSMDRmd3pmRjlkemJHaGtzVnVkTXlXOVJPa29IOHp1bUJrb0xfT19TY19oTkI3b3lQY1ZFU0I2TGVSZjB5V0tkZUdlSmQxdndDcWZTVm81ZS1n?oc=5",
+   "t": "같은 심벌이 모이면 어떻게 될까? 트럼프 이더리움 판정 방식",
+   "q": "같은 심벌이 모이면 어떻게 될까?",
+   "heat": "Calgary Roughnecks · 10/19 09:40",
+   "article": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5DYzFwdXRSOUpuOTNpa2IyaVhlcm9pSzE0MS1MMHFKN0ZnM1pBMlBBa2JncDhDay1PS3U3ZHFOTHd6Q3JMN3dob2xLTGVzc3FzckNyakZKdnUxaHl6NjZDSXVSakFVd29oWVA2TzdQU25rSlBBbkEteUJoSm9wQQ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
    "plats": [
-    "tiktok",
-    "reels"
+    "x",
+    "threads"
    ],
-   "tag": "챌린지",
-   "t": "미나, 홀로 美 떠난 ♥류필립 얼마나 그리웠으면…\"이 정도면 강제 소환\"",
-   "q": "이 정도면 강제 소환",
-   "heat": "스포츠조선 · 10/19 06:10",
-   "article": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0J0djRXWDlDTnd5M2tqSDdfeTByNW9nNFhlemc4TXhvMkJIa21ZSFNnM1ZyN3ZGazZGZjVqTU9qSGkwU3NZcVh2dzNfaXREYUtMSS0tM0ZlS2FXU3RzdUhOd090RzhNYU5sV25FTWdlUnZFNXZCRmFCYWx5ZHJ4V09xUHI?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "x"
-   ],
-   "tag": "K-POP",
-   "t": "엔믹스, 컴백 하루 앞두고 신곡 뮤비 티저 공개...기대감 UP",
-   "q": "엔믹스, 컴백 하루 앞두고 신곡",
-   "heat": "머니투데이 · 10/18 11:00",
-   "article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KNFFXZThkSmw1clJIWWgyOVhaTzdkVkZtc2ZhTWR3d2JTTWlRdWJ6YmZZZHhseU91UGV5eWFiMy1DdVZvbjV0c2FHQm1YaXpCU192eTVfNG9PMHNMSXRpUW5aOEVaQWo1NVIxelkxZDBiZTZTcmZpaNIBeEFVX3lxTE1KNFFXZThkSmw1clJIWWgyOVhaTzdkVkZtc2ZhTWR3d2JTTWlRdWJ6YmZZZHhseU91UGV5eWFiMy1DdVZvbjV0c2FHQm1YaXpCU192eTVfNG9PMHNMSXRpUW5aOEVaQWo1NVIxelkxZDBiZTZTcmZpaA?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "숏폼",
-   "t": "베스티 '연애의 조건' 13년 만의 글로벌 차트 '역주행' 인기…4인조 완전체 귀환",
-   "q": "연애의 조건",
-   "heat": "씨네플레이 · 10/17 11:36",
-   "article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TU1pBT3NWbUNiYUhUcm5BcjFBSHlSeEoxMTRXQlhwcTJUSGpNVTMwWUFTbVFtdFZBRjZMSV9Cck9XdWZFZ0xkX1l1ZGZjd1Z6RUR6MmxnSDdoRlE?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "챌린지",
-   "t": "박한별이 이런 춤을?…'L을 가져가' 챌린지에 \"내 눈을 의심\" 반응, \"이해를 할 듯 말 듯\" [★해시태그]",
-   "q": "L을 가져가",
-   "heat": "www.xportsnews.com · 10/16 11:20",
-   "article": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XWjBCUEFiamoyc0tNRXpoUjMwRlp4eVNtZnpfc2FCaFlzMUFUUjliRzU5QktOY2tEUmd4cUpQTFBxOEdXNHVvUDlGcE5iczZDTVlTdg?oc=5",
+   "tag": "밈",
+   "t": "원주만두축제 홍보 영상 ‘재밌네’…부시장 셰프로 변신",
+   "q": "재밌네",
+   "heat": "쿠키뉴스 · 10/19 07:36",
+   "article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TdGdFMVpRSDVNOFJmcXMxaXNCaDNMcnFkbldQbXlramlXbDVKRkpaeHdTaHV4RXJYYlBqa2pweEpLSHVBcjJmNHFyUEFvWDA0M0hTRnFYb0toNjkyTTBjVkpRTQ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
