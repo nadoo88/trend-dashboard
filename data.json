@@ -1,21 +1,21 @@
 {
- "updatedAtKST": "2026-10-20 10:40",
+ "updatedAtKST": "2026-10-21 10:26",
  "trends": [
-  "유튜버",
-  "박준형",
+  "100일의 거짓말",
+  "박진만",
+  "제이비어 브런슨",
   "엘리스그룹",
-  "솔리다임",
-  "배영만",
-  "독도",
-  "김학래",
-  "가디언즈 대 레이스",
-  "심형래",
-  "세종특별자치시"
+  "육군사관학교",
+  "제너럴 모터스",
+  "아들",
+  "lucero acosta",
+  "seoul weather",
+  "황선우"
  ],
  "news": [
   {
    "title": "‘더쇼’ 성한빈 솔로 데뷔·유주 컴백 무대",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wVzJHcUxKTm1tX0Itb0Rqd2JMdkVNalNFRzJqVnNKS1JSZGdJT0szYWpsbmg5ZXYyTVNDcTE0N1huRFRtLWY5Z3ItdFd6aU9WS0g2eFNlUHdFTVppSHNrTWFPMWg?oc=5"
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wMGU0ZHFIaGJQWlV6OFd0OTFGakZBQkRvN3J2SDFlQWJiQmlzZHp3SFVuMFpOLVVsNDl6ejU3cnVscFJiejQ5bnV6Z2hSRmpPRHh0YVFkVnRNdHViY2pNZVJYekplUW91?oc=5"
   }
  ],
  "hot": [
@@ -25,10 +25,34 @@
     "reels"
    ],
    "tag": "챌린지",
-   "t": "[이즈] 💃 \"미혼앤 비혼~\" 사진 한 장으로 누구나 걸그룹, AI 댄스 챌린지",
-   "q": "미혼앤 비혼~",
-   "heat": "이즈보험 · 10/18 18:49",
-   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2OGZra08yeXYtb29zVktEcTlsNWZiWGZNTEpuRU5oUVFXMEVmZ2dURWdLNTZFc1M1QnNfWm5XV1RGRFRIb294RjFBQXRvM0dlZkRjV1Y5cmRWeFJNa0lxUw?oc=5",
+   "t": "[한가람초] 남들이 하니까 나도? 유행뒤에 숨은 마음",
+   "q": "한가람초 남들이 하니까 나도? 유행뒤에",
+   "heat": "우리학교신문 · 10/20 10:05",
+   "article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4zZWcyc3c1aEFFM1dpaDl1VkVyaGxyQU9TWnVjNndVX0h4WmNWT3pJWW5ET3JmNDdIYnN6ZFEtRnRNNDVyNG5LVExOUElwSGhL?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "하늘을 나는 테슬라 '로드스터'…AI 패러디 열풍(영상)",
+   "q": "로드스터",
+   "heat": "뉴시스 · 10/20 16:47",
+   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XelhDOHpHSVYyVnJlUDl4QUZ6TVllR2l4X2JiT0Q3Z0UwSTZMUWFZY2dSLTdpaGd1RXM2bGctRl84NENqaUxxaWFBNlUtcjBtdUxzY2gyeUUzSEtENzR3TtIBeEFVX3lxTE10akRWZnhHVWJpeFJ0ZUdhTkdodHNIZTZmRWcybFlpNmxTaXA4RFlOT3k2RGd0clg5eUdvNzNzemNXSFEtWnZuaXk1QUU2WE53ODhCZUJwT0tSYTVISVZ1Wi02YXVSVjlDdk0tczEzMG1vbjhWT0JIeA?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "A2O LITE, 데뷔 7일 만에 첫 1위…음반 없이 해냈다",
+   "q": "A2O LITE, 데뷔 7일 만에",
+   "heat": "동아일보 · 10/20 22:24",
+   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tcVdaV3hBbG9EdVRFcVVWaHBJUEtRdzd1M1pXRk1LQ2NWRjhhRFRUR2hBbFRabXlLcDhSYWs0WWtQeWQzWTBnenNvN05rMnQ4TDRtS2k5bUo3dU1SbzdIblIzcE1OSjhOWFFGNnlB?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -40,19 +64,7 @@
    "t": "차 뒤집힌 채 드라이브스루?…테슬라 공중부양 ‘로드스터’에 올라탄 글로벌 밈 [모빌리티&라이프]",
    "q": "로드스터",
    "heat": "세계일보 · 10/18 16:32",
-   "article": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5BVXdRbFg4dHRRNzBva2pzdmF6QVNYN21sYUJadjgwMjQyNzBtRlUzTUN3SktBNzRLV2ZsQnFWekRJZ2NFY2JUQXpNYklhV2dDYmhYRFdlazbSAVRBVV95cUxQZm5LNzByOVppOGFfeXdwSDl5SUpoT2JjN28zal9xclBvU2NrRUdPdGI0X2lMOVFBTFBDQTZnd29sR3AzTzR3Yjd5clJzVXJxdGhONDk?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "강소라, 무협 콘텐츠 290만 뷰 화제...'유퀴즈'서 입담 펼친다",
-   "q": "유퀴즈",
-   "heat": "국제뉴스 · 10/19 15:34",
-   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOZTBSS0VUZGVQTmk2Zks3dkJMY1FSVzRpc2NMT1RiMjhVdlgwLXBYdlV0b3pqSklzd3MwYnpHOXpFVE1UMDNmd2xWZG5JSEg2SERYNkFmSW5ld3JpMHBoOXMydmtpR21QTDc0bS1B?oc=5",
+   "article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8xSGVhQkVSNUtnYzNhWVJmUzV0TlRES3h2SFdqR25seEtzcTMxVU5sa3dxdnlLeHRYWnJ6cGY5TUhXWThRME9tNjFENG5RaGdC0gFUQVVfeXFMUGZuSzcwcjlaaThhX3l3cEg5eUlKaE9iYzdvM2pfcXJQb1Nja0VHT3RiNF9pTDlRQUxQQ0E2Z3dvbEdwM080d2I3eXJSc1VycXRoTjQ5?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -61,10 +73,22 @@
     "threads"
    ],
    "tag": "밈",
-   "t": "\"결국 내 취향은 이수만\"…'미혼 앤 비혼'에 AI 밈까지, K팝 고인물들 댓글창에 다 모였다 [요즘 끌리네]",
-   "q": "결국 내 취향은 이수만",
-   "heat": "엑스포츠뉴스 · 10/18 07:55",
-   "article": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4MzNqSnk0bE9VRkJIS3YtOTc5czliYjBVaklGYmJZVC1VNVZrNnpZZllJYnNrRVhJVGdZVHUxUDNaa0Nya2twNGM3dUZwWm1Xejl5eQ?oc=5",
+   "t": "정지 화면만으로 파악할 수 있는 해외 사이트 빠르게 유니88 구성 요소",
+   "q": "정지 화면만으로 파악할 수 있는",
+   "heat": "Calgary Roughnecks · 10/20 16:18",
+   "article": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcjVhNVFUeWdNUXJhTlR0cHc0T25ncUtsdDljRlllZk9YWkR3RFJWNEpSbXZjT0NzRHRBYzgzZFd3MG9SYWdITDN0WHFsQ3JDOXNoVG9Hd1F5bzJDbUsxUHJfZTJwbGxhSkNMSDdjR3laekdnNUdpV09QVnVoNzltZC12dlRCZHBzQUZELUItQmFGb1hFNGZYN0dmMmtDLTJSY1picXJJOVpzZEFZNkx2WkN2MEhXMlRpaXpGRGFZMS1LLUJYandCbHVB?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "게임에 들어가기 전에 읽는 던파 엠블럼 도박 정보 요약",
+   "q": "게임에 들어가기 전에 읽는 던파",
+   "heat": "Calgary Roughnecks · 10/20 13:39",
+   "article": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS1lnMHJucW5jU3ZZRTA5MEhtRVgycWJuNFVja0FTSHJ4Z2xMM3hwMlB0QjVoYXI0Z2tiUHZsWW51dEx2WXpzamgwVHM4a25DY1R1V1VxREpxMW40WHpHeXJxaG14OHhVb1UtX0hHdlRBQjhqdnd4LWNHbndTa2ZULXpURGJwNnk0ejloVmF3N2hjbUJONDZoLVZoUF9Hc3RJdTdzNUI0UlF4RU4yUzktX2xBVkh6Mzh0NmVwM0dLM2I1QXdiX0R4d3I3ZmR3SHlsbWE0cW5B?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -82,13 +106,13 @@
   {
    "plats": [
     "x",
-    "threads"
+    "reels"
    ],
-   "tag": "밈",
-   "t": "생드니 시장, 佛학생시위 아이콘...'북부 스파이더맨' 밈 유행",
-   "q": "북부 스파이더맨",
-   "heat": "싱글리스트 · 10/17 17:44",
-   "article": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TWFk3eXVIWnd1NFlXbG5GNUY3SWlPTGxiclNyb3o1dy0zYm5OTDJkNjA1LWJUVHpGMTBWYW9LUW5jdm1teS0tYUlEck1feHlHeXNkN3ZxZi1EUzhqd3Q2cUtWNFpQUQ?oc=5",
+   "tag": "AI",
+   "t": "“자동차가 공중제비까지?” 테슬라, 스페이스X 기술 접목한 신형 로드스터 공개",
+   "q": "자동차가 공중제비까지?",
+   "heat": "다나와 자동차 · 10/20 23:58",
+   "article": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mT2ZFMUhEQWdOa3Jubl9ISXpUb0FEMGV0WTlxbzRFZWExWnQ2QmF5ay1ZbGREQ1RPUGZkUWlyRzhBazRIMEdzanloV2RjUEZ6eUJvN1NSbGpKSWVOcVZWZXBsQTRZUkRXM1ktaDNfZEdPQTg?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -97,10 +121,10 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "\"이거 진짜 이재용·최태원 회장 맞아요?\"…합동 댄스 영상 화제 [유지희의 ITMI]",
-   "q": "이거 진짜 이재용·최태원 회장 맞아요?",
-   "heat": "한국경제 · 10/18 13:00",
-   "article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlM29SZnVXYUR1d3V4TngtX0w2eVRRZF81TjdHR0JFSjBXbHNxcUFkQUlwTC1fTE1JYnlRRV9ZN0hROTIwT2hUUFFRRld4QVFCbzh2VTVyMUNQUQ?oc=5",
+   "t": "패션 대기업, ‘브랜드 세계관’ 경쟁...AI 캐릭터·예술·글로벌 IP로 차별화",
+   "q": "브랜드 세계관",
+   "heat": "한국섬유신문 · 10/20 17:39",
+   "article": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XUExrVml0d1VRazlMcHN0cEtVRS1feGY4aXh4SDZIeWdlaGgtaWtBSVpDZmhCTmU4OV9sMXppLUFqRU0wRkd6b09IV0RTQ0lKVUtEVjBnUFFoVjdIdXpYQjdCZk1YdDVS?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -109,34 +133,10 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "[속보]'23명 화재참사' 아리셀 박순관 대표 징역 4년 확정",
-   "q": "23명 화재참사",
-   "heat": "노컷뉴스 · 10/20 10:07",
-   "article": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONXNTTFJEZENqc1djR3ZpUHJlVTd0TTUtbEFUcWdRSGdvc0NrM04tYk44UHI2UU01SnQ4TVMwUTBZS0k3bEtfYWhQcENfV20yLU5WNVZuamlOLW4tbnE0Tl9GcldOSEdySkQyaXVoSkdQWnRnQWx4MFNlazdGX0RwZV92akY4d3N5eXVMa1ZmQ3BxM3BweHV5aHBnMHlIVklhQnAtbHV3azVIQzM0YnVpYQ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "같은 심벌이 모이면 어떻게 될까? 트럼프 이더리움 판정 방식",
-   "q": "같은 심벌이 모이면 어떻게 될까?",
-   "heat": "Calgary Roughnecks · 10/19 09:40",
-   "article": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5DYzFwdXRSOUpuOTNpa2IyaVhlcm9pSzE0MS1MMHFKN0ZnM1pBMlBBa2JncDhDay1PS3U3ZHFOTHd6Q3JMN3dob2xLTGVzc3FzckNyakZKdnUxaHl6NjZDSXVSakFVd29oWVA2TzdQU25rSlBBbkEteUJoSm9wQQ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "원주만두축제 홍보 영상 ‘재밌네’…부시장 셰프로 변신",
-   "q": "재밌네",
-   "heat": "쿠키뉴스 · 10/19 07:36",
-   "article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TdGdFMVpRSDVNOFJmcXMxaXNCaDNMcnFkbldQbXlramlXbDVKRkpaeHdTaHV4RXJYYlBqa2pweEpLSHVBcjJmNHFyUEFvWDA0M0hTRnFYb0toNjkyTTBjVkpRTQ?oc=5",
+   "t": "AI 역설계 통한 게임 베끼기 극성, 개발 생태계가 무너진다",
+   "q": "AI 역설계 통한 게임 베끼기",
+   "heat": "게임메카 · 10/20 16:41",
+   "article": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBUb3c5S3piMUFNdEtkQkxmdFdYWjJ2aFphb3ozblVTU2pIZzc0alRyRDAyRF9rVWJhTUxFOXlpeWI0ZkZKbGJqTFZjT0w1NjFZb2hVZVE4YzLSAVtBVV95cUxQVnN2ZXRTcmpLNF8ybkV6VDlTdERkc2Exb0JweTg0TjI4MkxUcW1DQTk0Wk1BSkVuNE92MUxLTVg0MC1BSHpxOFhCank4QWEzbkdVckpyRFNmNUlz?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
