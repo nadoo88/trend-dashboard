@@ -1,19 +1,31 @@
 {
- "updatedAtKST": "2026-10-24 10:27",
+ "updatedAtKST": "2026-10-25 09:58",
  "trends": [
-  "삼성 갤럭시 s26",
-  "운전",
-  "lcp",
-  "김밥축제",
-  "매일경제신문",
-  "레이스 대 브루어스",
-  "김장",
-  "cblol",
-  "대구 날씨",
-  "주상욱"
+  "중앙일보",
+  "김천김밥축제",
+  "이규한",
+  "문가비",
+  "신현송",
+  "필라데피아 대 밀워키",
+  "김태형",
+  "킴 카다시안",
+  "배당",
+  "하이브리드 전기 자동차"
  ],
  "news": [],
  "hot": [
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "챌린지",
+   "t": "베이비몬스터 '디저브'와 YG의 뚝심…챌린지 범람 속 택한 팝 발라드 정공법",
+   "q": "디저브",
+   "heat": "뉴시스 · 10/24 10:26",
+   "article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5nWU5ZLWZfaS00bG02Xy1RSkY1TWp5Sjk1aFFOTXRnVHlxQko0dC1JUUZGZUs5MkpzVjBUOGVCUF9SQW5VR2t2VlY2QlhZd2g2SU5tQ0xQM2pnOFE3aGJTSzNGQ2J3YV9GaVpfZkVVR0pkUGpmX1R3VdIBeEFVX3lxTE5nWU5ZLWZfaS00bG02Xy1RSkY1TWp5Sjk1aFFOTXRnVHlxQko0dC1JUUZGZUs5MkpzVjBUOGVCUF9SQW5VR2t2VlY2QlhZd2g2SU5tQ0xQM2pnOFE3aGJTSzNGQ2J3YV9GaVpfZkVVR0pkUGpmX1R3VQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
   {
    "plats": [
     "x",
@@ -35,31 +47,19 @@
    "t": "리센느 원이, 유튜브 예능 화제성 첫 조사 1위...압도적 존재감",
    "q": "리센느 원이, 유튜브 예능 화제성",
    "heat": "YTN · 10/23 10:38",
-   "article": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TLVJtWWFsb2NjM05UZ2JXWFotaW1nS3BTODd2b1JIcnRoQ2FJNzdMa3M5NzlzbXZwdVR3dFhmTnI4Yzh0WEh4UGFlbVh3VGJCVWlqVzRhcFQ0ZGowTjNkanBfMlhaWXJtVGE4WUNXYUFZNDRfblE?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "챌린지",
-   "t": "[허영주 칼럼] A2O LITE가 소셜미디어를 장악한 세 가지 이유",
-   "q": "허영주 칼럼 A2O LITE가 소셜미디어를",
-   "heat": "여성경제신문 · 10/23 17:00",
-   "article": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aaC16T1ZrdktEU1h0R3FDekJhaDU5S05Fc1lkNEZ3M3g2UkV0dDUyNk5uclFSd0RxdUVzcUlxSWU4TjFlRU1ZZUpWQjFmNS1md2VKMmtjRGNoaU9mUEVEY2hlNlRFWmRScEh1OHJLRzZWQVU?oc=5",
+   "article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBKWFJ4OTB0c2s1anhMdXMxNWV6dlJzWm9QN3duZTJtQllMN1YybS1iYkZPVDN1RE9pb2EtVng3NEo2ZlROUG5UNzdhdGV5V3EzWGFUQUl5UmFBZWhvNUE?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
    "plats": [
     "x",
-    "threads"
+    "reels"
    ],
-   "tag": "밈",
-   "t": "[이즈] 🥔 \"감자튀김 아니고 구운 감자예요\" 로니 콜먼 밈, 물 마시기까지 번졌다",
-   "q": "감자튀김 아니고 구운 감자예요",
-   "heat": "이즈보험 · 10/21 15:50",
-   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BWmtqcjBJcS1iN3dhMHRQelVKMWd5WS1GcDdpZ2oxdF9sU2dpOFAzcEc0UDRXUFNPX1dLNzhqNTVLVnRiQ2FWX2gyYjEwQWdpbzFjTnVvRU9pRzdvWlZrRg?oc=5",
+   "tag": "AI",
+   "t": "고교생들이 만든 소방 전문 AI…‘FiSA’ 무료 공개 화제",
+   "q": "FiSA",
+   "heat": "http://www.reporternside.com/ · 10/23 09:37",
+   "article": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoQzYwdGo5UG5mRktYMk93UUNoS2YxY0Y1cW9yVUNNQThQbjFqQXp6ZVc0SHU4T19MbFBMWTZ1Q2duRjVYZ3RMMWN2eXk3TEdPdTROOE9ObFEzSWs0azFIZm8zcTJqQWJKSUpOTE5pSUsyQQ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -77,13 +77,13 @@
   {
    "plats": [
     "x",
-    "threads"
+    "reels"
    ],
-   "tag": "밈",
-   "t": "빨대 치우고 국화… 현직 소방관 유튜버, '뼈 있는' 추모 영상 화제",
-   "q": "뼈 있는",
-   "heat": "한국일보 · 10/21 11:00",
-   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NbXNGZTZWODNvX1BuZzVIUktKT25UZEFYbVZ3Tm1PZmRST2FiYkgyRjNnTnhUOGlhNHB1OTc4QjFsTFltOGZUOThlNGpZQ1dXWGtZeGVQYXRPTmd1SXg5cHNDLTlGQml4Y2JmUk9B0gFzQVVfeXFMUDB4S3ppdWV3ejY2cnFTZmU0a3RzdzEyc1lKVENScmQtYkFwcUpNdy16dDFNR3lxajhDbG9saTA3VFY3TldpalB6QjNIY2lEWnVJdWVZRjlQTzNkczlVa3FqV1lGVkM1MEJCTkcxU0FzQVNWRQ?oc=5",
+   "tag": "AI",
+   "t": "“AI 걸그룹 베이비퀸 멤버가 임신했다”…알고 보니 제작진의 ‘퇴출 각본’",
+   "q": "AI 걸그룹 베이비퀸 멤버가 임신했다",
+   "heat": "톱스타뉴스 · 10/24 11:31",
+   "article": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NX1lDT0RvZVlXbU9PSHVDcDVnYWkwLUFEM3Z4dENGMWhsSjRxMGZTUVVPakJPWjFfR3lxTW1YT3R4NUFRM3dHb2s1ckN2aldPcnQ4cHg3NVNqWkRqb0VVeGNJalFtM0FiMGNxWnVZNFJ0dw?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -128,10 +128,10 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "추미애 '소방 재정 빨대' 논란 속…소방관 추모 영상 화제",
-   "q": "소방 재정 빨대",
-   "heat": "연합뉴스 · 10/21 16:52",
-   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXSndDM2xDdmVwYW9OV29TOTJ4YnNWdk1RM1ZWWEVXZkMzcjBUOTB5b0RRSmdvUkNmQkNQcVIyczFETkFHUzE4UkxRc1kzZHBibko3aU5udkF1X3FHZkNfRNIBYEFVX3lxTFBXSndDM2xDdmVwYW9OV29TOTJ4YnNWdk1RM1ZWWEVXZkMzcjBUOTB5b0RRSmdvUkNmQkNQcVIyczFETkFHUzE4UkxRc1kzZHBibko3aU5udkF1X3FHZkNfRA?oc=5",
+   "t": "선거판 돈벌이에 'AI 여성'을 이용하는 세력들",
+   "q": "AI 여성",
+   "heat": "BBC · 10/23 15:02",
+   "article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ibWg0bGVaZ0N2R01jNzJ6YURtNTZPVVJjOUtTNERtbHV1ZXN3b3g5REp1THR0UkVOSVRmcTZja1hvU0c3VGdvTFhKQmVnZVdEM09JdkhHN29IM1ZfRVHSAWNBVV95cUxQY1RPamdUVU1ORXVhTDdyM251VmlPTDE1MVR6dmtwZnlxNUtBVlltZVRBLWltUFdOdGtGUDVmVWZNNnN0YjFuWkRaaVU5UnFlTjFqSXdWMzFEbmV2NFE5UGxRYzA?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
