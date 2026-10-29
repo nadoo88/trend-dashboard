@@ -1,16 +1,16 @@
 {
- "updatedAtKST": "2026-10-28 11:05",
+ "updatedAtKST": "2026-10-29 11:16",
  "trends": [
-  "디에이치 반포124",
-  "골든 조이스틱 어워드",
-  "그랜드 테프트 오토 vi",
-  "sk하이닉스 ir",
-  "대신증권",
-  "도박",
-  "아주대 소아 응급실",
-  "국민연금",
-  "어닝콜",
-  "아버지"
+  "삼전 실적발표",
+  "삼성전자 컨퍼런스콜",
+  "대우건설",
+  "삼성전자 ir",
+  "마이리얼트립",
+  "티앤이코리아",
+  "김영옥",
+  "inter miami vs cincinnati",
+  "운수",
+  "충청권 광역철도"
  ],
  "news": [],
  "hot": [
@@ -52,6 +52,18 @@
   },
   {
    "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "[유프로의 AI픽] “이름부터 맛까지 화제”…식품·외식 TOP3",
+   "q": "이름부터 맛까지 화제",
+   "heat": "미디어펜 · 10/28 18:03",
+   "article": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51QzAzOVdGMHZsYTU5MjdFWkpEOHI5TzRSTW9hQmx0Wi1PSHUxLUpVdENsNU5kR1otQnZyalJGZzIyZWw2R3hfczA2eFFjQjkxaHVodg?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
     "tiktok",
     "reels"
    ],
@@ -77,6 +89,18 @@
   {
    "plats": [
     "tiktok",
+    "reels"
+   ],
+   "tag": "챌린지",
+   "t": "[관광산업 HOT 뉴스] \"한강 러닝부터 을지로 야장까지\"…일본 남성 사로잡는 ‘서울 퀘스트’",
+   "q": "한강 러닝부터 을지로 야장까지",
+   "heat": "비즈월드 · 10/29 01:29",
+   "article": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9udlEtRlVqYmxxakFrcVAtRnN2MnprNkZLNkYzZURQal80T3NZanhBdDZCMDVlS01ESS1TZkVWSWVyd2ZVekhwekRTb1BQX2NBRzVSZC1ZQUV3U3FnUVVlX0tQXzY4LUpoN0E?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
     "x"
    ],
    "tag": "K-POP",
@@ -89,49 +113,25 @@
   {
    "plats": [
     "tiktok",
-    "x"
+    "reels"
    ],
-   "tag": "K-POP",
-   "t": "유어즈, 컴백 첫 주 무대 맹활약…챌린지 열풍 잇는다",
-   "q": "유어즈, 컴백 첫 주 무대",
-   "heat": "비즈엔터 · 10/26 09:06",
-   "article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE56UFhuVFNyUUlhYUN2cXJqRWRqQzJxR1ZwR2IzRFpLWjJhaXJUczJ1NDdxRnpBZi05cXJnOW82RWRfYU1WdzQ3bVJSeXJLYmNFWFppYThB?oc=5",
+   "tag": "챌린지",
+   "t": "다시 통한 이수만의 K팝 문법…익숙함이 새롭게 느껴지는 `요즘 가요계`",
+   "q": "다시 통한 이수만의 K팝 문법",
+   "heat": "매일신문 · 10/28 18:07",
+   "article": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUM1JHTXMxMzNHNE4wY3FQNlpMaHIwNVM3Ukxyd2U4Um0waFZESUtWamhLMEV6dGdPTGh6dFEwZ3YxOHhNUy0yQWVwb1VPTnZtXzhqTk9aMWZYYmo1b3VJQV9B?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
    "plats": [
-    "x",
+    "tiktok",
     "reels"
    ],
-   "tag": "AI",
-   "t": "뉴엔AI, 넷플릭스 브랜드 캠페인 분석 지원… 온라인 화제성·소비자 반응 측정",
-   "q": "뉴엔AI, 넷플릭스 브랜드 캠페인 분석",
-   "heat": "테크데일리 · 10/27 14:19",
-   "article": "https://news.google.com/rss/articles/CBMickFVX3lxTE0xRXFEaE15NmV6amFhV0I5UGVfV01KTWJzSWlyRUR0ajhJOVV5elpScnhRZW9WSHJNcUJjZ3l0RHhTM2NhNDkzQWszZnVtMFBBOVcyOXZIVkVFNU9VblZGMTNienZKVkhvTEllVTFiQkdsUdIBckFVX3lxTE0xRXFEaE15NmV6amFhV0I5UGVfV01KTWJzSWlyRUR0ajhJOVV5elpScnhRZW9WSHJNcUJjZ3l0RHhTM2NhNDkzQWszZnVtMFBBOVcyOXZIVkVFNU9VblZGMTNienZKVkhvTEllVTFiQkdsUQ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "'미혼 앤 비혼'에 뒤집어진 케이팝... A2O 라이트 돌풍의 비밀",
-   "q": "미혼 앤 비혼",
-   "heat": "OhmyNews · 10/27 07:28",
-   "article": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1YTFnM1JfQTdYdC1kbWhXdkdxYkF6M2h1MFJaQnJ1QVJIenZ3eG1kQ1Q4SjFvbmxFZjRCcVpXU3M2VkFfMWFZczZfQ3U4SEd0amhxR3pUV0hVblpnSVdaWW9QcGllTmhnN1pKTXpCSUtfQW1o?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "AI로 테니스 착장 콘텐츠 제작해 美 브랜드 승인…국내 원단 활용 제품화 도전",
-   "q": "AI로 테니스 착장 콘텐츠 제작해",
-   "heat": "한국섬유신문 · 10/28 09:24",
-   "article": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vQkVFX0NNMG1QeGlHWUYxMzFNWlBhM1JXaFliTVpVT0dNZVNfRFRGUDlXV2Z1NjVzMF9EUElXV0ZzQTFFdmE0NDZoNmk2dURkeUo0eml6b29lZ0VrY3pJeHdTRFFFSy1D?oc=5",
+   "tag": "챌린지",
+   "t": "비싼 뮤직비디오는 이제 그만? 유튜브 세로형 ‘마이크로드라마’로 내 음악 역주행시키는 법",
+   "q": "마이크로드라마",
+   "heat": "RouteNote · 10/28 16:55",
+   "article": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQTlZSbDlVNG1UQk81WDhGN0FMcTdKaVJOT1ViTGQzU2JGM0poTW5WRm5vRHRoRnF1dU04QWktclNkTjBlRHd3Nks5SEJOQzRWeldTb0ZGOVlWbzNBTVE0OWdqd0NZQWZKZFM1RGpIMmdyX25BS1ZJbUpzYlNxR3NrQkE5YmJyS2RKb1p4cXk3ZlAtS2JVeU0zMmluNm1PRnRPa0dzdF9tcFk2djlZcWg0RGk3MkFCTXc4Nl9yZk5oWjBDZ2JWS2JBbnZ1QzQxRXpMTUdoLU00aXRMQUV5Qi1CNVJfX3F2Q2MyZzhFN0o0VVZwTWJHNzdVTURDd19tUkZIRzEyWW5fM3lrQzJtbkJLMzFqY050SndaWExSVEtmZ2tlOWlCSzg2RFMtTU1WZjVrXzFBQ1FFbWxJLVVVWWZOYnZETVQwWjBPSWc?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
