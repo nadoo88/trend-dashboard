@@ -1,19 +1,43 @@
 {
- "updatedAtKST": "2026-10-29 11:16",
+ "updatedAtKST": "2026-10-30 11:29",
  "trends": [
-  "삼전 실적발표",
-  "삼성전자 컨퍼런스콜",
-  "대우건설",
-  "삼성전자 ir",
-  "마이리얼트립",
-  "티앤이코리아",
-  "김영옥",
-  "inter miami vs cincinnati",
-  "운수",
-  "충청권 광역철도"
+  "재판",
+  "어쌔신 크리드",
+  "중공업",
+  "비트코인 시세",
+  "binance",
+  "카드뉴스",
+  "항공대",
+  "보안뉴스",
+  "cve-2026-98432",
+  "미래에셋증권"
  ],
  "news": [],
  "hot": [
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "A2O 아직도 모른다면 들어오세요! 장금이 한복부터 인기 밈까지 이주의 유행템 4",
+   "q": "A2O 아직도 모른다면 들어오세요! 장금이",
+   "heat": "캐릿 Careet · 10/30 10:17",
+   "article": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9IeGdmeXRSTmdBc1lYZzZBSWlNOHV3LUJqUzhGaDZvdHpWNHVwYnpreXFjcmI4ckZKc2IzZklUbFA?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "x"
+   ],
+   "tag": "K-POP",
+   "t": "아이브, '룩스 캔 킬' 흥행 질주…일간 톱10 안착·챌린지 누적 [N이슈]",
+   "q": "룩스 캔 킬",
+   "heat": "네이트 · 10/29 10:33",
+   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83ejdYU1ROZlByVVl5czVrRTNMUXNSSHlVV3RFcUt5RkcyRlEwaVdkTDJMOF9yQ1FGbDFNQmtHb2sxaFB3LWdfSko3ZDRTLVVGZ09N?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
   {
    "plats": [
     "tiktok",
@@ -28,14 +52,14 @@
   },
   {
    "plats": [
-    "tiktok",
-    "x"
+    "x",
+    "reels"
    ],
-   "tag": "K-POP",
-   "t": "이한결, ‘BUNZI’ 댄스 챌린지 재미 쏠쏠..최예나·곽범 깜짝 등장",
-   "q": "BUNZI",
-   "heat": "Chosunbiz · 10/28 09:27",
-   "article": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONGlMRDRaSDFsRzVGZTdNVGhXU3Z6STAwcGt5QW5xS2ZiTkpCcXZ3SzFEeWxQcXg1Z2dPd09DbnJlRjF4MlgtOE5KOXBDNUZmSXF3ZFBkMU8tdDZPelQ3Qmp5QVdXZFVxTzBvaE4zQVN2amtDcXBmUGZkTkRPU1ZmZEJIZGd0b2tGTEVQd19zNDg4am_SAacBQVVfeXFMT1VYV1ZEUHpieTBvQ2lsNjRjTjJNUlQ4RlNmbTJhcG5HdXU3Y0cxS29adUJ0dFVRYTlIZWlkWkYxZGl1dENkVEhZTkdoV3dBeGNwbnZlME5YTHRYd2dQSWc2OXFqT1BMcHhsZy0zWDJnclhLOVVWRTFGSnpvRlJTVWFrUFFubW1OTkxRdllua3l6NTFxMnRjMlRsM0pRMUxpX2NMaTk0dkk?oc=5",
+   "tag": "AI",
+   "t": "\"AI 도움으로 복권 샀는데 10억 대박\"…中 남성 화제",
+   "q": "AI 도움으로 복권 샀는데 10억 대박",
+   "heat": "아시아경제 · 10/29 14:57",
+   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mWmtDNUg1UUg5SlJETW02bkZxSnBjSThnSXdReWxwLVhXWk9qU19fdjhHM2pzX0toeWwtMWVuelFFajRJbE5HSEkwRkNVVEQwWVZfYUpjSmExYTRFOGZ5LQ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -56,10 +80,22 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "[유프로의 AI픽] “이름부터 맛까지 화제”…식품·외식 TOP3",
-   "q": "이름부터 맛까지 화제",
-   "heat": "미디어펜 · 10/28 18:03",
-   "article": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE51QzAzOVdGMHZsYTU5MjdFWkpEOHI5TzRSTW9hQmx0Wi1PSHUxLUpVdENsNU5kR1otQnZyalJGZzIyZWw2R3hfczA2eFFjQjkxaHVodg?oc=5",
+   "t": "“우리 제품 맞나. AI 사진일 수도…” 온라인 화제된 중국 세탁기 논란",
+   "q": "우리 제품 맞나. AI 사진일 수도…",
+   "heat": "주간경향 · 10/28 20:11",
+   "article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wNXZoeHA2azJFdjB6dzRieUdqRWxwaEJVNVJROXdsS0U2VU41Y0pmV1dOV3dCamM2eHBUNDV0OEtJcmVCNUVSaFRMSFVjaW9oeDZDTlQyU1dDRTNEZGc?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "x"
+   ],
+   "tag": "K-POP",
+   "t": "‘국민 걸그룹’ 리센느, 타이틀곡 ‘With’ 챌린지부터 벌써 히트 예감",
+   "q": "국민 걸그룹",
+   "heat": "스포츠경향 · 10/28 08:00",
+   "article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03U25qdUIwY2RiUURNSnN1dlRCSnN4RFUyYW4wN3UtNW1KeHVLN2lHaDNWZmhMNzlJeFprWEN2UVFZUXhDR3VQUGF4dHQ2TGctMWdSLVdSbThpUGNNNkHSAWNBVV95cUxPMDhRUEpyOGlrT0V0YjNoRjVEeEs4MUYxX2pYZVpNcTlsYjVWcmozbFRabTBHWlNoSmp5MTZNaTNaWkRpeUl4ZjVTWmhkaXFqRmZ0Zl9UZS13Y1pDdnBCXy1mSDA?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -76,14 +112,14 @@
   },
   {
    "plats": [
-    "x",
-    "threads"
+    "tiktok",
+    "reels"
    ],
-   "tag": "밈",
-   "t": "야르 VS 쌰갈, 올해 언급량 1위인 밈은? 밈으로 회고하는 2026 트렌드 총정리",
-   "q": "야르 VS 쌰갈, 올해 언급량",
-   "heat": "캐릿 Careet · 10/27 10:08",
-   "article": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9vZFlaLXVieGN2WEdmSER4Sk1TQ1JPMExWLTgyUmFzWDZXZno3aGdSX0JKTmxVenZha0M1ODhBdVM?oc=5",
+   "tag": "숏폼",
+   "t": "“유튜브 잡아라”… 긴 영상에 도전하는 인스타그램·틱톡",
+   "q": "유튜브 잡아라",
+   "heat": "Chosunbiz · 10/30 06:00",
+   "article": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc1J5czhuM25HT0N6eVJFYVdCS0RqWENDM2cxeWZ6Tmszc0RHS0VlWlFXcUZ4bnlTMDBHclptVk9qYVR4WTJhZTRyeE1oczZtSi1IZFBnLVZsY2ppTlJFeVczbUw2TkFqN0ZIbkt2V3dzcnpZZnhWRVI3MmEyUDRaNmVn0gGWAUFVX3lxTE9nTG51MjVLZ1VwMXdwbU8yXzlLaEVFZHdfSUo4WnowRXpqUmNjUlNUSVhVS1lSdU52THFWUk9TNFBrWDFrSnh0X2laNmQyeDR6OVdCUEJ5aWgyaTV0eTc1NHA3UEdZZTdnOE5YdC1sRnc2VFFLYWdRNm5wUWtmUS00RDBQLTZFdWs5XzhIWjFNdDV5d2JuQQ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -95,43 +131,7 @@
    "t": "[관광산업 HOT 뉴스] \"한강 러닝부터 을지로 야장까지\"…일본 남성 사로잡는 ‘서울 퀘스트’",
    "q": "한강 러닝부터 을지로 야장까지",
    "heat": "비즈월드 · 10/29 01:29",
-   "article": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9udlEtRlVqYmxxakFrcVAtRnN2MnprNkZLNkYzZURQal80T3NZanhBdDZCMDVlS01ESS1TZkVWSWVyd2ZVekhwekRTb1BQX2NBRzVSZC1ZQUV3U3FnUVVlX0tQXzY4LUpoN0E?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "x"
-   ],
-   "tag": "K-POP",
-   "t": "갓세븐 제이비 \"멤버 진영과 챌린지, 붐업될 수 있지만..이용하고 싶지 않아\" [인터뷰①]",
-   "q": "갓세븐 제이비 \"멤버 진영과 챌린지,",
-   "heat": "조선일보 · 10/27 12:55",
-   "article": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUldFODdQWHd3YWhENWxVbU5fWmdRbDlDbkREbmE3WmthTDRVNW01UXRZNWhxVlF5ZlYxTkdqMEpDdElxZUpvcXJfdm4ydHBnSldWVEthYThzdHo2QVVvb1dNTW5sZFpuMWNtV0ZERmZLbm5wSy1tSXZJaUVjd3AxN3JKVnFmcldhUWc?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "챌린지",
-   "t": "다시 통한 이수만의 K팝 문법…익숙함이 새롭게 느껴지는 `요즘 가요계`",
-   "q": "다시 통한 이수만의 K팝 문법",
-   "heat": "매일신문 · 10/28 18:07",
-   "article": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUM1JHTXMxMzNHNE4wY3FQNlpMaHIwNVM3Ukxyd2U4Um0waFZESUtWamhLMEV6dGdPTGh6dFEwZ3YxOHhNUy0yQWVwb1VPTnZtXzhqTk9aMWZYYmo1b3VJQV9B?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "챌린지",
-   "t": "비싼 뮤직비디오는 이제 그만? 유튜브 세로형 ‘마이크로드라마’로 내 음악 역주행시키는 법",
-   "q": "마이크로드라마",
-   "heat": "RouteNote · 10/28 16:55",
-   "article": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQTlZSbDlVNG1UQk81WDhGN0FMcTdKaVJOT1ViTGQzU2JGM0poTW5WRm5vRHRoRnF1dU04QWktclNkTjBlRHd3Nks5SEJOQzRWeldTb0ZGOVlWbzNBTVE0OWdqd0NZQWZKZFM1RGpIMmdyX25BS1ZJbUpzYlNxR3NrQkE5YmJyS2RKb1p4cXk3ZlAtS2JVeU0zMmluNm1PRnRPa0dzdF9tcFk2djlZcWg0RGk3MkFCTXc4Nl9yZk5oWjBDZ2JWS2JBbnZ1QzQxRXpMTUdoLU00aXRMQUV5Qi1CNVJfX3F2Q2MyZzhFN0o0VVZwTWJHNzdVTURDd19tUkZIRzEyWW5fM3lrQzJtbkJLMzFqY050SndaWExSVEtmZ2tlOWlCSzg2RFMtTU1WZjVrXzFBQ1FFbWxJLVVVWWZOYnZETVQwWjBPSWc?oc=5",
+   "article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xRElxT3l4c25kLVlDUHlxSlZSQW1Fb3U2QTgtWWppdGRzbFFCaGRORktkWTNsLWNzb002eWFSNHNsNDA2VWxMVlUtdko3T2hjZUhwbmdWeTl2RVBPYnotTUdrVzBtVDVwZ2Nr?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
