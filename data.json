@@ -1,19 +1,48 @@
 {
- "updatedAtKST": "2026-10-30 11:29",
+ "updatedAtKST": "2026-10-31 11:12",
  "trends": [
-  "재판",
-  "어쌔신 크리드",
-  "중공업",
-  "비트코인 시세",
-  "binance",
-  "카드뉴스",
-  "항공대",
-  "보안뉴스",
-  "cve-2026-98432",
-  "미래에셋증권"
+  "수익률",
+  "주식",
+  "필라데피아 대 뉴욕",
+  "sk 사장단 인사",
+  "미세먼지",
+  "우주선",
+  "샌디스크",
+  "lcs",
+  "직장폐쇄",
+  "테슬라"
  ],
- "news": [],
+ "news": [
+  {
+   "title": "아일릿, 숏폼 챌린지 열풍… \"수능 만점 받겠어\" 개사 유행",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlNkVGU01LUEhUWUVmYzN2eG9aQy1BeEVYUGwtWWVnbzgwSEdId1NnMXVodFRJWnZrSWxNNFAzbVdEWGIyRDZVdVpMSXJKYWlodEpSUjFrWktkUlhaNGRGTmpNbw?oc=5"
+  }
+ ],
  "hot": [
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "챌린지",
+   "t": "아일릿, 숏폼 챌린지 열풍… \"수능 만점 받겠어\" 개사 유행",
+   "q": "수능 만점 받겠어",
+   "heat": "MHN스포츠 · 10/31 09:14",
+   "article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlNkVGU01LUEhUWUVmYzN2eG9aQy1BeEVYUGwtWWVnbzgwSEdId1NnMXVodFRJWnZrSWxNNFAzbVdEWGIyRDZVdVpMSXJKYWlodEpSUjFrWktkUlhaNGRGTmpNbw?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "챌린지",
+   "t": "\"물에 약물 타는 게 웃겨?\" 엔하이픈, '범죄 희화화' 챌린지 논란 [SC이슈]",
+   "q": "물에 약물 타는 게 웃겨?",
+   "heat": "스포츠조선 · 10/31 08:24",
+   "article": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNczBLZTNwUDdmWWhQbGM5dUkxSVF4SEdIc0Y3aVlzV2lGWmNLLU1wZFAxM0JiUVVSaWR1aWF3S3RUMWVqUnZGaDA5QUVwckZUSTFfOTF1LVFRb29xZTRvLXZLNzRVTHhCdkhzTzB6RER5UVYxeGVDM3RiM2JXcGNXRFVGRXI?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
   {
    "plats": [
     "x",
@@ -24,6 +53,42 @@
    "q": "A2O 아직도 모른다면 들어오세요! 장금이",
    "heat": "캐릿 Careet · 10/30 10:17",
    "article": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9IeGdmeXRSTmdBc1lYZzZBSWlNOHV3LUJqUzhGaDZvdHpWNHVwYnpreXFjcmI4ckZKc2IzZklUbFA?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "“AI 아니다”…미니스커트 입고 무대 찢은 132kg 걸그룹 지망생 ‘화제’",
+   "q": "AI 아니다",
+   "heat": "매일경제 · 10/30 15:38",
+   "article": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDTGhHNjdvUEVEcXl4UXlWeWZoTzkwNkd3cmg0cnFSSjItcmdsQjc1d0JDZ1JvOXF0azItMzhWZlBYa2FuTE9STFhJYThIOGJmVXc?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "“입소문 제대로 탔다!” 티빙 오리지널 ,비드라마 구독기여 1위 등극…SNS 화제성 타고 흥행 가속",
+   "q": "입소문 제대로 탔다!",
+   "heat": "CJ 뉴스룸 · 10/30 09:00",
+   "article": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOemREckVyQVlXQVhTc2NGeVNacDZCbVZfa3paa2FhSEw4RTVYamxwdUxjWFk3QlNEWTU3NC00UEtjQ1hkeXUyZE44Uk54RUJ1QjVKNlB4c2hUcEZrSWZZM0lkOUdkbXdlaTVRclZSc0lOUjR0WFBwZ0d2MFJycDZxV0I0bHdNRmJzcjR4eGtORkdMZThaS1htU3JHWFM4RWs1b2Q3aTJwd1ZnT2NaX1Z4YnpwM0lKWl8yV1pSX2NyQWhtdVpQWlZWQVVmLXBNbUZnYXhsalpvQi1LTEFfR0tIS2xJOWo0N0xtQ21CMnlrUEJhb1Z0cHN0VXVTX3NIMzFsODc0YTAyaExpXzJicW5JQVRVTVYyX1hsZGJCRGhNOXdrMWJfYWU4?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "[특파원 시선] 음바페에게 날아든 천문학적 규모의 '中청구서'",
+   "q": "中청구서",
+   "heat": "연합뉴스 · 10/31 07:07",
+   "article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9abDdMUTBfMVdTYmR3WGpqRTdrcGZNV1NSOXpVMDZCOTBHRk9wb3RWSVJUX3hrT0JSdlVrRk1UaEF3UFJXM2hiQUp3MWRZT0g1ME51RGhqWmdsbTDSAWBBVV95cUxNajlzYXNza2RiY0hDNzVBT1NJbUdrQnpBR3puY0hRaDNBclZCMXVNZ0FHMU44WnRfWHI3T2pRRHZEOXBTWmlUd0ktVVVIVjdIOGtUOFQ3aVBvNkZ2WGxUN1I?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -40,26 +105,14 @@
   },
   {
    "plats": [
-    "tiktok",
-    "x"
-   ],
-   "tag": "K-POP",
-   "t": "이한결, 신곡 ‘BUNZI’ 동료들과 댄스 챌린지 공개",
-   "q": "BUNZI",
-   "heat": "톱스타뉴스 · 10/28 08:31",
-   "article": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEVld0OGx6d2ZLRzNqdWNJSmFfZ0o2N2V6NWdwQ0REQklkbW1xNGpYSUZKUlJlVUJubnQ4Um5LaHg3RDJHLWVfa0o4cjg0bWZzU0VGOTY2U3YwWWZGUHZXV3JvbHJtYUNKaW1jdV9LUTB3UQ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
     "x",
     "reels"
    ],
    "tag": "AI",
    "t": "\"AI 도움으로 복권 샀는데 10억 대박\"…中 남성 화제",
    "q": "AI 도움으로 복권 샀는데 10억 대박",
-   "heat": "아시아경제 · 10/29 14:57",
-   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mWmtDNUg1UUg5SlJETW02bkZxSnBjSThnSXdReWxwLVhXWk9qU19fdjhHM2pzX0toeWwtMWVuelFFajRJbE5HSEkwRkNVVEQwWVZfYUpjSmExYTRFOGZ5LQ?oc=5",
+   "heat": "아시아경제 · 10/29 14:27",
+   "article": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaUFtOXc0RWZjRGNlV3VkbDRoNDVXYVdrY3UycHducVlNQXg5anJXOVQyRUVTbnRVZ1R1YlZpcnVodk5VeDl0RjV4bGhvUWZBbDBnRzhUSWp5MHotd2lrbkNiTGlrdlJOaVR0QWVOc29tSC15NHJPRzVWSmpGN0Mzb1lR?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -68,10 +121,10 @@
     "x"
    ],
    "tag": "K-POP",
-   "t": "이한결 '번지' 챌린지에 최예나·곽범이 왜 나와? 남다른 의리로 팬심 저격",
-   "q": "번지",
-   "heat": "스타뉴스 · 10/28 08:36",
-   "article": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSY0pYbGtSRDVxMHhLV1pJQkNCWlpZUy1JODhsNVBLYlA0ZmFSZmdDY0lxRGlvREowREpBTHo0dkhXRzA3NXpXemlKcmRIZEh1Qk1rSFlaVnlFTXVrc3plZUJjbEpJRkxzQmppekd1c1B1Wm5N?oc=5",
+   "t": "아이브, ‘룩스 캔 킬’ 챌린지 누적 1억 뷰 돌파",
+   "q": "룩스 캔 킬",
+   "heat": "BNT뉴스 · 10/28 13:36",
+   "article": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxQlBLaC1KX2FyNnhtX2ZxNUFYQ0dvY0M3WU1rMjVHZ1hLVkwtRlZSbDRWaWJRTXBWYkYwcDlqYjJOR0lQMjd2eVNBemVrZWtyS0JvdjhDS29odlRZWWhldzktTGs?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -80,58 +133,10 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "“우리 제품 맞나. AI 사진일 수도…” 온라인 화제된 중국 세탁기 논란",
-   "q": "우리 제품 맞나. AI 사진일 수도…",
-   "heat": "주간경향 · 10/28 20:11",
-   "article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5wNXZoeHA2azJFdjB6dzRieUdqRWxwaEJVNVJROXdsS0U2VU41Y0pmV1dOV3dCamM2eHBUNDV0OEtJcmVCNUVSaFRMSFVjaW9oeDZDTlQyU1dDRTNEZGc?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "x"
-   ],
-   "tag": "K-POP",
-   "t": "‘국민 걸그룹’ 리센느, 타이틀곡 ‘With’ 챌린지부터 벌써 히트 예감",
-   "q": "국민 걸그룹",
-   "heat": "스포츠경향 · 10/28 08:00",
-   "article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03U25qdUIwY2RiUURNSnN1dlRCSnN4RFUyYW4wN3UtNW1KeHVLN2lHaDNWZmhMNzlJeFprWEN2UVFZUXhDR3VQUGF4dHQ2TGctMWdSLVdSbThpUGNNNkHSAWNBVV95cUxPMDhRUEpyOGlrT0V0YjNoRjVEeEs4MUYxX2pYZVpNcTlsYjVWcmozbFRabTBHWlNoSmp5MTZNaTNaWkRpeUl4ZjVTWmhkaXFqRmZ0Zl9UZS13Y1pDdnBCXy1mSDA?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "챌린지",
-   "t": "숏폼 레시피 챌린지, 식재료 가격 뒤흔든다",
-   "q": "숏폼 레시피 챌린지, 식재료 가격",
-   "heat": "https://www.kmjournal.net/ · 10/27 11:45",
-   "article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CeER2V2tSbGhHQ09wRVZ1eExhRFlUY2YtZDdWdlNyb21scFJwU2dfNl9USXhHbkJrYXZ6NWRSaV9aUmt0QUlWUFB0b0lhWm13bVROMGtXNTNWd0tmZ3NZTUxlTVlFTWM0VjJ3?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "숏폼",
-   "t": "“유튜브 잡아라”… 긴 영상에 도전하는 인스타그램·틱톡",
-   "q": "유튜브 잡아라",
-   "heat": "Chosunbiz · 10/30 06:00",
-   "article": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPc1J5czhuM25HT0N6eVJFYVdCS0RqWENDM2cxeWZ6Tmszc0RHS0VlWlFXcUZ4bnlTMDBHclptVk9qYVR4WTJhZTRyeE1oczZtSi1IZFBnLVZsY2ppTlJFeVczbUw2TkFqN0ZIbkt2V3dzcnpZZnhWRVI3MmEyUDRaNmVn0gGWAUFVX3lxTE9nTG51MjVLZ1VwMXdwbU8yXzlLaEVFZHdfSUo4WnowRXpqUmNjUlNUSVhVS1lSdU52THFWUk9TNFBrWDFrSnh0X2laNmQyeDR6OVdCUEJ5aWgyaTV0eTc1NHA3UEdZZTdnOE5YdC1sRnc2VFFLYWdRNm5wUWtmUS00RDBQLTZFdWs5XzhIWjFNdDV5d2JuQQ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "챌린지",
-   "t": "[관광산업 HOT 뉴스] \"한강 러닝부터 을지로 야장까지\"…일본 남성 사로잡는 ‘서울 퀘스트’",
-   "q": "한강 러닝부터 을지로 야장까지",
-   "heat": "비즈월드 · 10/29 01:29",
-   "article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xRElxT3l4c25kLVlDUHlxSlZSQW1Fb3U2QTgtWWppdGRzbFFCaGRORktkWTNsLWNzb002eWFSNHNsNDA2VWxMVlUtdko3T2hjZUhwbmdWeTl2RVBPYnotTUdrVzBtVDVwZ2Nr?oc=5",
+   "t": "100일의 거짓말, 닥터X 제치고 TV·OTT 화제성 1위",
+   "q": "100일의 거짓말, 닥터X 제치고 TV",
+   "heat": "https://www.diarypoint.com/ · 10/28 20:30",
+   "article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xRUwtU0E2b2tqR2V6akZFdlI3Q1VJOHBReUIxVUlHT2Y3RmZXSF82cXR2ZTVzWWotNld2U2dSWGtlVUR0ZGxHS1JLd2RLZjdpZV92M1RhZk5Nbm80QTJ3czhyaFlYOGRBNmww?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
