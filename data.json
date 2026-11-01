@@ -1,16 +1,16 @@
 {
- "updatedAtKST": "2026-10-31 11:12",
+ "updatedAtKST": "2026-11-01 11:03",
  "trends": [
-  "수익률",
-  "주식",
-  "필라데피아 대 뉴욕",
-  "sk 사장단 인사",
-  "미세먼지",
-  "우주선",
-  "샌디스크",
-  "lcs",
-  "직장폐쇄",
-  "테슬라"
+  "lyon",
+  "한화생명 e스포츠",
+  "사랑 이 온다",
+  "골키퍼",
+  "화재",
+  "정전",
+  "자폭형 무인 항공기",
+  "이찬원",
+  "gs건설",
+  "테일러 프리츠"
  ],
  "news": [
   {
@@ -19,6 +19,42 @@
   }
  ],
  "hot": [
+  {
+   "plats": [
+    "tiktok",
+    "x"
+   ],
+   "tag": "K-POP",
+   "t": "가슴 벅찬 소년들의 다짐… 투어스, 챌린지로 컴백 예열",
+   "q": "가슴 벅찬 소년들의 다짐 투어스,",
+   "heat": "스포츠동아 · 11/01 09:48",
+   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pYUNNR05LNVB5QVFwekZfdTBYekRIU3h0c2dHVEFPUFpEX0xSUHVhQXJIR0RnT254LVhtTnNlRDk2WW5fVGxiTEgybFQyU2xBVVBReERYc1hqbDdnT3V4Y0VXdmNCc1NQaVZyMEh3?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "챌린지",
+   "t": "아일릿, 신곡 ‘체포하겠어’ 무대로 글로벌 팬심 체포..음원·숏폼 차트서 인기",
+   "q": "체포하겠어",
+   "heat": "브레이크뉴스 · 10/31 15:21",
+   "article": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA4VTllcjdMaEFwQjc4aUNkYjQ1dkZpbFRscW9Oc2t1YWROclRpUkNMMGZmcmtoMWRfWlRla3JOdVlCbnVoWUZr?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "챌린지",
+   "t": "버터런 챌린지와 공감각 소비, 과정이 콘텐츠다",
+   "q": "버터런 챌린지와 공감각 소비, 과정이",
+   "heat": "https://www.kmjournal.net/ · 11/01 08:33",
+   "article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IcnFDMDh5cVNETkZzSG81Tjh2czQtOUdkeXFVdEl6bHpjSl9JaUNqUkxWUVFxNzdlcVBHRkt3OVlMaklaaGxiektaS2ZHTE9tMUlxNHdESXBCejMyTzIwcXZsWUltVGFhdGxv?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
   {
    "plats": [
     "tiktok",
@@ -41,6 +77,18 @@
    "q": "물에 약물 타는 게 웃겨?",
    "heat": "스포츠조선 · 10/31 08:24",
    "article": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNczBLZTNwUDdmWWhQbGM5dUkxSVF4SEdIc0Y3aVlzV2lGWmNLLU1wZFAxM0JiUVVSaWR1aWF3S3RUMWVqUnZGaDA5QUVwckZUSTFfOTF1LVFRb29xZTRvLXZLNzRVTHhCdkhzTzB6RER5UVYxeGVDM3RiM2JXcGNXRFVGRXI?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "\"148㎝·132㎏, AI 아닙니다\"…日 걸그룹 오디션 참가자 화제",
+   "q": "148㎝·132㎏, AI 아닙니다",
+   "heat": "뉴시스 · 11/01 02:38",
+   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02eFUtdzIwWF92aWZjbWVjdWlzTkpUc3V3WHdYU3B0anFjbkpobzBwVThqV3NYSnBJemVUM1NNbVA1QVR4VmJEVm5DZTkzZmJGX1hOLWFDNFljZTBaRnBCZNIBeEFVX3lxTE5kU2tMb1I0dTRvU21qTkpmMmNDR2l3TEtqYzlDdlJta2ZwRFVla0taTkhLT0FUZlNPN0hOOXNYSmZTdUdYb1ZJa0ZKclpYTGtRZ0U4b3FvaElDcmphUjVkbHR6aFBwMnZUSzhxd2phY1ZpRWhWdnliQQ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -89,54 +137,6 @@
    "q": "中청구서",
    "heat": "연합뉴스 · 10/31 07:07",
    "article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9abDdMUTBfMVdTYmR3WGpqRTdrcGZNV1NSOXpVMDZCOTBHRk9wb3RWSVJUX3hrT0JSdlVrRk1UaEF3UFJXM2hiQUp3MWRZT0g1ME51RGhqWmdsbTDSAWBBVV95cUxNajlzYXNza2RiY0hDNzVBT1NJbUdrQnpBR3puY0hRaDNBclZCMXVNZ0FHMU44WnRfWHI3T2pRRHZEOXBTWmlUd0ktVVVIVjdIOGtUOFQ3aVBvNkZ2WGxUN1I?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "x"
-   ],
-   "tag": "K-POP",
-   "t": "아이브, '룩스 캔 킬' 흥행 질주…일간 톱10 안착·챌린지 누적 [N이슈]",
-   "q": "룩스 캔 킬",
-   "heat": "네이트 · 10/29 10:33",
-   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE83ejdYU1ROZlByVVl5czVrRTNMUXNSSHlVV3RFcUt5RkcyRlEwaVdkTDJMOF9yQ1FGbDFNQmtHb2sxaFB3LWdfSko3ZDRTLVVGZ09N?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "\"AI 도움으로 복권 샀는데 10억 대박\"…中 남성 화제",
-   "q": "AI 도움으로 복권 샀는데 10억 대박",
-   "heat": "아시아경제 · 10/29 14:27",
-   "article": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaUFtOXc0RWZjRGNlV3VkbDRoNDVXYVdrY3UycHducVlNQXg5anJXOVQyRUVTbnRVZ1R1YlZpcnVodk5VeDl0RjV4bGhvUWZBbDBnRzhUSWp5MHotd2lrbkNiTGlrdlJOaVR0QWVOc29tSC15NHJPRzVWSmpGN0Mzb1lR?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "x"
-   ],
-   "tag": "K-POP",
-   "t": "아이브, ‘룩스 캔 킬’ 챌린지 누적 1억 뷰 돌파",
-   "q": "룩스 캔 킬",
-   "heat": "BNT뉴스 · 10/28 13:36",
-   "article": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxQlBLaC1KX2FyNnhtX2ZxNUFYQ0dvY0M3WU1rMjVHZ1hLVkwtRlZSbDRWaWJRTXBWYkYwcDlqYjJOR0lQMjd2eVNBemVrZWtyS0JvdjhDS29odlRZWWhldzktTGs?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "100일의 거짓말, 닥터X 제치고 TV·OTT 화제성 1위",
-   "q": "100일의 거짓말, 닥터X 제치고 TV",
-   "heat": "https://www.diarypoint.com/ · 10/28 20:30",
-   "article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xRUwtU0E2b2tqR2V6akZFdlI3Q1VJOHBReUIxVUlHT2Y3RmZXSF82cXR2ZTVzWWotNld2U2dSWGtlVUR0ZGxHS1JLd2RLZjdpZV92M1RhZk5Nbm80QTJ3czhyaFlYOGRBNmww?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
