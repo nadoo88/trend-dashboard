@@ -1,24 +1,31 @@
 {
- "updatedAtKST": "2026-11-01 11:03",
+ "updatedAtKST": "2026-11-02 11:16",
  "trends": [
-  "lyon",
-  "한화생명 e스포츠",
-  "사랑 이 온다",
-  "골키퍼",
-  "화재",
-  "정전",
-  "자폭형 무인 항공기",
-  "이찬원",
-  "gs건설",
-  "테일러 프리츠"
+  "정의선",
+  "골든 스테이트 대 la 클리퍼스",
+  "영광",
+  "한남더힐 아파트",
+  "t 멤버십",
+  "삼성증권",
+  "november",
+  "한국투자증권",
+  "교도소",
+  "뉴잉글랜드 대 인터 마이애미"
  ],
- "news": [
-  {
-   "title": "아일릿, 숏폼 챌린지 열풍… \"수능 만점 받겠어\" 개사 유행",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlNkVGU01LUEhUWUVmYzN2eG9aQy1BeEVYUGwtWWVnbzgwSEdId1NnMXVodFRJWnZrSWxNNFAzbVdEWGIyRDZVdVpMSXJKYWlodEpSUjFrWktkUlhaNGRGTmpNbw?oc=5"
-  }
- ],
+ "news": [],
  "hot": [
+  {
+   "plats": [
+    "tiktok",
+    "x"
+   ],
+   "tag": "K-POP",
+   "t": "앤더블, 컴백 동시 온라인 화제성 장악…완성형 신인 면모 각인",
+   "q": "앤더블, 컴백 동시 온라인 화제성",
+   "heat": "SWTV · 11/02 07:12",
+   "article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uU3BwSk12d3VTRk9Ua1d6THdDaTZpdklISmVWay05eXZIZWhqbC1MaU5yblRXZWtQbmpfSUpkYjFka19hU2lLWjQ5MnFEN3B0TWpVY2J1b0VZalNWd09QNTZ3SklqbTlqekJN0gFrQVVfeXFMT25TcHBKTXZ3dVNGT1RrV3pMd0NpNml2SUhKZVZrLTl5dkhlaGpsLUxpTnJuVFdla1Bual9JSmRiMWRrX2FTaUtaNDkycUQ3cHRNalVjYnVvRVlqU1Z3T1A1NndKSWptOWp6Qk0?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
   {
    "plats": [
     "tiktok",
@@ -45,6 +52,18 @@
   },
   {
    "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "닌텐도 게임부터 개봉 예정 기대작까지, 화제의 콘텐츠 총집합… 올해 쓱데이는 스타필드에서 놀자!",
+   "q": "닌텐도 게임부터 개봉 예정 기대작까지,",
+   "heat": "신세계그룹 뉴스룸 · 11/02 11:06",
+   "article": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVWJZaFIteVJ6WW5lbUUzRzlHOEI0SDByNTAyWkJhYnA5NEU3ZnJXd3JVbFFXdVA3MWFtYUhxQzMzT0w0RzFqWVpwZFYyRVA0SVdiMTZBMTBaQURUSHhJTHp5TGtFYlE3MnVXNzVmVEJZV0JuZDBmdnhBb0xEQjB6UkIzY1pCWW9GRjF5V1JkNGdzZUk?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
     "tiktok",
     "reels"
    ],
@@ -53,6 +72,18 @@
    "q": "버터런 챌린지와 공감각 소비, 과정이",
    "heat": "https://www.kmjournal.net/ · 11/01 08:33",
    "article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IcnFDMDh5cVNETkZzSG81Tjh2czQtOUdkeXFVdEl6bHpjSl9JaUNqUkxWUVFxNzdlcVBHRkt3OVlMaklaaGxiektaS2ZHTE9tMUlxNHdESXBCejMyTzIwcXZsWUltVGFhdGxv?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "숏폼",
+   "t": "아일릿, 컴백마다 '커리어 하이'",
+   "q": "커리어 하이",
+   "heat": "텐아시아 · 11/02 10:47",
+   "article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kemY1OWU4a1MtY09XUzZJSElUMjZWZUs4YmpkanJ1cFVxaVFVWVdCOEFFc2c3RFZjOHBlQ1RUZ2tHV1hEMno1ZVNrbW93OF9PbkNKTExCazh2bjQ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -81,6 +112,18 @@
   },
   {
    "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "챌린지",
+   "t": "10화 이수만은 어떻게 익숙한 방식으로 사람들을 열광시켰을까?",
+   "q": "10화 이수만은 어떻게 익숙한 방식으로",
+   "heat": "브런치 · 11/02 06:02",
+   "article": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE42SXBXeWlwX3RDN1UzSERud1dBeGhJRjZ0dndCaER5SDNiUV85ZUtDcmFzT1FfQ3ZGaGNvVk9Gb2VTcE1yZkt6TnRB?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
     "x",
     "reels"
    ],
@@ -89,54 +132,6 @@
    "q": "148㎝·132㎏, AI 아닙니다",
    "heat": "뉴시스 · 11/01 02:38",
    "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE02eFUtdzIwWF92aWZjbWVjdWlzTkpUc3V3WHdYU3B0anFjbkpobzBwVThqV3NYSnBJemVUM1NNbVA1QVR4VmJEVm5DZTkzZmJGX1hOLWFDNFljZTBaRnBCZNIBeEFVX3lxTE5kU2tMb1I0dTRvU21qTkpmMmNDR2l3TEtqYzlDdlJta2ZwRFVla0taTkhLT0FUZlNPN0hOOXNYSmZTdUdYb1ZJa0ZKclpYTGtRZ0U4b3FvaElDcmphUjVkbHR6aFBwMnZUSzhxd2phY1ZpRWhWdnliQQ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "A2O 아직도 모른다면 들어오세요! 장금이 한복부터 인기 밈까지 이주의 유행템 4",
-   "q": "A2O 아직도 모른다면 들어오세요! 장금이",
-   "heat": "캐릿 Careet · 10/30 10:17",
-   "article": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE9IeGdmeXRSTmdBc1lYZzZBSWlNOHV3LUJqUzhGaDZvdHpWNHVwYnpreXFjcmI4ckZKc2IzZklUbFA?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "“AI 아니다”…미니스커트 입고 무대 찢은 132kg 걸그룹 지망생 ‘화제’",
-   "q": "AI 아니다",
-   "heat": "매일경제 · 10/30 15:38",
-   "article": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBDTGhHNjdvUEVEcXl4UXlWeWZoTzkwNkd3cmg0cnFSSjItcmdsQjc1d0JDZ1JvOXF0azItMzhWZlBYa2FuTE9STFhJYThIOGJmVXc?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "“입소문 제대로 탔다!” 티빙 오리지널 ,비드라마 구독기여 1위 등극…SNS 화제성 타고 흥행 가속",
-   "q": "입소문 제대로 탔다!",
-   "heat": "CJ 뉴스룸 · 10/30 09:00",
-   "article": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOemREckVyQVlXQVhTc2NGeVNacDZCbVZfa3paa2FhSEw4RTVYamxwdUxjWFk3QlNEWTU3NC00UEtjQ1hkeXUyZE44Uk54RUJ1QjVKNlB4c2hUcEZrSWZZM0lkOUdkbXdlaTVRclZSc0lOUjR0WFBwZ0d2MFJycDZxV0I0bHdNRmJzcjR4eGtORkdMZThaS1htU3JHWFM4RWs1b2Q3aTJwd1ZnT2NaX1Z4YnpwM0lKWl8yV1pSX2NyQWhtdVpQWlZWQVVmLXBNbUZnYXhsalpvQi1LTEFfR0tIS2xJOWo0N0xtQ21CMnlrUEJhb1Z0cHN0VXVTX3NIMzFsODc0YTAyaExpXzJicW5JQVRVTVYyX1hsZGJCRGhNOXdrMWJfYWU4?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "[특파원 시선] 음바페에게 날아든 천문학적 규모의 '中청구서'",
-   "q": "中청구서",
-   "heat": "연합뉴스 · 10/31 07:07",
-   "article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9abDdMUTBfMVdTYmR3WGpqRTdrcGZNV1NSOXpVMDZCOTBHRk9wb3RWSVJUX3hrT0JSdlVrRk1UaEF3UFJXM2hiQUp3MWRZT0g1ME51RGhqWmdsbTDSAWBBVV95cUxNajlzYXNza2RiY0hDNzVBT1NJbUdrQnpBR3puY0hRaDNBclZCMXVNZ0FHMU44WnRfWHI3T2pRRHZEOXBTWmlUd0ktVVVIVjdIOGtUOFQ3aVBvNkZ2WGxUN1I?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
