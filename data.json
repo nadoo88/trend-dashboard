@@ -1,29 +1,46 @@
 {
- "updatedAtKST": "2026-11-02 11:16",
+ "updatedAtKST": "2026-11-03 12:53",
  "trends": [
-  "정의선",
-  "골든 스테이트 대 la 클리퍼스",
-  "영광",
-  "한남더힐 아파트",
-  "t 멤버십",
-  "삼성증권",
-  "november",
-  "한국투자증권",
-  "교도소",
-  "뉴잉글랜드 대 인터 마이애미"
+  "삼성 갤럭시 z 폴드 6",
+  "jtbc",
+  "김은중",
+  "부동산 투자",
+  "유가증권",
+  "디에이치 반포124",
+  "저기압",
+  "lg디스플레이",
+  "춘천 마라톤",
+  "상속세"
  ],
- "news": [],
+ "news": [
+  {
+   "title": "‘더쇼’ 앤더블·이븐·엑스러브 컴백 무대",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96ckl5TzVBcjlnUFZTUDZWRGZ3MGVtQ25QZkhiUzFyeFItN0dDYTZWSlR1Wk9Fa1lDVDFmWE5McjA4VUNhTU90RlVDaXBvWm1WRzBNQ0RBX1otQUs2dTRTLTZJVVo?oc=5"
+  }
+ ],
  "hot": [
   {
    "plats": [
-    "tiktok",
-    "x"
+    "x",
+    "threads"
    ],
-   "tag": "K-POP",
-   "t": "앤더블, 컴백 동시 온라인 화제성 장악…완성형 신인 면모 각인",
-   "q": "앤더블, 컴백 동시 온라인 화제성",
-   "heat": "SWTV · 11/02 07:12",
-   "article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uU3BwSk12d3VTRk9Ua1d6THdDaTZpdklISmVWay05eXZIZWhqbC1MaU5yblRXZWtQbmpfSUpkYjFka19hU2lLWjQ5MnFEN3B0TWpVY2J1b0VZalNWd09QNTZ3SklqbTlqekJN0gFrQVVfeXFMT25TcHBKTXZ3dVNGT1RrV3pMd0NpNml2SUhKZVZrLTl5dkhlaGpsLUxpTnJuVFdla1Bual9JSmRiMWRrX2FTaUtaNDkycUQ3cHRNalVjYnVvRVlqU1Z3T1A1NndKSWptOWp6Qk0?oc=5",
+   "tag": "밈",
+   "t": "[Y초점] 밈으로 떴지만, 음악은 이미 달랐다…리센느가 기대되는 이유",
+   "q": "Y초점 밈으로 떴지만, 음악은 이미",
+   "heat": "YTN · 11/03 09:30",
+   "article": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xX0NrLWpJeXBiMlRZS2FVaHJqSEFHRzZ6bTcwZTk2djRoMjQ5alRBVzZJbGp2R0RFTkgzT2tNMG9vUEVEc2kzbFVYaExyVDA3dlZlTk1mNTlNQzBaa2F0VEhuVHJCOW1UejNDTUJzSzFqQjdhV1E?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "'AI가 만든 영화' 화제성, 극장 표로는 이어지지 않았다",
+   "q": "AI가 만든 영화",
+   "heat": "디지털포용뉴스 · 11/03 09:05",
+   "article": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jTnN0b21ra2R1dHhkNzktX0dhRVByM092Q0lsZmJDaVc1TVFpUjlSZG11elh3blRXNUZJdS00T044LTZNWlRmZ1IwXzhpdGh3VXVoWmd1S29mVjBlU1p6cE9WY19ZbVlCZFVxTA?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -52,14 +69,14 @@
   },
   {
    "plats": [
-    "x",
+    "tiktok",
     "reels"
    ],
-   "tag": "AI",
-   "t": "닌텐도 게임부터 개봉 예정 기대작까지, 화제의 콘텐츠 총집합… 올해 쓱데이는 스타필드에서 놀자!",
-   "q": "닌텐도 게임부터 개봉 예정 기대작까지,",
-   "heat": "신세계그룹 뉴스룸 · 11/02 11:06",
-   "article": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVWJZaFIteVJ6WW5lbUUzRzlHOEI0SDByNTAyWkJhYnA5NEU3ZnJXd3JVbFFXdVA3MWFtYUhxQzMzT0w0RzFqWVpwZFYyRVA0SVdiMTZBMTBaQURUSHhJTHp5TGtFYlE3MnVXNzVmVEJZV0JuZDBmdnhBb0xEQjB6UkIzY1pCWW9GRjF5V1JkNGdzZUk?oc=5",
+   "tag": "챌린지",
+   "t": "유튜브 조회수 터진 완전체, 베스티의 '역주행' 기적",
+   "q": "역주행",
+   "heat": "오마이스타 · 11/03 11:20",
+   "article": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9lRXNCUGZJbnktZ00xU2RtbVdWMXd0Y0dMekFSSGRkMzcwVXhKNnI1OGdOV0JGTGVrRGtXaXAwekVKMFc0SWE5bHhkZW5hZlZrVl9ZVk1BVE9mREg0VTRKV2U1czg4eGR0TnM1T1NYTnFnRTc5cnRnc3dZVEQtZw?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -72,6 +89,18 @@
    "q": "버터런 챌린지와 공감각 소비, 과정이",
    "heat": "https://www.kmjournal.net/ · 11/01 08:33",
    "article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IcnFDMDh5cVNETkZzSG81Tjh2czQtOUdkeXFVdEl6bHpjSl9JaUNqUkxWUVFxNzdlcVBHRkt3OVlMaklaaGxiektaS2ZHTE9tMUlxNHdESXBCejMyTzIwcXZsWUltVGFhdGxv?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "x"
+   ],
+   "tag": "K-POP",
+   "t": "앤더블, 미니 2집 컴백 첫 주 화려한 스타트..'퍼포먼스·비주얼·예능감 다 잡았다",
+   "q": "앤더블, 미니 2집 컴백 첫",
+   "heat": "스타뉴스 · 11/02 12:11",
+   "article": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42LUdvVkZuZlRDUWxjRHRNem9jeEI4WEhSS3I0LXBhSkMzQXRxNmRtaG42U3psYjlqTWMweGFDYUZVZE5oU0htZXpxZnRFMFdWSFpJcE9HQ0J0Q1AzaFhsZ1c0MFVRR1J5UjNNUXNCeWRueVpC?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -92,34 +121,10 @@
     "reels"
    ],
    "tag": "챌린지",
-   "t": "아일릿, 숏폼 챌린지 열풍… \"수능 만점 받겠어\" 개사 유행",
-   "q": "수능 만점 받겠어",
-   "heat": "MHN스포츠 · 10/31 09:14",
-   "article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlNkVGU01LUEhUWUVmYzN2eG9aQy1BeEVYUGwtWWVnbzgwSEdId1NnMXVodFRJWnZrSWxNNFAzbVdEWGIyRDZVdVpMSXJKYWlodEpSUjFrWktkUlhaNGRGTmpNbw?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "챌린지",
-   "t": "\"물에 약물 타는 게 웃겨?\" 엔하이픈, '범죄 희화화' 챌린지 논란 [SC이슈]",
-   "q": "물에 약물 타는 게 웃겨?",
-   "heat": "스포츠조선 · 10/31 08:24",
-   "article": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNczBLZTNwUDdmWWhQbGM5dUkxSVF4SEdIc0Y3aVlzV2lGWmNLLU1wZFAxM0JiUVVSaWR1aWF3S3RUMWVqUnZGaDA5QUVwckZUSTFfOTF1LVFRb29xZTRvLXZLNzRVTHhCdkhzTzB6RER5UVYxeGVDM3RiM2JXcGNXRFVGRXI?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "챌린지",
    "t": "10화 이수만은 어떻게 익숙한 방식으로 사람들을 열광시켰을까?",
    "q": "10화 이수만은 어떻게 익숙한 방식으로",
    "heat": "브런치 · 11/02 06:02",
-   "article": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE42SXBXeWlwX3RDN1UzSERud1dBeGhJRjZ0dndCaER5SDNiUV85ZUtDcmFzT1FfQ3ZGaGNvVk9Gb2VTcE1yZkt6TnRB?oc=5",
+   "article": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBQN09EUnpsUTNIeDc1S2k5NV9TNmNMRnFOUHc0eEx1X2J2TUdEb21zVDRkQ1g1eklNalVBZ2VpNUxwdVdvNmc?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
