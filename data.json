@@ -1,28 +1,60 @@
 {
- "updatedAtKST": "2026-11-04 11:58",
+ "updatedAtKST": "2026-11-05 12:23",
  "trends": [
-  "james talarico",
-  "미국 대선",
-  "us midterm elections",
-  "포스코",
-  "서장훈",
-  "대도시 특례",
-  "로보월드",
-  "버거킹",
-  "송중기",
-  "2026 us election results"
+  "장기 기증",
+  "열차",
+  "더현대 크리스마스",
+  "김숙",
+  "교통",
+  "아이폰",
+  "한남더힐 아파트",
+  "레인보우로보틱스",
+  "다문화 가정",
+  "허영생"
  ],
  "news": [
-  {
-   "title": "‘더쇼’ 앤더블·이븐·엑스러브 컴백 무대",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96ckl5TzVBcjlnUFZTUDZWRGZ3MGVtQ25QZkhiUzFyeFItN0dDYTZWSlR1Wk9Fa1lDVDFmWE5McjA4VUNhTU90RlVDaXBvWm1WRzBNQ0RBX1otQUs2dTRTLTZJVVo?oc=5"
-  },
   {
    "title": "앤더블 장하오, ‘숏폼 왕자’의 일상 공개…‘더쇼’ 출격",
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiRS1xX2NpN253STNUS0I1eG8yN01DeWc5V3pIczc4cjNFdUF3d0ZNa2JpbFVBSDFDY2hjZVpoMUhoQ0Y5SzdDaTQwaHNBVnpQb0FmX0U3NnpkaGgzb09DVGttN2RKRkpj?oc=5"
   }
  ],
  "hot": [
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "트럼프 호텔에 '트럼프 아웃'...조롱 '밈' 유행 [앵커리포트]",
+   "q": "트럼프 아웃",
+   "heat": "YTN · 11/05 10:19",
+   "article": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lOU9UY2FMRjEzXzh3U29mY0Q5OTk5RXduWjZfRFE2LWdNVHVuVHh3QnVUWlZSc0wyTnB3bzJ6b0pwV0dSQU5ISmJBZ09ScEFRZG1DRWVwNVJhTm9sbGo0S29hNEMzM0ZKWVk5ZjlpREFYam15ZVE?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "‘거제야호’ 밈이 바꾼 거제…도시 브랜딩 새 가능성 제시",
+   "q": "거제야호",
+   "heat": "부산일보 · 11/04 15:05",
+   "article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zbnhXb3dOM0VrMmVvSVNpS0JyS1gxWkNMbElJajhkcHdjVjVTN3dJcmM1S3I5YkhhbzV4M3Fla1ljdnFZa2ZUbTZnUXVKdmNkRjl0RFRVZFg0bkxWdEtZNTdhaHY3OGxONXB6cU5SRVotMENGZEhmRA?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "x"
+   ],
+   "tag": "K-POP",
+   "t": "제이블랙, 아이돌 안무 '챌린지'에 소신 발언 \"이제 그만 좀 했으면\"",
+   "q": "챌린지",
+   "heat": "Chosunbiz · 11/04 21:44",
+   "article": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRUlKODJ6dE03dkVoRzNocTd3Wi16TWxvUEJiY21acGYxTGhxODZyZkZCeUl3aHN4VWZqSldsUmRIV2Q0bHozNU9Ib3ZHSVFmNGdfUjI4b1dnRDBYb19oMUJZQmoyd0J1Y21SNS1GNjhEY1h2V3JHcVRwUEczX0cwdnJoc3hHYUNNbmljV3JxNTJGX0HSAacBQVVfeXFMTlk3QS10VHdDcFpibnlzUFRxQWZXWVE4VW1xdHNKWnlfSV81Z2NMVlNMcE9OaXhoYngyWDBqbC1Na3pWaXhqWmVGV0dLTnhIN2pWWHZnaEw2QkJqM1pva296QXYwYWgya3h5UXYzQkpESG0zR0RsRDJaQy1tZndOQi1pZnZXQUV4bUFjSFowdGhSVkVmejNOODJSNmEtQU5JRmhJMzZ4c3M?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
   {
    "plats": [
     "x",
@@ -38,13 +70,25 @@
   {
    "plats": [
     "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "맥도날드 랩 이정도였어? 존박, 웹비드라마 화제성 2위 '급등'[스타이슈]",
+   "q": "급등",
+   "heat": "스타뉴스 · 11/04 14:29",
+   "article": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwc1J4Z00tVVY4NGdqVjB5bVpuZEtjLTAtcWxfX3kwc3dGWUd4VEl3ZE9lUHVOM0hhOU0xcnM1YXFGb2dnZ01oVEU3ZjFzanI1ZFlZWXMtNm5mRnhzOUtFVG5iRnR1U1pLeUw2TjBXb3AteU0?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
     "threads"
    ],
    "tag": "밈",
    "t": "[Y초점] 밈으로 떴지만, 음악은 이미 달랐다…리센느가 기대되는 이유",
    "q": "Y초점 밈으로 떴지만, 음악은 이미",
-   "heat": "YTN · 11/03 09:30",
-   "article": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xX0NrLWpJeXBiMlRZS2FVaHJqSEFHRzZ6bTcwZTk2djRoMjQ5alRBVzZJbGp2R0RFTkgzT2tNMG9vUEVEc2kzbFVYaExyVDA3dlZlTk1mNTlNQzBaa2F0VEhuVHJCOW1UejNDTUJzSzFqQjdhV1E?oc=5",
+   "heat": "YTN star · 11/03 09:30",
+   "article": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lbTRTS0dSZGdPTXpYWXFENVhFM2VpSFJiZ3BsaWh2dzV5VkU5WXhaNTJQUEZPNDRMdWdTSzhBS01FQk1aUThpczZuckpyel9QUWZnMUdsSWJ0VFpVdzM0?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -74,49 +118,13 @@
   {
    "plats": [
     "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "멜론 정상 찍고 새 시험대…리센느, ‘믿고 듣는 그룹’ 쐐기 박는다 [종합]",
-   "q": "믿고 듣는 그룹",
-   "heat": "스포츠동아 · 11/03 16:56",
-   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1PRHQ1SHgxb3MyRkNUckpxaHp6RlhxQlJHUlg3cmJ0dElVVlFVRXdoRXVvRm1DV2RfSTI3eHRzM3lCaVVVTEdUU3FiTGdIc0MwM2xvTlBaUklBTnRMRG1MNkdVS0hXZlA1OTFtVk1R?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
     "reels"
    ],
-   "tag": "챌린지",
-   "t": "유튜브 조회수 터진 완전체, 베스티의 '역주행' 기적",
-   "q": "역주행",
-   "heat": "OhmyNews · 11/03 11:20",
-   "article": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tRXNOVi1wRWFmRTMyTkhLR0NlbV82NG9Fa2ZJZU9naE5tTkROWWJOTjFSTEVwMVhzYVB2T09qa1lYcElYeDdWbTBrVEFpV2NvTU40T3E4ZDFBMmExYWdwRThMd1lMUi1MMkNWX2cyemt2T3hi?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "reels"
-   ],
-   "tag": "챌린지",
-   "t": "그 시절 언니들의 귀환…베스티, 역주행의 조건",
-   "q": "그 시절 언니들의 귀환 베스티,",
-   "heat": "Hanteo News · 11/03 08:45",
-   "article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9tY0otejgzR1NsRUpoYWd0Wkt2dkxxcjI0bFBIV2lOYUp2c1ZHRkhNalNPcjZSdTZJN1dyOFQ5dGtyczZnOXhfQnB1dkxaM2hRWXJhOEVB?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "x"
-   ],
-   "tag": "K-POP",
-   "t": "앤더블, 미니 2집 컴백 첫 주 화려한 스타트..'퍼포먼스·비주얼·예능감 다 잡았다",
-   "q": "앤더블, 미니 2집 컴백 첫",
-   "heat": "스타뉴스 · 11/02 12:11",
-   "article": "https://news.google.com/rss/articles/CBMidEFVX3lxTE42LUdvVkZuZlRDUWxjRHRNem9jeEI4WEhSS3I0LXBhSkMzQXRxNmRtaG42U3psYjlqTWMweGFDYUZVZE5oU0htZXpxZnRFMFdWSFpJcE9HQ0J0Q1AzaFhsZ1c0MFVRR1J5UjNNUXNCeWRueVpC?oc=5",
+   "tag": "AI",
+   "t": "“AI인 줄”…대치동 미모의 국어 강사 “모든 SNS 없애겠다” 호소한 이유 [이슈픽]",
+   "q": "AI인 줄",
+   "heat": "www.twig24.com · 11/05 05:57",
+   "article": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzak1TLU5JY1NUbWVQRk9zNk0wU3JLc2t2MkhVNDlZR0lyZzZRMDlVYThJWVlDTWRLeTlKY1VOWDJqU3RGaTVadXUyeTRQZjIzQ3ZoMVpHNDFZcXpxcjI5MjRQSDdXZHlwOWc?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -125,22 +133,10 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "'AI 아니었어?' 난리난 국어 강사 미모에…\"다시 공부합니다\"",
-   "q": "AI 아니었어?",
-   "heat": "이데일리 · 11/03 23:16",
-   "article": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPR2NNYmxiTEg0UDNnd1pRdmlzUWxxSEM3RmZjNUxkRTZFdkdsVGlWOWFaTC14S2d6cXdFTVluMkR1dlV3bHctWUo4WGlGN19oVVlVeUM0dHlyZE9NZVJXZnlBVDVlbFFybGpibnplamhkczhXWEFjMVdXS2VmMnk2MA?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "핼러윈 맞아 덤블도어 된 밴스 美 부통령…품에는 도비로 변신한 막내아들",
-   "q": "핼러윈 맞아 덤블도어 된 밴스",
-   "heat": "조선일보 · 11/02 16:48",
-   "article": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMGt0c2dxMmpzMERIVzZVZmNoWG85NFRZai1QdkNPc05TUWJ4SXhhNnpwdE9yZURPcS0tOTdFSUptWWNXSFVfbTdYZjFYNS02UmFLbVU0cmcyVWdIRWFheXdUTnZXc3kxOElITHdiY0F2M2Fsd2RhVWNSWlJlM3B1UnhPYzU?oc=5",
+   "t": "선한 영향력 전파, 아임파인다이닝 시즌 2 공개",
+   "q": "선한 영향력 전파, 아임파인다이닝 시즌",
+   "heat": "게임메카 · 11/04 17:44",
+   "article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11RkJJR2hMMDlGRzRXNFhCX0xxdDJjVGhuX3M1VnhuZzlRY196WURnN05XejZKdk9KcWxXYjR6SldONWpWSk96dWJDMGRfUXkyamswSTVqU0Y0UnfSAVtBVV95cUxNdUZCSUdoTDA5Rkc0VzRYQl9McXQyY1Robl9zNVZ4bmc5UWNfellEZzdOV3o2SnZPSnFsV2I0ekpXTjVqVkpPenViQzBkX1F5MmprMEk1alNGNFJ3?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
