@@ -1,24 +1,43 @@
 {
- "updatedAtKST": "2026-11-05 12:23",
+ "updatedAtKST": "2026-11-06 12:19",
  "trends": [
-  "장기 기증",
-  "열차",
-  "더현대 크리스마스",
-  "김숙",
-  "교통",
-  "아이폰",
-  "한남더힐 아파트",
-  "레인보우로보틱스",
-  "다문화 가정",
-  "허영생"
+  "돔 경기장",
+  "토토 재팬 클래식",
+  "존리",
+  "소형모듈원자로",
+  "에너지",
+  "노소영",
+  "엘리자베스 홈즈",
+  "a24",
+  "어쌔신 크리드 발할라",
+  "김장"
  ],
- "news": [
-  {
-   "title": "앤더블 장하오, ‘숏폼 왕자’의 일상 공개…‘더쇼’ 출격",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBiRS1xX2NpN253STNUS0I1eG8yN01DeWc5V3pIczc4cjNFdUF3d0ZNa2JpbFVBSDFDY2hjZVpoMUhoQ0Y5SzdDaTQwaHNBVnpQb0FmX0U3NnpkaGgzb09DVGttN2RKRkpj?oc=5"
-  }
- ],
+ "news": [],
  "hot": [
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "트럼프 호텔에 'TRUMP OUT'... 조롱 '밈' 유행 [앵커리포트]",
+   "q": "TRUMP OUT",
+   "heat": "YTN · 11/05 16:12",
+   "article": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yX1Rsa2xJTVBHLXdCN3hmam5FVmRDdlZnSWZuU0FjOUVuYzlFS2FuQm1qT2V5eFdkczVQdkNTUlQ5dFBLNnp5eEhXdlc0UHFraWZxZEZib2I4YV9EcTN6Wi1LR01uY1hhRkUwa2JQd183QTJpMGc?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "\"귀신 피해 갔는데 여기가 '귀신 맛집'\"...SNS 영상 '화제' [앵커리포트]",
+   "q": "귀신 피해 갔는데 여기가 ",
+   "heat": "YTN · 11/05 11:03",
+   "article": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SaXMyaDNiVVoxYlhLaTNqLWtCLUFiMTEyWXVPVl9EYnNBeGN5M3ZsVzd1b2YxN3BobHk2X001d1FsZFcwUVAwV3pucFV3VnNjR1o4c2pXWlE0aFphWHhjVERDc3RjN2IwOENGY1hxS0N4YTZ1WFE?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
   {
    "plats": [
     "x",
@@ -28,7 +47,19 @@
    "t": "트럼프 호텔에 '트럼프 아웃'...조롱 '밈' 유행 [앵커리포트]",
    "q": "트럼프 아웃",
    "heat": "YTN · 11/05 10:19",
-   "article": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lOU9UY2FMRjEzXzh3U29mY0Q5OTk5RXduWjZfRFE2LWdNVHVuVHh3QnVUWlZSc0wyTnB3bzJ6b0pwV0dSQU5ISmJBZ09ScEFRZG1DRWVwNVJhTm9sbGo0S29hNEMzM0ZKWVk5ZjlpREFYam15ZVE?oc=5",
+   "article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zWmF1eVZYVGRWbFE1NDU4YTJQeXY3Ri15TEFpVTdndE00bmJpdGU4T29oRzdwUHYxOElkeHlVQXprX2VzNGplaGlZeExFa0RRZ2E2T3VxNG93UXZoSkE?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "x"
+   ],
+   "tag": "K-POP",
+   "t": "\"아이돌 응원 들으며 달린다\"…지니뮤직·런데이 '리센느 챌린지' 개시",
+   "q": "아이돌 응원 들으며 달린다",
+   "heat": "뉴시스 · 11/05 17:41",
+   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsNkhsWEc4NDQ1MkZtcHZIc2I2dWlzaVh3cGFfcGQ0QWR3QUNyQmlVRGt2ZG1fMkx2V2tOM2JKYU5JWklOejdKanNMMFJfQXB3TEpSVEFaVHJNXzBubVRVN9IBeEFVX3lxTE9RdXBQMUNiOVBpc0NuOGRQOWlraVZ2ME1FLU8tcWFDeElEekJvaUJYS2FrNGtKTzZBa0h0dElmWjEyYlJYYzZTcnVMdk9XbVAwV24ybUJGZkFwcllRRGx6Rm1YYk9uZnJwWmN5OUFrV3dKaW9EU1lNQg?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -61,6 +92,18 @@
     "threads"
    ],
    "tag": "밈",
+   "t": "'다다음 날 깬다'던 캪틴큐, 하루 만에 완판… 4년간 매달린 한 남자의 집념",
+   "q": "다다음 날 깬다",
+   "heat": "한국일보 · 11/06 04:30",
+   "article": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSelVjWW9MbXIwMlpNMTcyZnFuNXVDT04tNk5TLUNoRS1aUkptQ01nZnJEM1RBYXdyS3lPZUp6eEtNTVlRNjJQOFlmRzdNLTVTNTBGQjhJQUJ3NHFNTHgyeXJ6dVRoR1FKRUVtMG42VE1oMkXSAXNBVV95cUxQUnpVY1lvTG1yMDJaTTE3MmZxbjV1Q09OLTZOUy1DaEUtWlJKbUNNZ2ZyRDNUQWF3ckt5T2VKenhLTU1ZUTYyUDhZZkc3TS01UzUwRkI4SUFCdzRxTUx4MnlyenVUaEdRSkVFbTBuNlRNaDJF?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
    "t": "이수만·나영석·유재석도 췄다..요즘 K팝은 AI 밈이 대세 [Oh!쎈 이슈]",
    "q": "이수만 나영석 유재석도 췄다..요즘 K팝은",
    "heat": "조선일보 · 11/03 17:45",
@@ -73,22 +116,10 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "맥도날드 랩 이정도였어? 존박, 웹비드라마 화제성 2위 '급등'[스타이슈]",
-   "q": "급등",
-   "heat": "스타뉴스 · 11/04 14:29",
-   "article": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAwc1J4Z00tVVY4NGdqVjB5bVpuZEtjLTAtcWxfX3kwc3dGWUd4VEl3ZE9lUHVOM0hhOU0xcnM1YXFGb2dnZ01oVEU3ZjFzanI1ZFlZWXMtNm5mRnhzOUtFVG5iRnR1U1pLeUw2TjBXb3AteU0?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "[Y초점] 밈으로 떴지만, 음악은 이미 달랐다…리센느가 기대되는 이유",
-   "q": "Y초점 밈으로 떴지만, 음악은 이미",
-   "heat": "YTN star · 11/03 09:30",
-   "article": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9lbTRTS0dSZGdPTXpYWXFENVhFM2VpSFJiZ3BsaWh2dzV5VkU5WXhaNTJQUEZPNDRMdWdTSzhBS01FQk1aUThpczZuckpyel9QUWZnMUdsSWJ0VFpVdzM0?oc=5",
+   "t": "[핌 포커스] \"오빠!\" 외치고 찍고 AI로 다시 만들고…'스카프 아저씨' 팬덤의 문법",
+   "q": "오빠!",
+   "heat": "뉴스핌 · 11/06 12:00",
+   "article": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qcTAzVF84cjZVZng1LWQ2ZWN0Y2tuUWlXUWZPNGdna1EwOG1lajJLOFFNc0dqTHkzdnZZcVFrVHhwSHNfYkxDZ2owQkxxOS1Qay04TjN2NU02QjRR?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -97,46 +128,10 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "'250등→전교 3등' 미모가 더 화제...대치동 국어 강사 영상 확산",
-   "q": "250등→전교 3등",
-   "heat": "머니투데이 · 11/04 09:25",
-   "article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sekZGam9LWGdPSmRka3paZzlXb3pCSjVRdVFQZUxoN21RLU8zOWp2eGgzMTRIRGZpWDdtdnlmeVh6RWozX3ExVm80Nm9tcDNrT3Qwb051R2Nqdkt0YWVPLUVoNU5OWWpGUmFR0gFwQVVfeXFMTUxyRzF4ZmhiSzJ6dVFkcXlka1pmeGVsMVFoQzd3R1ltOGJoQ0pfX1otbEJwaW9GUDBNV1VoajRBXzRSVVpMeGdCdzhsRDdYeE8wdnFReVFjZ0tSMVNzc19EYURxSEROc0RBMXRJQm1jWg?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "'AI가 만든 영화' 화제성, 극장 표로는 이어지지 않았다",
-   "q": "AI가 만든 영화",
-   "heat": "디지털포용뉴스 · 11/03 09:05",
-   "article": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1jTnN0b21ra2R1dHhkNzktX0dhRVByM092Q0lsZmJDaVc1TVFpUjlSZG11elh3blRXNUZJdS00T044LTZNWlRmZ1IwXzhpdGh3VXVoWmd1S29mVjBlU1p6cE9WY19ZbVlCZFVxTA?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "“AI인 줄”…대치동 미모의 국어 강사 “모든 SNS 없애겠다” 호소한 이유 [이슈픽]",
-   "q": "AI인 줄",
-   "heat": "www.twig24.com · 11/05 05:57",
-   "article": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzak1TLU5JY1NUbWVQRk9zNk0wU3JLc2t2MkhVNDlZR0lyZzZRMDlVYThJWVlDTWRLeTlKY1VOWDJqU3RGaTVadXUyeTRQZjIzQ3ZoMVpHNDFZcXpxcjI5MjRQSDdXZHlwOWc?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "선한 영향력 전파, 아임파인다이닝 시즌 2 공개",
-   "q": "선한 영향력 전파, 아임파인다이닝 시즌",
-   "heat": "게임메카 · 11/04 17:44",
-   "article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11RkJJR2hMMDlGRzRXNFhCX0xxdDJjVGhuX3M1VnhuZzlRY196WURnN05XejZKdk9KcWxXYjR6SldONWpWSk96dWJDMGRfUXkyamswSTVqU0Y0UnfSAVtBVV95cUxNdUZCSUdoTDA5Rkc0VzRYQl9McXQyY1Robl9zNVZ4bmc5UWNfellEZzdOV3o2SnZPSnFsV2I0ekpXTjVqVkpPenViQzBkX1F5MmprMEk1alNGNFJ3?oc=5",
+   "t": "\"주부·대리기사 뭉쳐서 만드니 대박났다\"…조회수 60억 넘어",
+   "q": "주부·대리기사 뭉쳐서 만드니 대박났다",
+   "heat": "데일리안 · 11/06 09:54",
+   "article": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iVzMzN0pxcy0zWGlKQzgxVndHSHBBZ2Q0U2xrMDFoUEFScGxuNU5wVnMyZkpVclZ0dlVaaWVJZ3FLOG54U05NdnpGTjBoOEQ2ZkI2Mg?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
