@@ -1,16 +1,16 @@
 {
- "updatedAtKST": "2026-11-06 12:19",
+ "updatedAtKST": "2026-11-07 11:39",
  "trends": [
-  "돔 경기장",
-  "토토 재팬 클래식",
-  "존리",
-  "소형모듈원자로",
-  "에너지",
-  "노소영",
-  "엘리자베스 홈즈",
-  "a24",
-  "어쌔신 크리드 발할라",
-  "김장"
+  "보험",
+  "지스타",
+  "이주승",
+  "수도권제2순환고속도로",
+  "클리블랜드 대 필라데피아",
+  "조명우",
+  "신세계백화점",
+  "집",
+  "폭탄",
+  "주차장"
  ],
  "news": [],
  "hot": [
@@ -41,6 +41,18 @@
   {
    "plats": [
     "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "AI 제작 송나라 배경 단편영화, 조회수 60억 돌파 화제",
+   "q": "AI 제작 송나라 배경 단편영화,",
+   "heat": "씬짜오베트남 · 11/06 10:58",
+   "article": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1mLU9IZE8tZWdlUjVGZjVRNmMyRVpzVXVpNzFBODQtenRoTERXY1JZX0xoQV8tWHNlSXdNUkVReXFnRi1LSk5YdA?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
     "threads"
    ],
    "tag": "밈",
@@ -60,6 +72,30 @@
    "q": "아이돌 응원 들으며 달린다",
    "heat": "뉴시스 · 11/05 17:41",
    "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsNkhsWEc4NDQ1MkZtcHZIc2I2dWlzaVh3cGFfcGQ0QWR3QUNyQmlVRGt2ZG1fMkx2V2tOM2JKYU5JWklOejdKanNMMFJfQXB3TEpSVEFaVHJNXzBubVRVN9IBeEFVX3lxTE9RdXBQMUNiOVBpc0NuOGRQOWlraVZ2ME1FLU8tcWFDeElEekJvaUJYS2FrNGtKTzZBa0h0dElmWjEyYlJYYzZTcnVMdk9XbVAwV24ybUJGZkFwcllRRGx6Rm1YYk9uZnJwWmN5OUFrV3dKaW9EU1lNQg?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "챌린지",
+   "t": "삼양식품 2026년 3분기 분기 최대 실적 경신",
+   "q": "삼양식품 2026년 3분기 분기 최대",
+   "heat": "뉴스클레임 · 11/06 16:57",
+   "article": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DRWdGQ1dHaUZKV0dHdU9pUndNakJNSVExMHEzWmVkV2NkejY3WVo0OFJENS05M0tYUDJZX1A2YUw2dWJsZXNucnN6bS05TUZpendzZmpVNVJSUURyRi1lLUpiTXZGN0NFRWRYZGZYX3PSAXRBVV95cUxNbVVydnFuZloyVkNXQVNhVndQdDI5OFRhejlNT1dWV094TlI2LXFxR2tJbzR3d29ldG9KbVRfRG82XzhlU1BpcG82c1RqTGhSb0VCNW5tOF9vanR5aFlfZGNWUi1qTnBXM2pleXoyU1pwQ1ZadQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "“트럼프 믿었다가 -98%?” 트럼프 코인, 역대 최저가 ‘추락’",
+   "q": "트럼프 믿었다가 -98%?",
+   "heat": "이데일리 · 11/06 16:07",
+   "article": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONElLQ1lqZ0NuZjVnbXRiMkxjNjdKLVRWRGxKNFczeWlabl80MTNmMDBDaG5keGoyNFhzQ2c4R0lhbmkyVzNIS094UERZcm9ROGwtSXpYZ09wb1pLXzZVVE1rVXhkdkJ1bnBXSmxZcFluU3lFWjRyU2ZESHo4amFlZw?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -89,49 +125,13 @@
   {
    "plats": [
     "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "'다다음 날 깬다'던 캪틴큐, 하루 만에 완판… 4년간 매달린 한 남자의 집념",
-   "q": "다다음 날 깬다",
-   "heat": "한국일보 · 11/06 04:30",
-   "article": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSelVjWW9MbXIwMlpNMTcyZnFuNXVDT04tNk5TLUNoRS1aUkptQ01nZnJEM1RBYXdyS3lPZUp6eEtNTVlRNjJQOFlmRzdNLTVTNTBGQjhJQUJ3NHFNTHgyeXJ6dVRoR1FKRUVtMG42VE1oMkXSAXNBVV95cUxQUnpVY1lvTG1yMDJaTTE3MmZxbjV1Q09OLTZOUy1DaEUtWlJKbUNNZ2ZyRDNUQWF3ckt5T2VKenhLTU1ZUTYyUDhZZkc3TS01UzUwRkI4SUFCdzRxTUx4MnlyenVUaEdRSkVFbTBuNlRNaDJF?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "이수만·나영석·유재석도 췄다..요즘 K팝은 AI 밈이 대세 [Oh!쎈 이슈]",
-   "q": "이수만 나영석 유재석도 췄다..요즘 K팝은",
-   "heat": "조선일보 · 11/03 17:45",
-   "article": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZVhGWW1qSVM2UFFtY2RiVjcyMUVqZzZEMFZ2bWRjRHJsUEhCb2VpSzlGd0tSSWljMks5dlVHQmlWQU1pcjNZYk5RS3M2ZGk5a05keXNUaVEzcFJLbGdodjdWbUloazVPa3Q1TGVjT014NUpWSDZpTmtxdUlSajhod3VkVzVVZFZ0Mmc?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
     "reels"
    ],
    "tag": "AI",
-   "t": "[핌 포커스] \"오빠!\" 외치고 찍고 AI로 다시 만들고…'스카프 아저씨' 팬덤의 문법",
-   "q": "오빠!",
-   "heat": "뉴스핌 · 11/06 12:00",
-   "article": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1qcTAzVF84cjZVZng1LWQ2ZWN0Y2tuUWlXUWZPNGdna1EwOG1lajJLOFFNc0dqTHkzdnZZcVFrVHhwSHNfYkxDZ2owQkxxOS1Qay04TjN2NU02QjRR?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "\"주부·대리기사 뭉쳐서 만드니 대박났다\"…조회수 60억 넘어",
-   "q": "주부·대리기사 뭉쳐서 만드니 대박났다",
-   "heat": "데일리안 · 11/06 09:54",
-   "article": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iVzMzN0pxcy0zWGlKQzgxVndHSHBBZ2Q0U2xrMDFoUEFScGxuNU5wVnMyZkpVclZ0dlVaaWVJZ3FLOG54U05NdnpGTjBoOEQ2ZkI2Mg?oc=5",
+   "t": "책을 나누고 음악을 듣는 대학도서관… 인하대, 이웃에 문 연다",
+   "q": "책을 나누고 음악을 듣는 대학도서관",
+   "heat": "THE인천​ · 11/07 05:17",
+   "article": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYSUdMcjlkUDl2NTNHb2RYVDlBMWc1Y3ozRE5jWU5pRmgxU0poS1I4elNaSFI2Z2lsek44aGFsVGVnVWRmV0pONU50V2xRMEUwR0g3SDZ4UnFEUUNhdERic2JDaXEtUm1BSGc?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
