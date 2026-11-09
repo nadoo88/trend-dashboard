@@ -1,16 +1,16 @@
 {
- "updatedAtKST": "2026-11-08 11:15",
+ "updatedAtKST": "2026-11-09 11:31",
  "trends": [
-  "액화천연가스",
-  "첫눈",
-  "장재인",
-  "인구감소지역",
-  "이자",
-  "우박",
-  "코리아 그랜드 뮤직 어워즈",
-  "sk하이닉스",
-  "후티",
-  "메이저 리그 베이스볼"
+  "pistons vs lakers",
+  "젠슨 황 부인",
+  "마산가고파국화축제",
+  "삼성전자 주식",
+  "이용철",
+  "공장",
+  "이찬혁",
+  "카카오모빌리티",
+  "포티나이너스 대 레이더스",
+  "매일경제신문"
  ],
  "news": [
   {
@@ -19,6 +19,18 @@
   }
  ],
  "hot": [
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "11화 존박의 맥도날드 콘텐츠는 왜 화제가 됐을까?",
+   "q": "11화 존박의 맥도날드 콘텐츠는 왜",
+   "heat": "브런치 · 11/08 21:00",
+   "article": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE13YWc5WlNuYVdncnIwd1B0S2ZUVFVQcV9xTXRad28tNHdSamhHQkVjaERtbEtZTzZRRFE2eGxpZzFsR29yQlN3cXdn?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
   {
    "plats": [
     "x",
@@ -57,14 +69,38 @@
   },
   {
    "plats": [
-    "tiktok",
-    "x"
+    "x",
+    "reels"
    ],
-   "tag": "K-POP",
-   "t": "\"아이돌 응원 들으며 달린다\"…지니뮤직·런데이 '리센느 챌린지' 개시",
-   "q": "아이돌 응원 들으며 달린다",
-   "heat": "뉴시스 · 11/05 17:41",
-   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsNkhsWEc4NDQ1MkZtcHZIc2I2dWlzaVh3cGFfcGQ0QWR3QUNyQmlVRGt2ZG1fMkx2V2tOM2JKYU5JWklOejdKanNMMFJfQXB3TEpSVEFaVHJNXzBubVRVN9IBeEFVX3lxTE9RdXBQMUNiOVBpc0NuOGRQOWlraVZ2ME1FLU8tcWFDeElEekJvaUJYS2FrNGtKTzZBa0h0dElmWjEyYlJYYzZTcnVMdk9XbVAwV24ybUJGZkFwcllRRGx6Rm1YYk9uZnJwWmN5OUFrV3dKaW9EU1lNQg?oc=5",
+   "tag": "AI",
+   "t": "31년 만에 돌아온 듀스…故김성재, AI로 이현도와 재회",
+   "q": "31년 만에 돌아온 듀스 故김성재,",
+   "heat": "텐아시아 · 11/09 10:07",
+   "article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oS0NHbnBBTmQxRTUwTnVxNEJXTFdlbG5lektGdFhIdlNCaFltWjR1M2N0VXRtY1lFN2Z3WFlMVkJDMnVETElwdVpsdGktS0tnTVhiS2ZDSG8wX3M?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "위기를 기회로 만든 AI 마케팅? 옥외 광고부터 콜라보까지, 이주의 일 잘한 브랜드 5",
+   "q": "위기를 기회로 만든 AI 마케팅?",
+   "heat": "캐릿 Careet · 11/09 10:00",
+   "article": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE8yN04yRVpnUjdCZG5HSzFvalRMQ1E5SW9mcnhLWDduNmh2aElINnNOTTdkQTc4amI5clp2WGpRVWI?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "송하예·조매력 오늘 결혼…유튜브 콘텐츠로 맺은 인연",
+   "q": "송하예 조매력 오늘 결혼 유튜브",
+   "heat": "https://www.diarypoint.com/ · 11/08 17:03",
+   "article": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0YUs3NDZkRjVCN2tMWGFqQ084YXp6M0tieUljNFhOZHJZVE84QUdmMWpOZDVUWkZuT1FLVU5LNlFJSXR5UUhMcXhfazVwbVNaSHZ2MXlya3cxcFMza09DRDdzejk4eXlVaGVn?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -101,42 +137,6 @@
    "q": "트럼프 믿었다가 -98%?",
    "heat": "이데일리 · 11/06 16:07",
    "article": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONElLQ1lqZ0NuZjVnbXRiMkxjNjdKLVRWRGxKNFczeWlabl80MTNmMDBDaG5keGoyNFhzQ2c4R0lhbmkyVzNIS094UERZcm9ROGwtSXpYZ09wb1pLXzZVVE1rVXhkdkJ1bnBXSmxZcFluU3lFWjRyU2ZESHo4amFlZw?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "광주특별시 공무원 AI활용해 시설물 안전관리 플랫폼 개발 화제",
-   "q": "광주특별시 공무원 AI활용해 시설물 안전관리",
-   "heat": "아주경제 · 11/05 15:03",
-   "article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Bay1Jd3NCdmI0VENrV3dCWEpJNHFxRldSaXJlQlhhWUYyWkd3MUR6aTFqcWU3WlhQS0dVMURiU3l6WVhTVEtFZzBYZ2pMRlkxTDZZRGtLVlJNQdIBWEFVX3lxTFB2TnR4TUh0Z2dhMjdTazBLVjRFWjBRbllQVzBWWWdnejE0ak42SFFQYzJsTllnRE1MOGdNTnFYOUhNc2RTdHE1b19RUGoxRVVBRm5oMHc1OGw?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "‘우유말먹’ 이은 ‘아박가토’…‘아박 유니버스’ 키우는 투썸플레이스 [현장+]",
-   "q": "우유말먹",
-   "heat": "쿠키뉴스 · 11/06 10:16",
-   "article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CQWtZVUtvUm1JbDYxTHRGOWNUa3Q2MHVZOFNIQ0pndEp6OHNkVUZwdjVuendYZTVic3IxM1hHeW51TURWM1pEZEtBR1VUUEM2QXRXZ2d4RTAtc21HcnVvVGtkVQ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "어도어, 뉴진스 계약서 논란 반박…청소년 합의서·석 달 협의 제시",
-   "q": "어도어, 뉴진스 계약서 논란 반박",
-   "heat": "https://www.diarypoint.com/ · 11/07 04:50",
-   "article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9uWmtvaEJpYm4wWlhBcXRWRHRXUmNsaUxEODlVZ3dqVXFjcVlBbTRsTUtwTElqa1BQTmMtTVNPOXMwMDhfLVZrcl8tNlFiWTNrSTBzQmpRRWVsMU9JdFJ2dzJVQk44QzBmLUlr?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
