@@ -1,29 +1,34 @@
 {
- "updatedAtKST": "2026-11-10 13:33",
+ "updatedAtKST": "2026-11-11 11:40",
  "trends": [
-  "배추",
-  "자녀",
-  "이재영",
-  "테슬라 모델 y",
-  "회사",
-  "엔비디아",
-  "공공기관",
-  "전주시",
-  "자기주식",
-  "ssg 랜더스"
+  "롯데월드",
+  "이형범",
+  "육군특수전사령부",
+  "엽떡 11 월 11 일",
+  "기사",
+  "미라 안드레예바",
+  "필라데피아 대 보스턴",
+  "수원 fc",
+  "솔비",
+  "피클 ai"
  ],
- "news": [],
+ "news": [
+  {
+   "title": "[일문일답] 키빗업 “‘너무나 강렬했던 ‘나가리’ 첫인상, 중독성 강한 노래 입니다”",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE91dHBtMGloZU9KUkljd0FWTGJXV1NxYVgwWEJWOC1Td215S3Z0MUJELVZyUUVNWGhHbUZWcFEwWDRETGdaTURsTDZsQ0M2YU00bE9nU1dHQ0NkQXA0NFEyMzVod9IBY0FVX3lxTE91dHBtMGloZU9KUkljd0FWTGJXV1NxYVgwWEJWOC1Td215S3Z0MUJELVZyUUVNWGhHbUZWcFEwWDRETGdaTURsTDZsQ0M2YU00bE9nU1dHQ0NkQXA0NFEyMzVodw?oc=5"
+  }
+ ],
  "hot": [
   {
    "plats": [
     "x",
-    "reels"
+    "threads"
    ],
-   "tag": "AI",
-   "t": "학교 시험 출제 오류, 직접 걸려든 사연이 화제",
-   "q": "학교 시험 출제 오류, 직접",
-   "heat": "시사매거진 · 11/10 12:30",
-   "article": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94QkxTTTB4MGhZbTZfazQ0dlBDT1J6TTJpNVFXMVc1MGhVY29sdVAtd1lNcS1ydnBTdHlqeTR4ZEFUWDVjbUNwZFpsVk1oN3lHYXZzNnlQbXB1eEVxRTZIbUNRYXdVN2YtTWVpMWtYQ21NU1NIdWRHRUVFYw?oc=5",
+   "tag": "밈",
+   "t": "화제의 존박 ‘맥도날드 랩’, 해외 음원 플랫폼에 무단 등록…“대응할 것”",
+   "q": "맥도날드 랩",
+   "heat": "경향신문 · 11/11 11:09",
+   "article": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbWFESDJPMDQyYmxwcG1ScElSWHlHTjFYRm1vWFIxWFg1TmpJTzNDZlhDdThRRkZlREQ3T1ZnV042R2JLT2RtZEUxQ0J6d1JGRkJBS0hjb1BBYVI3TWRlV1pDaDQtZFIzQ1VaZENMOGxlT1RtWHJpbmRFRWZ6NVBvcl9KcDZfX0JzUUlXNXBpX3NfRzd3VmI5LWRlWTVRckwwbTFVR1c4Y0p1T3Ba0gFfQVVfeXFMUHlUVFFjZ2V1XzZhWHlqdzNxQUZNc3NLQjk1aHBvSURXdENWRUZ1R0RfZFZqc3ZaUGpvaU5vRXpRU0ZkOENpeGVFVlNaVmZwQUREZ0d5WUFRQlpKaWFpLWs?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -32,10 +37,22 @@
     "threads"
    ],
    "tag": "밈",
-   "t": "11화 존박의 맥도날드 콘텐츠는 왜 화제가 됐을까?",
-   "q": "11화 존박의 맥도날드 콘텐츠는 왜",
-   "heat": "브런치 · 11/08 21:00",
-   "article": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE13YWc5WlNuYVdncnIwd1B0S2ZUVFVQcV9xTXRad28tNHdSamhHQkVjaERtbEtZTzZRRFE2eGxpZzFsR29yQlN3cXdn?oc=5",
+   "t": "“젠슨 황이 부릅니다, 트러블메이커”…불륜 풍자 밈 쏟아졌다",
+   "q": "젠슨 황이 부릅니다, 트러블메이커",
+   "heat": "이데일리 · 11/11 08:10",
+   "article": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSDVIakJVcHVlS0ZBZVNZazM0N3dkSFpHRHRuaXVBZy0zLUp6RFhmaHlUZ2lRZVpRRzA0TTVHejZYWG1uQ09xcDhqRno0dF9Cc1h0NWhtLXZMSjJWSkNIZzBEMlhpVmhDb0dvZ01fUHRleDhCSnUyR0J6cGZraUlHUg?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "x"
+   ],
+   "tag": "K-POP",
+   "t": "김종서, 신곡 챌린지에 인순이·황치열·테이·HYNN 등 동참 \"특별한 감동\"",
+   "q": "특별한 감동",
+   "heat": "조이뉴스24 · 11/10 11:27",
+   "article": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOU2RhSUs4SElZOFMwUEdwOG9HOS1FbXY0R0hKOGRtV3AwVmlOYWdZTy1qbE9jMnlSbDdVZVFFczZZS1hIYUxZd3d3UQ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -44,10 +61,46 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "동구 SNS 콘텐츠 ‘주민(ZOOM IN) 속으로'…차별화된 기획 ’화제‘",
-   "q": "주민(ZOOM IN) 속으로",
-   "heat": "뉴스후플러스 · 11/09 12:05",
-   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE92c3JPeUdxdEY1R08zUDlsZ3ZYenFsY3gxdFJ5VE9qNXRjMDZMNFN4ZEo0YXlBelpITEJvRWgtZEZzT3AxWC1XcVdpQ0FBOXE5eEstRHg5NnVMZDdNU0xqaG13UThIbFBMTVB4aVdR?oc=5",
+   "t": "리센느, 유튜브 예능도 강세…존박과 출연자 화제성 1·2위",
+   "q": "리센느, 유튜브 예능도 강세 존박과",
+   "heat": "스포츠동아 · 11/11 11:34",
+   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QSW5CbFBYUDU5VmkwMXA3a2h0N042NTJxM1JkQ19ySzAyZE1qOE02RjNicmpsXzBtZ2NNNWFscDZQRVdBQ1FBamZQR21OamdWS2RVTWpNNnR5TVFXUlA4d0ZhWmNBTEpYdFV6bHZR?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "“누가 간첩을 들이래”...‘불륜랠리’에 젠슨황 키스캠 밈까지, 패러디 쏟아진다",
+   "q": "누가 간첩을 들이래",
+   "heat": "매일경제 · 11/10 22:07",
+   "article": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB0QXVnZU9ad2JNa185Mk9BZ3QyeXNFSzNKeWp2RGJwZHRfWEJUbnUwNUVKbm92ZFVPR0dLZXFKWmVENk9VM0E?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "신민아, 미모도 화제성도..걸크러쉬 넘어 '퀸'크러쉬",
+   "q": "신민아, 미모도 화제성도..걸크러쉬 넘어 '퀸'크러쉬",
+   "heat": "스타뉴스 · 11/10 17:19",
+   "article": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XVU90S1d4NGZ4MVpldzJBb2FrSm55UEhxbGxCcThXUUsxU1hjczZXMk40Sjd2QXg2V1gtX2ZxNWRWYWFPeEctVVFVVG9YRFVCV2xNNFdZaE5pa1R4MFl3SDJtVTJiTHRRVk5NVkFKa2VhUUU?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "챌린지",
+   "t": "\"틱톡 보다 지갑 열었다\"…미미미누가 꼽은 내년 숏폼 트렌드는?",
+   "q": "틱톡 보다 지갑 열었다",
+   "heat": "뉴시스 · 11/11 10:00",
+   "article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04MmsxcVpQeHFUYVBySWc2QXlTUXJIUUhmZVJrNUlVbkVIOTE4Z25LNDMyMUxibXlGYl93RjB1bDlZNUV2YWhpREpHeWc2Yk85NXdqaUVZWFNBMVh5bFBwZUdNWWg4b1NCb2xaaWF0OE5ZY3ZJSHNvdtIBeEFVX3lxTE04MmsxcVpQeHFUYVBySWc2QXlTUXJIUUhmZVJrNUlVbkVIOTE4Z25LNDMyMUxibXlGYl93RjB1bDlZNUV2YWhpREpHeWc2Yk85NXdqaUVZWFNBMVh5bFBwZUdNWWg4b1NCb2xaaWF0OE5ZY3ZJSHNvdg?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -56,10 +109,22 @@
     "threads"
    ],
    "tag": "밈",
-   "t": "‘불륜 논란’ 젠슨 황도 보내버린 유퀴즈?⋯‘유퀴즈의 저주’ 온라인 상서 재조명",
-   "q": "불륜 논란",
-   "heat": "강원일보 · 11/10 11:33",
-   "article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XckxSYUdKRkRxWWxXWU5seDFMLVB6U1JSUEZFRGNrdEp1VThlZnV6bUkzdzdfakNLVjE1dHBSNWpLYjVLSm5YMllQSW9KNDc5ZnYtc0lxSlNuaXM?oc=5",
+   "t": "존박의 맥도날드 콘텐츠는 왜 화제가 됐을까?",
+   "q": "존박의 맥도날드 콘텐츠는 왜 화제가",
+   "heat": "오픈애즈 · 11/09 07:55",
+   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkY2pCTzlLLUV2OWN4RTdoSFl6a0pxNWZER0g5aTl1SkwtWkdtOTVTbG1sSUk3eW4zUTFsX1p2QkVuSFotVnhhSHRRS0p2QjZ0UXlIYTZEMko0bXZsaGhZeXlSLUZXc2dMVktOakxR?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "챌린지",
+   "t": "공감각 소비 확산, 숏폼이 바꾸는 감각 마케팅",
+   "q": "공감각 소비 확산, 숏폼이 바꾸는",
+   "heat": "https://www.kmjournal.net/ · 11/11 07:22",
+   "article": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOeFZ4bVRONzY0aGRyRUQyOVRGYjM4ZjV1Z3A1a01PdjBWVmVNeGZoTWU5Z1R5LVprS21LeURSV0V1Z3psblpYcDdRUlV2TzY4czNKalBIOGhYY3dEcVNOZUwza2dXT1MzRlZV?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -68,70 +133,10 @@
     "threads"
    ],
    "tag": "밈",
-   "t": "유행 넘어 희망...리센느 1위로 확인한 가능성 [엔터그알]",
-   "q": "유행 넘어 희망...리센느 1위로 확인한",
-   "heat": "MTN 머니투데이방송 · 11/08 10:00",
-   "article": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KdzJUd3dvdXNyM3dsYVdESW52ZlZhTzFNazU3LXBieTNTUVhxd1luVEpWTHBST1FzMmtmV0ZSQzFLT0pjTmJNUnFja2c5amVMRUFtN3BqSk1LVktfZ2lz?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "'지식채널e' 푸바오·부캉이·밈코인으로 읽는 세상",
-   "q": "지식채널e",
-   "heat": "뉴스컬처 · 11/08 07:39",
-   "article": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ia2puZ2pGNmZ3NWlYQlhTeUZvTmlaeXdhLXk1NnhReU5Gc0Y2ZDJFV243bWpDYzE2M2kzckRPOVU0eHprOWhaYWktY1JldU1Bc182aDF3T2JQdGdHWDJhRHlVSnl4UQ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "화제성은 약하고 제작비는 무겁다… OTT 영화의 좁아진 입지",
-   "q": "화제성은 약하고 제작비는 무겁다 OTT",
-   "heat": "한국일보 · 11/08 10:42",
-   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PY2c3MWt6WEcwbk5XcnNHOWRGREJEdjVicE1NQzdVVXZHMHN0VkdWZXN0YmxpdnpQdVlHb01IQTRPdFRkNklydUVXYmN1bWZZN2FVWUxiVjRSd20tb3ZZZTFraTdxaFVJS3R4bUJ30gFzQVVfeXFMTWp6TVEydnFhSWMyMWVvaDg0V3dUOXRvLXJoSkVNVzBadjRfSUNpb0J1VWFEeTlwQTlCOUtRN3NSdGN5MW5rNG1zbS0td1ZsRkZEUGxvNVliaElWSXZPV1Yyd1g3OXpucUp0bHdQZmQxcUE4RQ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "[마케띵킹] 존박이 맥날에서 랩으로 주문한 썰",
-   "q": "마케띵킹 존박이 맥날에서 랩으로 주문한",
-   "heat": "오픈애즈 · 11/10 08:30",
-   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBqN0dXNWpFY01seW5reklNcTBkd21zWDJ3MVRVT3pVNUNiNGNHSS1CMUhMWWRYc29xVnVob2VNUnBRaEJMQlVULUlwYVU5aW56ZjJ1OEFfaTJOdUtJUktfY2xJNmpOT2lnQkxmWmJn?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "듀스, 31년 만에 정규 4집…故 김성재 목소리 AI로 구현",
-   "q": "듀스, 31년 만에 정규 4집",
-   "heat": "연합뉴스 · 11/09 17:13",
-   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BSXpJdmUwUzlPME9SOGJIdm9QbFlXNVE0aWdNUTNhTDJhY2Q5TXlXTFc5X0Y1ZHZacW5RbGxjUTFPd3F6SHJCSjdPQ05Nai1Lc1ZkdHh3Ql9OcmVqQ2Q1QtIBYEFVX3lxTE1BSXpJdmUwUzlPME9SOGJIdm9QbFlXNVE0aWdNUTNhTDJhY2Q5TXlXTFc5X0Y1ZHZacW5RbGxjUTFPd3F6SHJCSjdPQ05Nai1Lc1ZkdHh3Ql9OcmVqQ2Q1Qg?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "위기를 기회로 만든 AI 마케팅? 옥외 광고부터 콜라보까지, 이주의 일 잘한 브랜드 5",
-   "q": "위기를 기회로 만든 AI 마케팅?",
-   "heat": "캐릿 Careet · 11/09 10:00",
-   "article": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE8yN04yRVpnUjdCZG5HSzFvalRMQ1E5SW9mcnhLWDduNmh2aElINnNOTTdkQTc4amI5clp2WGpRVWI?oc=5",
+   "t": "젠슨 황도 못 피한 '유퀴즈 징크스'…홍대 'LOVE'도 재소환",
+   "q": "유퀴즈 징크스",
+   "heat": "한국경제 · 11/10 16:11",
+   "article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE54Rk9MTTQ4STAtRnFhdXZGdF9VUUxkb0VwMWhhY0NhX01vRmlhWm5pV1B5b0NFTUhaMmZaeXItRmthNXpVNWstaHB6UGJlaWlJNER5aFBRXzhNQQ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
