@@ -1,16 +1,16 @@
 {
- "updatedAtKST": "2026-11-13 12:20",
+ "updatedAtKST": "2026-11-14 12:00",
  "trends": [
-  "종합격투기",
-  "도지코인",
-  "스마트 글래스",
-  "진학사",
-  "공군사관학교",
-  "평가",
-  "아시아 프로야구 챔피언십",
-  "금융통화위원회",
-  "메르세데스-벤츠",
-  "gemini 4 hydrogen"
+  "샌안토니오 대 골든 스테이트",
+  "ufc 335",
+  "제물포구",
+  "김지원",
+  "그랜드 테프트 오토",
+  "광진구",
+  "기내식",
+  "고용노동부",
+  "삼천당제약",
+  "삼양식품"
  ],
  "news": [
   {
@@ -37,6 +37,78 @@
   },
   {
    "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "데뷔하자마자 인기몰이...삼성증권 AI 걸그룹 ‘루미나’ 뮤직비디오 300만뷰 돌파",
+   "q": "루미나",
+   "heat": "매일경제 · 11/13 15:03",
+   "article": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2a0lBX3ZrMTBmSzBBQlhJaWFOOU5hTVB3UmhDVkhpWnVlZnU0Q0lKdTduSjJmcms0ZVpWRHc2S2FrNU85ZEE?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "블랙핑크 지수, \"라우럴\" 밈 탄생에 넷플릭스도 가세…남다른 화제성",
+   "q": "라우럴",
+   "heat": "스포츠월드 · 11/13 14:53",
+   "article": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xREdLLU9icmoxeGhldzIxRVFpMHFvYjAxZ2diTGpab3UzTDVfelM1OFRyUXRKbXgwTVBHalRueGpndlZ6NkxiWGhEdXJLLWxnNnQ2Rkhlb1dOYy1KVXc0RTln?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "reels"
+   ],
+   "tag": "챌린지",
+   "t": "숏폼 화제성 넘어 음악성으로…그룹 코르티스 미니 2집 'REDRED' 장기 흥행 비결",
+   "q": "REDRED",
+   "heat": "한국사회복지저널 · 11/13 10:48",
+   "article": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4yYnBDVVZNY2xVaXEtSHhQS3YwMjJUNHRVc2hKYVFZZ2VBY09jQXoyckFBbEVTWFE5b19NekdlRkFGY2p6R3h0QkJ5MzdPR3NsUFh0RXJwbkJVdnN3VDQ2UmI0a1QxeVFYd2hB?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "x"
+   ],
+   "tag": "K-POP",
+   "t": "도경수·규현, 'BAD' 챌린지로 뭉친 사연…같은 날 컴백한 'Darling'과 'CONTINUE' [HT초점]",
+   "q": "BAD",
+   "heat": "Hanteo News · 11/12 07:43",
+   "article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNVXNqUFpHMEdJTVc1V3A2dmRPdEk2WEx2elN3bkRNcm9zME5CVEdmMkJRZE52UEpXaDRYQ1I4UjhNenVVMGZQeUctd3Vwd1c4dndqLUVR?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "청와대, 최민희 발언에 입장 낸 보도 화제",
+   "q": "청와대, 최민희 발언에 입장 낸",
+   "heat": "시사매거진 · 11/13 13:38",
+   "article": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85M1JPeFFWb2xORk9RNm9wSTdBLW1oaVBBV0VSdEZNRDhWSG9KYW5tcVFCMWlnR1J4VzhNUWZ0RU5fbEMtbUpQWV90ejdsWVE3SXFDVEJ5c2s1cElUbnl2ZXRYOXFxN2VVdWpEcTQ5dkZVZ0VDNng3ZS05UQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "블랙핑크 지수, '라우럴' 영어 한마디 뭐기에 인터넷 뒤집혀",
+   "q": "라우럴",
+   "heat": "미디어파인 · 11/13 14:00",
+   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SbUZ2QVZNa3c0Y052R3RwM1RmcFhCXzVnSjRUNUZuT0lUS0p4T25tQ2pobmdDeFEzaHpzTV9NQ2trR1QwaU5rNUhSd3Y3LTBfbGE3MTgzaUozSFZDYUR4VHg4d2Z2NGdsaWdnWmFB?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
     "tiktok",
     "reels"
    ],
@@ -53,34 +125,10 @@
     "threads"
    ],
    "tag": "밈",
-   "t": "화제의 존박 ‘맥도날드 랩’, 해외 음원 플랫폼에 무단 등록…“대응할 것”",
-   "q": "맥도날드 랩",
-   "heat": "경향신문 · 11/11 11:09",
-   "article": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB5VFRRY2dldV82YVh5anczcUFGTXNzS0I5NWhwb0lEV3RDVkVGdUdEX2RWanN2WlBqb2lOb0V6UVNGZDhDaXhlRVZTWlZmcEFERGdHeVlBUUJaSmlhaS1r0gFfQVVfeXFMUHlUVFFjZ2V1XzZhWHlqdzNxQUZNc3NLQjk1aHBvSURXdENWRUZ1R0RfZFZqc3ZaUGpvaU5vRXpRU0ZkOENpeGVFVlNaVmZwQUREZ0d5WUFRQlpKaWFpLWs?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "“젠슨 황이 부릅니다, 트러블메이커”…불륜 풍자 밈 쏟아졌다",
-   "q": "젠슨 황이 부릅니다, 트러블메이커",
-   "heat": "이데일리 · 11/11 08:10",
-   "article": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSDVIakJVcHVlS0ZBZVNZazM0N3dkSFpHRHRuaXVBZy0zLUp6RFhmaHlUZ2lRZVpRRzA0TTVHejZYWG1uQ09xcDhqRno0dF9Cc1h0NWhtLXZMSjJWSkNIZzBEMlhpVmhDb0dvZ01fUHRleDhCSnUyR0J6cGZraUlHUg?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "'김치 싸대기' 맞은 젠슨 황, 엔비디아 불륜 스캔들 K-패러디 물결",
-   "q": "김치 싸대기",
-   "heat": "티브이데일리 · 11/12 14:17",
-   "article": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QMzlvNmx3MktzQWNRT3k4YlJ6dXFqMTVoenM5Q0dSZmdkUFY0a0tMVmlmVnZpZ0xNMHdmNHN6OXFhcENfeVhMbmhZUVNZYTdhTkpTVVZIaS05dzZta3lJX2RGMmhReWM3RzJYT0VCeXY?oc=5",
+   "t": "블랙핑크 지수, 영어 한마디에 온라인 발칵…'라우럴' 뭐길래 넷플릭스까지",
+   "q": "라우럴",
+   "heat": "www.xportsnews.com · 11/13 12:00",
+   "article": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xNEZ1YTBnTDVNOVlTczlyWjhrdmZLX2ZWWUpEbnB2OXV1dHprc21Pa2NWMDRYYkNLTnFUQVRwOEJuVHotUDZLaGg5c2puNjJyb3ZNbA?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -89,58 +137,10 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "[일본 마케팅 전략] 현지화 성공사례｜콘텐츠 마케터 필독! 일본 플랫폼 내에서 초기 화제성을 선점하려면?",
-   "q": "일본 마케팅 전략 현지화 성공사례｜콘텐츠",
-   "heat": "오픈애즈 · 11/11 12:10",
-   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BMkxQRy03T1FiQmIwc2tiMmtuOElGTWh2WFVubUxxT3poOUlLTUU4OVZ0WWEwZFduUF9YYk5Kc2M5SE11NEJsRmxOMVVfcTl3TV9icjFoQzkzN1I3LVg2QndKUWMxd2pYcDZjXzRB?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "리센느, 유튜브 예능도 강세…존박과 출연자 화제성 1·2위",
-   "q": "리센느, 유튜브 예능도 강세 존박과",
-   "heat": "스포츠동아 · 11/11 11:34",
-   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QSW5CbFBYUDU5VmkwMXA3a2h0N042NTJxM1JkQ19ySzAyZE1qOE02RjNicmpsXzBtZ2NNNWFscDZQRVdBQ1FBamZQR21OamdWS2RVTWpNNnR5TVFXUlA4d0ZhWmNBTEpYdFV6bHZR?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "11월 11일 맞아 등장한 신조어 ‘빼난지원금’… 온라인서 화제",
-   "q": "빼난지원금",
-   "heat": "AI경기방송 · 11/11 10:41",
-   "article": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EVi1jcE01SXNwT2JXVWRYN1JQek9jWUtVZm1hSnA5NmhZakVacEdYMC1rLXU5LUdpS05qcExQa0dzTFBRMlZQTXI2SnJFbHdnQWc?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "AI 숏폼 드라마가 뜨는 이유: 1억 뷰 돌파한 비결부터 콘텐츠 시장 변화까지 🎬",
-   "q": "AI 숏폼 드라마가 뜨는 이유:",
-   "heat": "뉴닉 · 11/12 17:10",
-   "article": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA2QzltbGtYSHNEbWluS2RoTjc3S0pydmNxS3dzU21BZVVlNEx5QlJ0UTJNSEhLRmY0QW91OHBIYldZWjhickNKRnhBbzB0cXQ5WkNESE5Icw?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "젠슨 황 사생활 의혹에 AI 패러디 영상 확산…'김치 싸대기'까지 등장",
-   "q": "김치 싸대기",
-   "heat": "뉴스21일간 · 11/12 15:27",
-   "article": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xb3I5WVpRVHRfR2JBcjJCSFQ3UmtUY2tPY0JlYlIyVF9YRkNUbXFXc2pLNEVnd1RGUDdjMm5QSTJMSkkzUlhibXpDNVIwZw?oc=5",
+   "t": "AI 콘텐츠 넘쳐나자… 인간의 창작 가치 재조명",
+   "q": "AI 콘텐츠 넘쳐나자 인간의 창작",
+   "heat": "미디어펜 · 11/14 09:38",
+   "article": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFdjdxQk15T2VDUTZqQ2xzMDNNYnVLcmMwTkU3OEpBenRYdlZLQmpEUW0zekw2bHZSWHFsMjRPcjl0QmgxS01LZnVsZFpaWnZhWkQ3NUllQ2nSAVhBVV95cUxQRXY3cUJNeU9lQ1E2akNsczAzTWJ1S3JjME5FNzhKQXp0WHZWS0JqRFFtM3pMNmx2UlhxbDI0T3I5dEJoMUtNS2Z1bGRaWlp2YVpENzVJZUNp?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
