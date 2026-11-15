@@ -1,28 +1,31 @@
 {
- "updatedAtKST": "2026-11-14 12:00",
+ "updatedAtKST": "2026-11-15 11:30",
  "trends": [
-  "샌안토니오 대 골든 스테이트",
-  "ufc 335",
-  "제물포구",
-  "김지원",
-  "그랜드 테프트 오토",
-  "광진구",
-  "기내식",
-  "고용노동부",
-  "삼천당제약",
-  "삼양식품"
+  "항공모함",
+  "진양곤",
+  "카리나",
+  "리트 만점자",
+  "서초구",
+  "케일라 해리슨",
+  "ufc",
+  "로스앤젤레스 fc",
+  "주간한국",
+  "주영훈"
  ],
- "news": [
-  {
-   "title": "베스티·갓세븐 역주행 이끈 숏폼… ‘챌린지 특수’ 신곡까지 이어질까 [가요 뷰]",
-   "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNendoRC1LdWI0TkRCdmFWVEZsUnNGQUJUbTE5NF9NSzVaeERoS2tUaGtCQ3VWSi1FRi12WWJoYjBOVkgwZEVLM2Q2SS1fM1d0enZ2QUN6blNwbUVEcG9nQ1h6UnNDclR3UnhsQUkyV2o4RDFzYThHVUh1OEdEZTYzam5lbFNzTXp0M01vdmp1akpNamQtLWF1WXNGa0lfRTF5ZmVPcURqTWpxdHJMRDRJNVZxRThsdVFoa0FsbWJ3ZHlIZmhBaFdCMzRpc29uOHZaRzBZZFNzTXhBTkllT0l1a1owbUcxTEV3Y29fT2kyS2FRQlloMEx2d1pUb1dQWktNU2ZLUURjRDJ5TU5iVEh5eTYwMUtNUDEya1pQeW9pQ3JjblE?oc=5"
-  },
-  {
-   "title": "베스티·갓세븐 역주행 이끈 숏폼, 신곡까지 이어질까",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1TSnFWc0lIVWJ6eUNkMG00X2lYaUp3ZnlxaEpRM1R2Tk1OdTJGMDFrclZjZTR6VW5LVFItZFczbjRRbzVqN0FnWk5JRF9GWGJWWXQxMkcyVUFzYmRieGpzQ1ZWUHhVZzJlOGJF?oc=5"
-  }
- ],
+ "news": [],
  "hot": [
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "“폴더블폰 펼치니 불륜녀·강남스타일 페러디까지”…젠슨황 조롱밈 확산",
+   "q": "폴더블폰 펼치니 불륜녀·강남스타일 페러디까지",
+   "heat": "헤럴드경제 · 11/15 07:48",
+   "article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE02RFVjMm9FSjE5QzhJZUVYVzZzOXpFZzlGQ2JGM2ZSS2ZJVmFjempXcDVieHQ0YThJZ3ZKcmItU3VPWHNOajR4MGNIekpvWEh1TFQ2YnN3?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
   {
    "plats": [
     "tiktok",
@@ -41,10 +44,10 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "데뷔하자마자 인기몰이...삼성증권 AI 걸그룹 ‘루미나’ 뮤직비디오 300만뷰 돌파",
-   "q": "루미나",
-   "heat": "매일경제 · 11/13 15:03",
-   "article": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2a0lBX3ZrMTBmSzBBQlhJaWFOOU5hTVB3UmhDVkhpWnVlZnU0Q0lKdTduSjJmcms0ZVpWRHc2S2FrNU85ZEE?oc=5",
+   "t": "오리온, 고래밥으로 알파세대 잡는다… 해외선 ‘놀이 콘텐츠’로 화제",
+   "q": "놀이 콘텐츠",
+   "heat": "이코노미톡뉴스 · 11/14 17:00",
+   "article": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5tSXdQOTJHY09jdFNibWRMQ1d4Smd6Ykg4WmptR3I1d1hwSDd2Wk1QdkN1cWkydlFzT1UyNTdMV0FfdnBDcEdjcVhKRHg0THR3UGI2OE1sUWhoNHFxbXh2Q0hQQ1NFR2dBcEVRcQ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -74,13 +77,13 @@
   {
    "plats": [
     "tiktok",
-    "x"
+    "reels"
    ],
-   "tag": "K-POP",
-   "t": "도경수·규현, 'BAD' 챌린지로 뭉친 사연…같은 날 컴백한 'Darling'과 'CONTINUE' [HT초점]",
-   "q": "BAD",
-   "heat": "Hanteo News · 11/12 07:43",
-   "article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNVXNqUFpHMEdJTVc1V3A2dmRPdEk2WEx2elN3bkRNcm9zME5CVEdmMkJRZE52UEpXaDRYQ1I4UjhNenVVMGZQeUctd3Vwd1c4dndqLUVR?oc=5",
+   "tag": "챌린지",
+   "t": "리센느부터 베스티까지…2026년 가요계는 '역주행 시대'[초점S]",
+   "q": "역주행 시대",
+   "heat": "SPOTV NEWS · 11/15 07:00",
+   "article": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54WG5Nb09pdHVjQXdHM2c3RkxMWGNJNUktN2hlTjhGd1AyV2JId3IyU2NWaUs2aVVGVVN5WEhTZ1Yyc3ZFUW9DLXVHMXZnUWxEU3RSemxwZ3Zpbzl0VWN1TWtpenNuRDdTb2EzT0dib1I?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -97,38 +100,14 @@
   },
   {
    "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "블랙핑크 지수, '라우럴' 영어 한마디 뭐기에 인터넷 뒤집혀",
-   "q": "라우럴",
-   "heat": "미디어파인 · 11/13 14:00",
-   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SbUZ2QVZNa3c0Y052R3RwM1RmcFhCXzVnSjRUNUZuT0lUS0p4T25tQ2pobmdDeFEzaHpzTV9NQ2trR1QwaU5rNUhSd3Y3LTBfbGE3MTgzaUozSFZDYUR4VHg4d2Z2NGdsaWdnWmFB?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
     "tiktok",
-    "reels"
+    "x"
    ],
-   "tag": "챌린지",
-   "t": "'왁뿌볼' 인기 왜?…Z세대 '연기 챌린지·촉감 놀이·재창작 문화' 열풍",
-   "q": "왁뿌볼",
-   "heat": "아시아경제 · 11/11 13:39",
-   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03YmZSNy1Wbl9NY1BXTlJ5ejNXUUZCNFhJMTNZTG55NXZHa1BtamJ2aHpqSW9Eam5icDk5SldfYzF5YTNsVFpmVmlhdDJTZ21jb1hzOVRtRTNtTjlfZU9zWQ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "블랙핑크 지수, 영어 한마디에 온라인 발칵…'라우럴' 뭐길래 넷플릭스까지",
-   "q": "라우럴",
-   "heat": "www.xportsnews.com · 11/13 12:00",
-   "article": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xNEZ1YTBnTDVNOVlTczlyWjhrdmZLX2ZWWUpEbnB2OXV1dHprc21Pa2NWMDRYYkNLTnFUQVRwOEJuVHotUDZLaGg5c2puNjJyb3ZNbA?oc=5",
+   "tag": "K-POP",
+   "t": "투어스 지훈 \"홍대 버스킹, 하기 5분 전에 알아…날 내던진 경험\" [인터뷰]",
+   "q": "투어스 지훈 \"홍대 버스킹, 하기",
+   "heat": "한국경제 · 11/14 19:26",
+   "article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yMUkydzFUMFBKTnVIZkhMRjRlV2JEVU1UdmNkU2p5SEhYMXdxUWktdFVlU2JLVWk5cWhsWnRKaEQwbEwyLVE2dnRVdkFkWEJrUzdERDFFd08tdw?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -137,10 +116,22 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "AI 콘텐츠 넘쳐나자… 인간의 창작 가치 재조명",
-   "q": "AI 콘텐츠 넘쳐나자 인간의 창작",
-   "heat": "미디어펜 · 11/14 09:38",
-   "article": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFdjdxQk15T2VDUTZqQ2xzMDNNYnVLcmMwTkU3OEpBenRYdlZLQmpEUW0zekw2bHZSWHFsMjRPcjl0QmgxS01LZnVsZFpaWnZhWkQ3NUllQ2nSAVhBVV95cUxQRXY3cUJNeU9lQ1E2akNsczAzTWJ1S3JjME5FNzhKQXp0WHZWS0JqRFFtM3pMNmx2UlhxbDI0T3I5dEJoMUtNS2Z1bGRaWlp2YVpENzVJZUNp?oc=5",
+   "t": "데뷔하자마자 터졌다...삼성증권 AI 걸그룹 ‘루미나’ 뮤직비디오 300만뷰 돌파",
+   "q": "루미나",
+   "heat": "매일경제 · 11/13 15:03",
+   "article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE44dndYSi1tVXJtSDRjTXJzcnZmSDVfakpSR21EMW9vcVpXSkh0dVp6SFZ4VDdfZkFxMUQ5Qkk1YXFtbXpNa1V4SEVhd3l1VGljb0UxdGtR?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "블랙핑크 지수, '라우럴' 영어 한마디 뭐기에 인터넷 뒤집혀",
+   "q": "라우럴",
+   "heat": "미디어파인 · 11/13 14:00",
+   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SbUZ2QVZNa3c0Y052R3RwM1RmcFhCXzVnSjRUNUZuT0lUS0p4T25tQ2pobmdDeFEzaHpzTV9NQ2trR1QwaU5rNUhSd3Y3LTBfbGE3MTgzaUozSFZDYUR4VHg4d2Z2NGdsaWdnWmFB?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
