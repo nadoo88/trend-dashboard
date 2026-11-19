@@ -1,19 +1,55 @@
 {
- "updatedAtKST": "2026-11-18 13:07",
+ "updatedAtKST": "2026-11-19 13:03",
  "trends": [
-  "영화",
-  "대한민국 해군",
-  "윤혜진",
-  "중도일보",
-  "apec",
-  "잠실래미안아이파크",
-  "삼성바이오로직스",
-  "추경호",
-  "고발",
-  "기예르모 에레디아"
+  "군산시의회",
+  "크리스 페덱",
+  "하남시",
+  "주식시장",
+  "양민혁",
+  "신용회복위원회",
+  "남태현",
+  "전역",
+  "금융투자협회",
+  "이혼"
  ],
  "news": [],
  "hot": [
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "아들은 수능, 삼촌은 집값, 아빠는 주식 망했다…‘3대 망함’ 밈 화제",
+   "q": "3대 망함",
+   "heat": "매일경제 · 11/18 22:11",
+   "article": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5QYWROSVhUdGVoWTNCcFlfU3lQc1B0YnlMMGdfZEdET2h3VnFaWjZSV3FBLWtpZFltOXNVdm5pVzVCYkt0Tmp4Vm54OW1IdFR0eXZJRA?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "수능날 절대 입으면 안 되는 옷?…정부 대책 ’풍자 밈’ 확산",
+   "q": "수능날 절대 입으면 안 되는",
+   "heat": "연합뉴스TV · 11/18 15:21",
+   "article": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsUDVKU0xkVmRmYmt6eHJZMnhZelZCZXBsTDZ3QzFwbzNLdVZBNmVzUFMzQWR6MnRwbzFRZWlmWm80V2FLVTYxd2pyTkpjS3JIZWYwOWJHOVRHYXgyRThyVGk1MDFTajg?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "\"우리 아이가 방송 시간만 기다려요\" EBS AI 역사 애니메이션 '덩이랑 쾡이랑 인물 한국사' 화제",
+   "q": "우리 아이가 방송 시간만 기다려요",
+   "heat": "베리타스알파 · 11/19 08:10",
+   "article": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kTHRCZ2pVMjdOaE5WT2k4WVNrUk1VU0FnZWhOY19wa2FTMVl6RnBhNzhRQXpWSmhZM0FFR2VuRktLVWx5M2VfQXY0cllIVlFZMFZZRkkyOUNvNldkRl9kSVhRUjdkMTZoS2cyeQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
   {
    "plats": [
     "x",
@@ -24,18 +60,6 @@
    "q": "꾸밈없어서 더 힙하다",
    "heat": "연합뉴스 · 11/18 08:00",
    "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEMHgxZVlsMENtaVhfSTI4ZGh3TEFuTFdQc2k5OGJKLXRkTXFtdmd4d2hLR2xGUzVpMF84eGljcEJORmQ1bGR3bzVFMFZZTFRtbnVjanh1bmtYM2FyeDhaVdIBYEFVX3lxTFBEMHgxZVlsMENtaVhfSTI4ZGh3TEFuTFdQc2k5OGJKLXRkTXFtdmd4d2hLR2xGUzVpMF84eGljcEJORmQ1bGR3bzVFMFZZTFRtbnVjanh1bmtYM2FyeDhaVQ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "[와글와글] 수능 만점 조폭?‥쏟아지는 커닝 '밈'",
-   "q": "와글와글 수능 만점 조폭?‥쏟아지는 커닝",
-   "heat": "MBC 뉴스 · 11/18 06:37",
-   "article": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xbUs1aTlTeTlvRnR2MmhCOFYxRU1JZE13TERxOHdBYnh0bUV0dWdyYUYwM2ViQ0o5X0FIYnJROFd6UmRvYWltajdIRU1zOGNqTjlfbTR4VTJ2aDFpUmdzakFJSDFQT0tQVnVUb1A3QXhIem80SFZqdVJ30gF6QVVfeXFMUEY0QzcxSW1LV2I4dGlSeVZFYVVPd2lzSlJpYU1lMzcyTFk0cjJGaXcxa3prZkk5UkRZeTN6VGU3dXdGVkdnQ21qcUtUSzFoYlRFSFd1Z3phVms0dWxuWXBXcERDLVYzUjFLcUp2YmRsZ0tINzFRZUxVTUE?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -56,10 +80,34 @@
     "threads"
    ],
    "tag": "밈",
-   "t": "“서울대 70명 배출한 전자상가?” AI커닝 논란에 풍자 밈 확산",
-   "q": "서울대 70명 배출한 전자상가?",
+   "t": "“서울대 70명 배출한 용산전자상가?” AI 커닝 논란에 풍자 밈 확산",
+   "q": "서울대 70명 배출한 용산전자상가?",
    "heat": "이데일리 · 11/17 23:37",
    "article": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU2dlTDFRcmtSOG1CX3ZhUjdCYk9peEd6WVVuRlNLQWZTaEFySGxCRFBDQzVpQ3NPU3lwSGFRdHhjOEwxR3FBaEFoMGFNVXF0UlNhd3BzbUJEdlNhRjNRX013dDVQZmxYUXdkWmdCSGtPQ3c0TWp0a2tWb3RYMDBWSA?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "최휘영·이재정, 지스타 동반 방문…게임업계와 현장 소통",
+   "q": "최휘영 이재정, 지스타 동반 방문",
+   "heat": "지디넷코리아 · 11/19 11:36",
+   "article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zVUZrU3N3TEFWdm1QX2Q4c2N5Z3lFbXdSclhHRHhVVmZSRTBUdm5lNDE4Vk5lQTd1cjlLOXBZMkNSNkctd0xNRkNLRzIwc3NKTXJ0SzRB?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "넷플릭스 CEO, 추천 화면 한계 시인… 보고 싶은 작품이 신작에 묻힐 수 있다",
+   "q": "넷플릭스 CEO, 추천 화면 한계",
+   "heat": "디지털투데이 · 11/19 11:30",
+   "article": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wNzI4SmtGVWJpSUxZVUcxOG4yOWFHUVZqQXJTTm85NmtSU1JYQTEwT0NxYlJuOEdtamI0QzBvZWFabW10YnIxaHQ5c0tOM3JjZ3lFdk9RcUZjQlNTcWpaajFmLW1NRlNCVGExSDV2azZaUlE?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -84,54 +132,6 @@
    "q": "세무냥이",
    "heat": "연합뉴스 · 11/17 06:00",
    "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DSDlWQktpVElQZU9RV0t6ZlV0N2lZMUlkM0QzTXFOZVZQOUJEMWVlbG13UTNwY0gyb3RvMzRxbXdHQjBCTzV1WmZ5WmZLcmZaZGlNX3ZzdXEtS2dnVTR3MdIBYEFVX3lxTE1DSDlWQktpVElQZU9RV0t6ZlV0N2lZMUlkM0QzTXFOZVZQOUJEMWVlbG13UTNwY0gyb3RvMzRxbXdHQjBCTzV1WmZ5WmZLcmZaZGlNX3ZzdXEtS2dnVTR3MQ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "x"
-   ],
-   "tag": "K-POP",
-   "t": "지수, 에이티즈 산X우영과 ‘BAD’ 챌린지 “가슴 춤 완벽히 분석했다” (‘냉부’)",
-   "q": "BAD",
-   "heat": "TV리포트 · 11/16 07:17",
-   "article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yYkZhZktMb1U4c3YtQlhxV3doajR0Q3FLQkl6SE1jYnIxSHJMMlJsRjFnUk4xQThfVWhEUjJSemVnTC04Q2MzZkVpQXM0QTdXYVo5c3J5WWwybWZmX1HSAWNBVV95cUxOSThteDNlQkZyMVQzTFRNX20tanM5dm9TMU1YOWI0OTVYazdGSHo3VVRIbDFNcjFiQzRwTS1IR2Mtdk05alQ1b3JVWHh2eWN3aHlYd0tmeEs4TTBQMzdLT1poN1U?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "뜨겁다! 크러쉬, '삐그덕' 라이브 콘텐츠 화제",
-   "q": "삐그덕",
-   "heat": "전자신문 · 11/16 14:12",
-   "article": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8zSTRDT3AwVFVVYlZUY2NaamxXZ1VraC1NY1h5Q2o0ZXA1bnZQUTA5Q3RRUEdTeHdzSGd0OXRwZkx1a0YwVGQwbjlqcEJZdw?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "[2027 프리뷰] 내년 트렌드 미리 알려드립니다",
-   "q": "2027 프리뷰 내년 트렌드 미리",
-   "heat": "캐릿 Careet · 11/17 10:05",
-   "article": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1nOEhCMElUdUpJZjFuVnNCa2VWNkZtVnFZV1ZNV1B1bjhBRk1DZHZuSFhKLXdIdEV2MERHT29DU28?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "AI 부정행위 쇼크…수능·리트 만점자도 '혹시?' 불신 휩싸인 한국 사회",
-   "q": "혹시?",
-   "heat": "진일보 | 전남일보 · 11/17 07:38",
-   "article": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Nc2g2VzFGZDE0d0tvT3RJUHlNMF9zTGlDR0tGNDY3UDdKaFRldG9sbnZVa3YtbGZMay1GQV9XeDktcjFiWXVySzNUT2tybkxzX1kzb2owN25BNVR3blU4VDJuOUs2R0o2U0FZdVBLTQ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
