@@ -1,19 +1,67 @@
 {
- "updatedAtKST": "2026-11-22 11:56",
+ "updatedAtKST": "2026-11-23 12:38",
  "trends": [
-  "플라이 투 더 스카이",
-  "이강인",
-  "면세점",
+  "사채",
+  "치이카와 클리닉",
+  "네이버 주가",
   "lpga",
-  "파주시",
-  "오현규",
-  "영구자석",
-  "울산광역시",
-  "도경완",
-  "담보 대출"
+  "국가장학금",
+  "ssg 랜더스",
+  "제주특별자치도",
+  "삼성증권",
+  "리비아",
+  "화이트캡스 대 솔트레이크"
  ],
  "news": [],
  "hot": [
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "AI가 만든 노래, 음원차트 정상…사람 커버 영상도 화제 [자막뉴스]",
+   "q": "AI가 만든 노래, 음원차트 정상",
+   "heat": "채널A · 11/23 10:14",
+   "article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaQjlUQkNxWjJHa0k5U3RwVHRlVFNhQjBnaWhBMVlpbGZkU1JFRHBlOS1majltU0hZS1B5aGFKcjMwaGJmdDRyZ1VEb0RyUHdBN0pubkRtMkNQWW90ZXVQXzB1c9IBY0FVX3lxTFBaQjlUQkNxWjJHa0k5U3RwVHRlVFNhQjBnaWhBMVlpbGZkU1JFRHBlOS1majltU0hZS1B5aGFKcjMwaGJmdDRyZ1VEb0RyUHdBN0pubkRtMkNQWW90ZXVQXzB1cw?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "관객 항의로 내려갔다는 영화관 광고 화제",
+   "q": "관객 항의로 내려갔다는 영화관 광고",
+   "heat": "시사매거진 · 11/23 10:08",
+   "article": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zNlhJLUFKeG0tajdtV01sYjM0RDd1cnR2SkZnN1AtaXU5WVJYZXp3V2lhQjZOZXZyeW1PWWlNclQxbU93MEJSZTZtd3hveEFXSGY4QW5OVkRPUWZDbkhpbXJKWGJLZGJVd3BxTGc2QXJEZDBReHpDeENlMA?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "‘대세’ 장한별, 화제의 AI 곡 ‘꿈꾸던 어른이 되었나요?’ 라이브 커버 공개",
+   "q": "대세",
+   "heat": "스포츠경향 · 11/23 06:35",
+   "article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pY3JWajYxUEM2YXdoOThkbGN5NEw5amRtSFVHcWpWV1RLWkhISFc0VWV5bXl1S0UyR0MxckJfMUFtUWRtY2hvUFRFN3d6TFliV2tMcHYwbml1UEZlZGfSAWNBVV95cUxPZ0VzN3RYbjBaVkx5ZXNIRTItTE0yMm85SmZKTHR4cHRhQ1g3YXQxcTdMUFUtbmVHXy1xdTktUkNIaXlxejFaSzBnT2dRRzV2RHNFWDBFTmw1LUtJLW9VZGh0ZHc?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "‘우유말먹’ 이은 ‘아박가토’…‘아박 유니버스’ 키우는 투썸플레이스 [현장+]",
+   "q": "우유말먹",
+   "heat": "쿠키뉴스 · 11/22 18:08",
+   "article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CQWtZVUtvUm1JbDYxTHRGOWNUa3Q2MHVZOFNIQ0pndEp6OHNkVUZwdjVuendYZTVic3IxM1hHeW51TURWM1pEZEtBR1VUUEM2QXRXZ2d4RTAtc21HcnVvVGtkVQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
   {
    "plats": [
     "x",
@@ -32,46 +80,22 @@
     "reels"
    ],
    "tag": "AI",
+   "t": "A2O 춤 영상에 내 얼굴이?…틱톡, 초상권 감지 기능 도입",
+   "q": "A2O 춤 영상에 내 얼굴이?",
+   "heat": "뉴시스 · 11/23 09:43",
+   "article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TUjdyb2VRaHo0VFVfME1oa0V0dnMyMFkxWGF0MXE1Y0dwT0U4emszbVFwaHhYaWl1d3dvS1JwdVNrbW1VeHJFRXJoZWZRNnZhSEtZekNTdEp5b2kxV25oY1Q2S0x6TjJNRThpc1lHSm8yTlZMQVRqedIBeEFVX3lxTE5TUjdyb2VRaHo0VFVfME1oa0V0dnMyMFkxWGF0MXE1Y0dwT0U4emszbVFwaHhYaWl1d3dvS1JwdVNrbW1VeHJFRXJoZWZRNnZhSEtZekNTdEp5b2kxV25oY1Q2S0x6TjJNRThpc1lHSm8yTlZMQVRqeQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
    "t": "\"우리 아이가 방송 시간만 기다려요\" EBS AI 역사 애니메이션 '덩이랑 쾡이랑 인물 한국사' 화제",
    "q": "우리 아이가 방송 시간만 기다려요",
    "heat": "베리타스알파 · 11/20 18:35",
    "article": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kTHRCZ2pVMjdOaE5WT2k4WVNrUk1VU0FnZWhOY19wa2FTMVl6RnBhNzhRQXpWSmhZM0FFR2VuRktLVWx5M2VfQXY0cllIVlFZMFZZRkkyOUNvNldkRl9kSVhRUjdkMTZoS2cyeQ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "이세영, 초보운전 밈 아직도 계속…“분장팀에서도 ‘네 내비 뭐냐’ 물어”",
-   "q": "분장팀에서도 ‘네 내비 뭐냐",
-   "heat": "동아일보 · 11/19 14:28",
-   "article": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aaXc5X2xJQzQ2S2RlS05pZUFjRXVISkJXaUZEX3I2UTF2THhZSExNNUVIbEF4U1htTzhEcGJuVEwyWndDdm40MEFxU1YwS3FJVC1Sdlk4OEtZSFBZS1MtRFh3SzBPZXNNRjFaS0N1RzRpeWo3R1HSAWZBVV95cUxQbWQyVGJoZm44RlN2Mm53UWZVMEcxclFqcnhZY1ZsSVNhTTNuSHE3MU9SZURTaXg5R2JXeHEySDNyN1RtYmpuRm9xZlhtem5HRjVGSDVZejdlN19GVGhfaW9TekM2YUE?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "AI 논란 속 치러진 수능, 'AI가 2분 만에 100점' 화제",
-   "q": "AI가 2분 만에 100점",
-   "heat": "시사매거진 · 11/20 10:12",
-   "article": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zNnEzSW85TXZxcWgtOG9aVGx0Q2k1SHY4Q3FzN2hHcWhvVDllTTFTcDFRNVFDY0JxbGlGR3FoNG1tei1memxObmVKaUx4cDBxU2dVcXVZNkgxbzZrOWMzdlI2TXhmQklsZ1ljSTdqcjhUSlJ0cGFhem9CMA?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "EBS AI 역사 애니 ‘덩이랑 쾡이랑 인물 한국사’ 화제",
-   "q": "덩이랑 쾡이랑 인물 한국사",
-   "heat": "소년한국일보 · 11/20 06:47",
-   "article": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9jRDNWanhMSXZxaE1PU2hBUmJvOVYwOGwtQXVnQ2NOb3NxV2VoaHRLZEhLdnhmaEZIUVJoN2l2YUVVemhLWTl5U1R6QWFkVVlTSEstSzJZTE5pdmgtb2RfTTVUQ3did0RWRzhfQ9IBcEFVX3lxTE5CYXVsMVVBd2o2cDNiT0hjeDZOZTZ3MmgzZVFKWF9LQm9sZi1fWVFRdjNQM0dsbVR4V1hZNTl6NWRsenotNzN2cGxBWERiUXZDTHV6ZzNKYU14WFFkOE5VZWQ2M2JNdWhwMjJ1MElkVjE?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -89,49 +113,13 @@
   {
    "plats": [
     "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "‘우유말먹’ 이은 ‘아박가토’…‘아박 유니버스’ 키우는 투썸플레이스 [현장+]",
-   "q": "우유말먹",
-   "heat": "쿠키뉴스 · 11/20 18:10",
-   "article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CQWtZVUtvUm1JbDYxTHRGOWNUa3Q2MHVZOFNIQ0pndEp6OHNkVUZwdjVuendYZTVic3IxM1hHeW51TURWM1pEZEtBR1VUUEM2QXRXZ2d4RTAtc21HcnVvVGtkVQ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
     "reels"
    ],
    "tag": "AI",
-   "t": "미미미누 ‘AI 부정행위’ 시뮬레이션 화제 [주간SD]",
-   "q": "AI 부정행위",
-   "heat": "스포츠동아 · 11/19 14:46",
-   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RaVBXOEJtcmNKdVRxblhNLWhKcWRGdGh4QVBwcTVTczNtUkJyMzJ3R2taeS1LUjJNQjB6akoyQ09LMVhINlJFN0FYMnBUM3NUanpYOGFKRjk2TWxoajlHTVVnNGR2OGVMMXFnTWhB?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "틱톡, 딥페이크 탐지 도구 출시.",
-   "q": "틱톡, 딥페이크 탐지 도구 출시.",
-   "heat": "Vietnam.vn · 11/21 14:30",
-   "article": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WNTZaQ01uMmVTRWo4X2JEbFREYU9FSVJsaVp4dXdUZnpzRTZzdWdGWXdwT0c3U0JzeU92aGM1U0NuOHhtTDJPMncwdmVnQUt2dTdDb01tRXU1V2RiRHpTNTBQbFIyeXJkcFZrb0c5anlmMXdV?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "threads"
-   ],
-   "tag": "밈",
-   "t": "감성보다 유머…사람 냄새 찾는 화장품 브랜드들",
-   "q": "감성보다 유머 사람 냄새 찾는",
-   "heat": "한국경제 · 11/19 17:44",
-   "article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OMjhnaTg5Y2tpYnpfRVJIZXFnUTVGZ3VvdlNVQXUxVGdITk1QcXkzLV9YeW9vZEs2UkNLUFl1U0FXa1BHOHAwbnBQdXBMbVN4RlQ3NWN1V2gydw?oc=5",
+   "t": "네이버 디지털옥외광고, 광고주 79% 직접 집행 / ‘온라인 사찰’에 60만명 운집",
+   "q": "온라인 사찰",
+   "heat": "오픈애즈 · 11/21 12:57",
+   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oN0h1X0xpOHV5bmhNaGFPd1ZCOTR0TXJBV0p5dGtrNjZYU28zMmNoRThfejVKaVM0T1VFVUJLOVE3bUJzQ3FmcjF3OUdtcEJ0MVRzbHNvYlk2R0dWYnVzeUxxeENRU3JKTG83amlR?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
