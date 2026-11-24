@@ -1,53 +1,29 @@
 {
- "updatedAtKST": "2026-11-23 12:38",
+ "updatedAtKST": "2026-11-24 15:53",
  "trends": [
-  "사채",
-  "치이카와 클리닉",
-  "네이버 주가",
-  "lpga",
-  "국가장학금",
-  "ssg 랜더스",
-  "제주특별자치도",
-  "삼성증권",
-  "리비아",
-  "화이트캡스 대 솔트레이크"
+  "박지윤 카톡",
+  "군인",
+  "농심",
+  "장기 기증",
+  "퇴직",
+  "12 월 3 일",
+  "지방세",
+  "김서형",
+  "트롯 데스매치 금타는 금요일",
+  "임성한"
  ],
  "news": [],
  "hot": [
   {
    "plats": [
     "x",
-    "reels"
+    "threads"
    ],
-   "tag": "AI",
-   "t": "AI가 만든 노래, 음원차트 정상…사람 커버 영상도 화제 [자막뉴스]",
-   "q": "AI가 만든 노래, 음원차트 정상",
-   "heat": "채널A · 11/23 10:14",
-   "article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBaQjlUQkNxWjJHa0k5U3RwVHRlVFNhQjBnaWhBMVlpbGZkU1JFRHBlOS1majltU0hZS1B5aGFKcjMwaGJmdDRyZ1VEb0RyUHdBN0pubkRtMkNQWW90ZXVQXzB1c9IBY0FVX3lxTFBaQjlUQkNxWjJHa0k5U3RwVHRlVFNhQjBnaWhBMVlpbGZkU1JFRHBlOS1majltU0hZS1B5aGFKcjMwaGJmdDRyZ1VEb0RyUHdBN0pubkRtMkNQWW90ZXVQXzB1cw?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "관객 항의로 내려갔다는 영화관 광고 화제",
-   "q": "관객 항의로 내려갔다는 영화관 광고",
-   "heat": "시사매거진 · 11/23 10:08",
-   "article": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0zNlhJLUFKeG0tajdtV01sYjM0RDd1cnR2SkZnN1AtaXU5WVJYZXp3V2lhQjZOZXZyeW1PWWlNclQxbU93MEJSZTZtd3hveEFXSGY4QW5OVkRPUWZDbkhpbXJKWGJLZGJVd3BxTGc2QXJEZDBReHpDeENlMA?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "‘대세’ 장한별, 화제의 AI 곡 ‘꿈꾸던 어른이 되었나요?’ 라이브 커버 공개",
-   "q": "대세",
-   "heat": "스포츠경향 · 11/23 06:35",
-   "article": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9pY3JWajYxUEM2YXdoOThkbGN5NEw5amRtSFVHcWpWV1RLWkhISFc0VWV5bXl1S0UyR0MxckJfMUFtUWRtY2hvUFRFN3d6TFliV2tMcHYwbml1UEZlZGfSAWNBVV95cUxPZ0VzN3RYbjBaVkx5ZXNIRTItTE0yMm85SmZKTHR4cHRhQ1g3YXQxcTdMUFUtbmVHXy1xdTktUkNIaXlxejFaSzBnT2dRRzV2RHNFWDBFTmw1LUtJLW9VZGh0ZHc?oc=5",
+   "tag": "밈",
+   "t": "'김치 싸대기' 맞던 젠슨 황…11일 만에 영웅 부활 '밈 폭발' [영상]",
+   "q": "김치 싸대기",
+   "heat": "한국경제 · 11/24 09:43",
+   "article": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SdUhJNHBZOGdpbUFFMlRULU55MDhKZ1J5NW9MUFY3ak9pd1AzNGRfQmVKX1R2UXphMnpYcEpoZDdwSjFBc3hlZ2xidDhwYTB4SnhDdUp3azhnZw?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -56,10 +32,10 @@
     "threads"
    ],
    "tag": "밈",
-   "t": "‘우유말먹’ 이은 ‘아박가토’…‘아박 유니버스’ 키우는 투썸플레이스 [현장+]",
-   "q": "우유말먹",
-   "heat": "쿠키뉴스 · 11/22 18:08",
-   "article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CQWtZVUtvUm1JbDYxTHRGOWNUa3Q2MHVZOFNIQ0pndEp6OHNkVUZwdjVuendYZTVic3IxM1hHeW51TURWM1pEZEtBR1VUUEM2QXRXZ2d4RTAtc21HcnVvVGtkVQ?oc=5",
+   "t": "90% 폭락 ‘트럼프 밈코인’ 굴욕 만찬…정원 185석도 못 채웠다",
+   "q": "트럼프 밈코인",
+   "heat": "한겨레 · 11/24 09:29",
+   "article": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTkNpTHF1TUg4aWdrVlFLcHdXaUhDeVgyQ2o1VFRFVjBGRmZSSEFiNnB3Q21LaUJNYVNtWHY0VHpFcU9VSGdXZlEycENMVi1zUlFaVTFnM1BlR1VrSE8tZFVZaVdjTHhRZHNuVHVZWlpuUVRRRjZnWkkzODFZaVpJd3Vn?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -68,10 +44,10 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "\"AI로 치대 입학해도 치과의사 가능\"…서울대 교수 발언 화제",
-   "q": "AI로 치대 입학해도 치과의사 가능",
-   "heat": "머니투데이 · 11/21 15:45",
-   "article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yc1AwQmg3OXpPV2hYdXlzTTdtOFJQMVZUTlRIbE1HWFUyZk1VcDJrSHZhaGpyRGxmUEttQmRHYUw4VkE1TkRDLVlReGRMY3lLR3V3SmFiaE5LcnVuelhmWG85dEh6ZGNQRW50SjVPY2trWnFLSG1SdtIBfkFVX3lxTE84V1BFeHJtclVhenJUYThmUnNkeERIMmRsV1B4eXBDVnl2VzJkWDN0RXhTR1duVDNvbGxxNjZIanJYRFB4akpYY00zcHQ3czRtVTcyQkZXYWdBQ3RoQnJQV1pWSEdUdWhCNUp5N3FSS0cxcjVUVHZNS3NwMktrZw?oc=5",
+   "t": "\"AI 아니네, 선생님 너무 예뻐 깜짝\" 수능 영어 강사 미모 '화제'",
+   "q": "AI 아니네, 선생님 너무 예뻐 깜짝",
+   "heat": "머니투데이 · 11/24 13:13",
+   "article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XUVFiNEdkbExzZDR2Z1pXNHk3Rmo0Y3RsQ2hPVWhVdEVGVTMxX0VZaHdWckttcEo1MjJJTkpBcUthTVpOQ3Q1OXhycm82UGlDd01EeEtaaFZZNzQyeXl5alNKcERNNzRPZmtjVlNaUDRvNE9feWNBLdIBfkFVX3lxTE1uLU1YeUlxRmItT1E4YkctVkdzMFYwODhiTFdTMUdFS2tMTHVta01UcmRfQktwUEVfNjYtdnNieWhldnNxeEhXNW9TVWMxTUdmOXQtUGhsZG5WNWxnU0N5OVg1QXUwVXJPbTJRRUZ1a0xrTTZKdUZUMmJfMHg0dw?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -80,10 +56,34 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "A2O 춤 영상에 내 얼굴이?…틱톡, 초상권 감지 기능 도입",
-   "q": "A2O 춤 영상에 내 얼굴이?",
-   "heat": "뉴시스 · 11/23 09:43",
-   "article": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TUjdyb2VRaHo0VFVfME1oa0V0dnMyMFkxWGF0MXE1Y0dwT0U4emszbVFwaHhYaWl1d3dvS1JwdVNrbW1VeHJFRXJoZWZRNnZhSEtZekNTdEp5b2kxV25oY1Q2S0x6TjJNRThpc1lHSm8yTlZMQVRqedIBeEFVX3lxTE5TUjdyb2VRaHo0VFVfME1oa0V0dnMyMFkxWGF0MXE1Y0dwT0U4emszbVFwaHhYaWl1d3dvS1JwdVNrbW1VeHJFRXJoZWZRNnZhSEtZekNTdEp5b2kxV25oY1Q2S0x6TjJNRThpc1lHSm8yTlZMQVRqeQ?oc=5",
+   "t": "[화제 신간] “코틀러의 4P는 끝났다, 이제는 3S다”",
+   "q": "코틀러의 4P는 끝났다, 이제는 3S다",
+   "heat": "한국섬유신문 · 11/24 01:23",
+   "article": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9HYWJma0ZTRVNDSlh2cmhQV0o4RWlBRmZuZ1lIMmNqd1VmTE5laDE4ai1CTEFnTWxGVkRfQkRYRkZPWVQtNEdzcVRqdUIzam9GcFhGbWFNUWF3c3FxMjNBZTBWLW9fblZX?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "제주 감귤밭에 저격수가 나타났다…AI·K팝으로 탄생한 'JEJU JEWEL' 화제",
+   "q": "JEJU JEWEL",
+   "heat": "뉴스N제주 · 11/23 23:31",
+   "article": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBKMXhhamhfcXVDTWNUX2ZGNXV5bFVoSUJGWkZ1bTg3X1MtMHRhMkZpSHdwTWhralQtbGcyX1dlLTJZRGVwN3FsVVBpS2JObTFBeldWX1RPWDR5Mkl5TUYzMVhfZnZJbGpzN3I2Yg?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "트롯 열풍의 두 얼굴: 신인은 넘치고 기성 가수는 갈 곳이 없다",
+   "q": "트롯 열풍의 두 얼굴: 신인은",
+   "heat": "시사매거진 · 11/23 22:27",
+   "article": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IcER3MTNJU2RkUHF6emt4ZjFoMTg5TTU3TzJLeUlFcWdFTEtqQTdSeUtCcnM2LWpKb01tcWtWWGxscmMzYnRlR3pKUlZsWkxDY2hsNFhvczNucldGSVhieDh3?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -94,20 +94,32 @@
    "tag": "AI",
    "t": "\"우리 아이가 방송 시간만 기다려요\" EBS AI 역사 애니메이션 '덩이랑 쾡이랑 인물 한국사' 화제",
    "q": "우리 아이가 방송 시간만 기다려요",
-   "heat": "베리타스알파 · 11/20 18:35",
+   "heat": "베리타스알파 · 11/23 17:40",
    "article": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kTHRCZ2pVMjdOaE5WT2k4WVNrUk1VU0FnZWhOY19wa2FTMVl6RnBhNzhRQXpWSmhZM0FFR2VuRktLVWx5M2VfQXY0cllIVlFZMFZZRkkyOUNvNldkRl9kSVhRUjdkMTZoS2cyeQ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
    "plats": [
-    "x",
-    "reels"
+    "tiktok",
+    "x"
    ],
-   "tag": "AI",
-   "t": "허각의 24kg 감량부터 한로로의 1만 8천 석까지…‘더 시즌즈’가 보여준 음악인의 서로 다른 성장",
-   "q": "더 시즌즈",
-   "heat": "제이앤엠뉴스 · 11/21 22:21",
-   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YZTRZLTdRVkZPeGNra0Jyb202cXY5STFmMmlaVlV1akpzN3ZKcDB4YUt1aTJjSkNUeE1tenF4RW12UW05TklDSlhyWWZXUTF2LWNTdnF6Y0RCTXhCbzEyUQ?oc=5",
+   "tag": "K-POP",
+   "t": "[인터뷰①]'숨바꼭질2' PD \"노래·춤 없는 아이돌 컴백 프로그램 만들고 싶었다\"",
+   "q": "숨바꼭질2",
+   "heat": "스포츠조선 · 11/23 15:11",
+   "article": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV285M0VyTDdxTDZ4LWJQRUZjYS1mMFBqdk1zOGtnbDk0anA2T1B1SG1sWGpzRTliQ1V5WFVpWEZPemVMOXlKNi1iOVZ2YjdvY1FhTEhJVFJsUXgxdzU0WG5DTEtGWmd1S2Z3MkV5RXVkcUJwVG40UnZjTGo3U2xkUl96U3I?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "‘우유말먹’ 이은 ‘아박가토’…‘아박 유니버스’ 키우는 투썸플레이스 [현장+]",
+   "q": "우유말먹",
+   "heat": "쿠키뉴스 · 11/23 07:37",
+   "article": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CQWtZVUtvUm1JbDYxTHRGOWNUa3Q2MHVZOFNIQ0pndEp6OHNkVUZwdjVuendYZTVic3IxM1hHeW51TURWM1pEZEtBR1VUUEM2QXRXZ2d4RTAtc21HcnVvVGtkVQ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -116,10 +128,10 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "네이버 디지털옥외광고, 광고주 79% 직접 집행 / ‘온라인 사찰’에 60만명 운집",
-   "q": "온라인 사찰",
-   "heat": "오픈애즈 · 11/21 12:57",
-   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5oN0h1X0xpOHV5bmhNaGFPd1ZCOTR0TXJBV0p5dGtrNjZYU28zMmNoRThfejVKaVM0T1VFVUJLOVE3bUJzQ3FmcjF3OUdtcEJ0MVRzbHNvYlk2R0dWYnVzeUxxeENRU3JKTG83amlR?oc=5",
+   "t": "울산 남구, '대한민국 지자체 홍보대상' AI 관광 부문 대상",
+   "q": "대한민국 지자체 홍보대상",
+   "heat": "연합뉴스 · 11/23 16:36",
+   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5neS1TcHpES1c2Zy1EZC03UDJPUG4tVmt5RC1Zc0lmVERVR0VMZTkwd0NOSHhRMmo4bDFBNnNYcnNuYlQ3ZmlqakVERXRWRmE4elA1UERxSEhCTmRiT0RYWNIBYEFVX3lxTE5neS1TcHpES1c2Zy1EZC03UDJPUG4tVmt5RC1Zc0lmVERVR0VMZTkwd0NOSHhRMmo4bDFBNnNYcnNuYlQ3ZmlqakVERXRWRmE4elA1UERxSEhCTmRiT0RYWA?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
