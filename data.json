@@ -1,16 +1,16 @@
 {
- "updatedAtKST": "2026-11-26 13:52",
+ "updatedAtKST": "2026-11-27 13:54",
  "trends": [
-  "연금",
-  "조국",
-  "김용빈",
-  "k-라면",
-  "김희영",
-  "은평구",
-  "이정재",
-  "광고",
-  "미스 유니버스",
-  "불꽃야구"
+  "상선",
+  "강시 후",
+  "수학자",
+  "맨체스터 시티 fc",
+  "낸시랭",
+  "최성민",
+  "엘니뇨",
+  "jyp 엔터테인먼트",
+  "pet the horse",
+  "남경필"
  ],
  "news": [
   {
@@ -22,13 +22,25 @@
   {
    "plats": [
     "x",
-    "reels"
+    "threads"
    ],
-   "tag": "AI",
-   "t": "원주시, 신규 공무원의 일상 담은 영상 ‘화제’조회수 30만 회 기록",
+   "tag": "밈",
+   "t": "원주시 신규 공무원 일상 담은 영상 화제…SNS 조회수 30만회 돌파",
+   "q": "원주시 신규 공무원 일상 담은",
+   "heat": "신아일보 · 11/26 14:49",
+   "article": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UdkJHN215TUhpckZiZW9mU3FUVUhNSDJLbVlSZmdLU2lmVTh1TTJkZmx3U25FS29lbnNUckdiMFFmR1JJSk8ybXVweHEzQWxUSVNyV0hMNDNlVjZsam1SWEVEd2swbEtEd1Rtc2JwZHE?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "원주시, 신규 공무원의 일상 담은 영상 '화제' 조회수 30만 회 기록",
    "q": "화제",
-   "heat": "뉴스미터 · 11/26 12:28",
-   "article": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tTV9UUDgzdWYyZVlBNVZkd0x2Q3h1YnhqY1N4b0lIWk56VmJoaWN3NFExZllqamF1SnhvNWV4MkZuZTEwSnNXM1JBc1VzUzlV?oc=5",
+   "heat": "한국시사경제 · 11/26 08:32",
+   "article": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9oUWdYakpscHI3REZCeXZyb2JDRFFZMUtTb2pvQ1djcWFXY041VUhQTG1LNnp5ODQ2Ymk0NTMxRjV2MGV1TkZXRmJLNFhwYmpqcnJhZGhWZE9VU3VrWTlnamg2Ukl0YUtHMnc?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -37,22 +49,10 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "`AI보다 더 인형 같은 미모`…화제의 수능영어 강사, \"더 발전하겠습니다\"",
-   "q": "더 발전하겠습니다",
-   "heat": "마이데일리 · 11/26 07:00",
-   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wVkd6VkJ1bU1rR1JJRkdTRU1oZ3hZZlhTd0ZxdUpHQ0s3R3AzcjVrLWtkX2lqVmFRRlBIRWhnZ3ItUE5JV2FpdWZaaVlKdWgtdXZQUVZLNXpxTkNTYVh1RQ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "＂AI 아니었어?＂ 댓글 폭주…미녀 강사 영상 ＇화제＇",
-   "q": "＂AI 아니었어?＂ 댓글 폭주 미녀",
-   "heat": "한국경제TV · 11/24 19:05",
-   "article": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5zaFg4RG1KVE90dV9JUFhTSzIyeEI0d3VjV3ozaEtpZlQ2Yy1yZnJITkxFSW1PZmNHbTZQNjI1clJ0N29SWUlkd1dSa21pZlRSRzVBbFBHTFlfUmdHLTVwTERNTUhqRmE5eXQ5ODN4YmJiOWtDXzJ3?oc=5",
+   "t": "마테오AI스튜디오, AI 콘텐츠 페스티벌서 AI 시대극 ‘위인극장’ 소개",
+   "q": "위인극장",
+   "heat": "위런치 · 11/27 09:43",
+   "article": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13bnB2cE1oMXctZEZqUW5WSFNNTHRraWJrSmY4ZnJOaWdkZlRJQkdXbVZQalRyUGZDeXZpWkZoOWd4WnJ6dUVvUXJpb1JlTV9VeG5BMDUxU092VTNYX1phMGZ5YVc?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -73,10 +73,46 @@
     "reels"
    ],
    "tag": "AI",
+   "t": "AI로 관절 각도·0.08초 오차까지 판독… 진화한 K팝 ‘칼군무’ 검증",
+   "q": "칼군무",
+   "heat": "스포츠동아 · 11/26 14:12",
+   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94cDA5QnRIcjdGd0pXTHRlb3MzOUszc3ZJMUM1bmpaeGhWNmczTUswcmMzRm5KeVRUMGF2M25JbXJPV3RTN3J0OFM3em5yWUctaU40dUxSVEdrR1FCNGdyMnllYnpaNnJ0dDc4REFB?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "tiktok",
+    "x"
+   ],
+   "tag": "K-POP",
+   "t": "[인터뷰①]'숨바꼭질2' PD \"노래·춤 없는 아이돌 컴백 프로그램 만들고 싶었다\"",
+   "q": "숨바꼭질2",
+   "heat": "조선일보 · 11/24 17:58",
+   "article": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHBYNTdiYXc1OGVoRnRUWDRQaGdMeUl3UmNKTmhCbk1ZZ1N1ZTB4S2Z0NnBxMGJaM01KQ1BmSUdCLWZLU1R2Y01MR0pacTZqTHlLUVd2T2lBSFJZRUxKTG8wdDllX3hXUVlmelZxWXJMclY5WklTQ1l6YUpBUkh4RlRtU3hubmdDZ0pCLXFEUQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
    "t": "CJ ENM, 국내 최초 '가상 간접광고' 도입…IP 활용한 AI 광고 선봬",
    "q": "가상 간접광고",
    "heat": "뉴스핌 · 11/25 13:43",
    "article": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92YmYzQktaX2xRZ3ZyeW93YXFLYXJUYzRXZUgwWC10M184X01wTFdZR002TmxOVm9zSTBBNWtrcHI0cm5wTFpPNWd1Sy1xSU91c3dRVGxXNzNQejBy?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "사람이 부르지 않은 노래가 마음을 움직였다 [콘텐츠의 순간들]",
+   "q": "사람이 부르지 않은 노래가 마음을",
+   "heat": "시사IN · 11/25 11:48",
+   "article": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKMlU4U3pjNWhDamtENFVQYi1RMkk5OWxVejNhbF9HWjZEX1Fpbmw0Zm1wWEFHWWh0VHE2MERkZjRxSVIyYjFyRjI5bU9wTVR0ekhxaERjWjRlY0hNZlpOVnprZDhpTk1KUXc?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -93,18 +129,6 @@
   },
   {
    "plats": [
-    "tiktok",
-    "x"
-   ],
-   "tag": "K-POP",
-   "t": "[인터뷰①]'숨바꼭질2' PD \"노래·춤 없는 아이돌 컴백 프로그램 만들고 싶었다\"",
-   "q": "숨바꼭질2",
-   "heat": "스포츠조선 · 11/23 15:11",
-   "article": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV285M0VyTDdxTDZ4LWJQRUZjYS1mMFBqdk1zOGtnbDk0anA2T1B1SG1sWGpzRTliQ1V5WFVpWEZPemVMOXlKNi1iOVZ2YjdvY1FhTEhJVFJsUXgxdzU0WG5DTEtGWmd1S2Z3MkV5RXVkcUJwVG40UnZjTGo3U2xkUl96U3I?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
     "x",
     "reels"
    ],
@@ -113,18 +137,6 @@
    "q": "설죽화",
    "heat": "뉴시스 · 11/24 16:49",
    "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XWTZGdHdtbUdBUUhxc1pnb192UzY5ZWU1TVRWZjNlVGVaME5GSjRONklMWFU1VXYxYVF5cHQxX1kwREhNR0ROSEZONDZ6aTVaREctR0NuQ05qYmtyYzU4RNIBeEFVX3lxTE5Ld2pMeWszODhvS2FRTTZraTVtWXVhODM5dGtZc1pRcU11UHhWS19nNkFsYnFSNVY1VGxjeEc1UF9wM3lFV2FoWDgycXhUUXZsa1EtaFlaaTFGa1N1RFNtRjh3emJMYWw1TU5UUGpXTjZKeEI3N21vSg?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "울산 남구, '대한민국 지자체 홍보대상' AI 관광 부문 대상",
-   "q": "대한민국 지자체 홍보대상",
-   "heat": "연합뉴스 · 11/23 16:36",
-   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5neS1TcHpES1c2Zy1EZC03UDJPUG4tVmt5RC1Zc0lmVERVR0VMZTkwd0NOSHhRMmo4bDFBNnNYcnNuYlQ3ZmlqakVERXRWRmE4elA1UERxSEhCTmRiT0RYWNIBYEFVX3lxTE5neS1TcHpES1c2Zy1EZC03UDJPUG4tVmt5RC1Zc0lmVERVR0VMZTkwd0NOSHhRMmo4bDFBNnNYcnNuYlQ3ZmlqakVERXRWRmE4elA1UERxSEhCTmRiT0RYWA?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
