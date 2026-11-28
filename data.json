@@ -1,23 +1,18 @@
 {
- "updatedAtKST": "2026-11-27 13:54",
+ "updatedAtKST": "2026-11-28 13:39",
  "trends": [
-  "상선",
-  "강시 후",
-  "수학자",
-  "맨체스터 시티 fc",
-  "낸시랭",
-  "최성민",
-  "엘니뇨",
-  "jyp 엔터테인먼트",
-  "pet the horse",
-  "남경필"
+  "이현중",
+  "미국 시민권",
+  "남대문시장",
+  "한능검 81회 정답",
+  "이찬원",
+  "닥터 둠",
+  "샌안토니오 대 la 레이커스",
+  "tear gas",
+  "실업급여",
+  "브론슨 리드"
  ],
- "news": [
-  {
-   "title": "원주, 유행 밈 활용, 공직기강 확립-청렴문화 조성[함영훈의 멋·맛·쉼]",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xZVdnSExHZmNpeGRBVWt1U1NPaFZrbmRNdFlyaXpyZlU4V1h6c01xOURXTmVQUVRuNTc0d1g5NkExcG9id1VGRTBaNzlEUG5XMEV0d3RKUQ?oc=5"
-  }
- ],
+ "news": [],
  "hot": [
   {
    "plats": [
@@ -25,10 +20,46 @@
     "threads"
    ],
    "tag": "밈",
-   "t": "원주시 신규 공무원 일상 담은 영상 화제…SNS 조회수 30만회 돌파",
-   "q": "원주시 신규 공무원 일상 담은",
-   "heat": "신아일보 · 11/26 14:49",
-   "article": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UdkJHN215TUhpckZiZW9mU3FUVUhNSDJLbVlSZmdLU2lmVTh1TTJkZmx3U25FS29lbnNUckdiMFFmR1JJSk8ybXVweHEzQWxUSVNyV0hMNDNlVjZsam1SWEVEd2swbEtEd1Rtc2JwZHE?oc=5",
+   "t": "지수 \"'라우럴' 애착-스타들도 따라 한 밈 탄생 순간",
+   "q": "라우럴",
+   "heat": "미디어파인 · 11/28 06:58",
+   "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UZWZnZFhFb3ZfV2p4dzRnX2d2UDhheG5Hc0NULVVLelZDcTBoQ21IblZBaDJxczN5anJHRktCcnNmR1Vab21uOWM5ZGVVQTNGQ0FVMUdTNHY0RDRxd1NKSmU4Q1Z5QmdEbmFjeHFB?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "threads"
+   ],
+   "tag": "밈",
+   "t": "‘재혼 황후’ 신민아, 온라인서 화제 된 밈 다 봤다 “나도 놀라” [인터뷰④]",
+   "q": "재혼 황후",
+   "heat": "일간스포츠 · 11/27 14:31",
+   "article": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBrMWx1N0tCYkJhSUJtTm84NnpWYUpMeHNyQ3p2REQ4Y3ZEYVdfTDdnSTd4elltMVgxU0JPQXBfX1hFbmFBdDFXdzFVUWR3aHNuQU13bHQtMVJ6Qms?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "백화점 주차요원 복장에 민원? 낭만 근무복 글 화제",
+   "q": "백화점 주차요원 복장에 민원? 낭만",
+   "heat": "시사매거진 · 11/28 01:14",
+   "article": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBHY1FCQThIZDdQN2tNX05wRl9UcjdPdEU4c3FONm1LdGRZOHlwZVhuejZkMmtZQ2xDMFUxdlBEWnFfTG96eHNZaHNYUWZZV1FrWlpSd3RCVV9KclVFUlFTS3QtV0VuQlZDVWJyWWtKc2h6S2xoTkdVY0h6OA?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "‘성매매 벌금형’ 지나, 심각한 얼굴 노화 화제 되더니…반전 해명",
+   "q": "성매매 벌금형",
+   "heat": "헤럴드경제 · 11/27 16:52",
+   "article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5BaHNWU1ozdjJPNVhmb1RYVHBGNTh1MEZwUVk2dkU3b1d6RU9lRGpCamtPMTJ3UTFxQnV3aDJJT3JtUnBDdm55djdxakFxWDAxYVBRaTNR?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -45,14 +76,14 @@
   },
   {
    "plats": [
-    "x",
+    "tiktok",
     "reels"
    ],
-   "tag": "AI",
-   "t": "마테오AI스튜디오, AI 콘텐츠 페스티벌서 AI 시대극 ‘위인극장’ 소개",
-   "q": "위인극장",
-   "heat": "위런치 · 11/27 09:43",
-   "article": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE13bnB2cE1oMXctZEZqUW5WSFNNTHRraWJrSmY4ZnJOaWdkZlRJQkdXbVZQalRyUGZDeXZpWkZoOWd4WnJ6dUVvUXJpb1JlTV9VeG5BMDUxU092VTNYX1phMGZ5YVc?oc=5",
+   "tag": "숏폼",
+   "t": "빌보드 94%의 법칙, K팝도 뚫었다…베스티·에이티즈로 본 ‘15초 히트 공식’",
+   "q": "15초 히트 공식",
+   "heat": "뉴스엔 · 11/28 07:12",
+   "article": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nSUhjczh4U1hsRU9Bd0ZWaGFmdlBrbVNUTmFONE5Icl9CUXQzUE40dXBmZG9YMnRnYklneTJEWDg1MFRLZkh6Y01WSjJGeFp3X3R4OWZtZXFRemFuX0tWVXkwaDhNM1Y5?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -61,10 +92,34 @@
     "reels"
    ],
    "tag": "AI",
-   "t": "AI 영상 ‘마진 0원’ 승부수…아이돌까지 직접 만든 스타트업 ‘화제’",
-   "q": "마진 0원",
-   "heat": "매일경제 · 11/24 16:08",
-   "article": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqVm1lRlB1bmxaYWJZbjhQZ2x0eFJ2SjkxN0kxOEI5QWlIV2ZKcHlUU2R6c3RSR2JQVlNlV2VzNTk1NUhpLWhaNnJMNkF1Zw?oc=5",
+   "t": "'AI보다 더 인형 같은 미모'…화제의 수능영어 강사, \"더 발전하겠습니다\"",
+   "q": "AI보다 더 인형 같은 미모",
+   "heat": "네이트 · 11/26 07:01",
+   "article": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5zM3hvSGliQnhkMlVZdG10V011bVc0T1ZKVFZpbHBfVTNSWjBVcHBScktIQlpmOVQ4NnNuaktjS0FjNV90eGRNSmh6N2RwRUV5d1dV?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "\"골프복 터질 듯 아찔한 몸매\" 페이지 스피라낵, 초미니 상의 입고 골프필드 등장…팬들 \"정말 감사합니다!\"",
+   "q": "골프복 터질 듯 아찔한 몸매",
+   "heat": "머니투데이 · 11/28 01:01",
+   "article": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5jNjZBNnhXa0s4NzRoaEdSSGtJU1RBZ013bHNEUmh0b2FDZUQ3OGJyblR2Q1B2VEN2Y1RjLVFtTHY2R1ZLcmxyR0dBTkViYk5QWDZiWmJVTkhGRDE0OHh5ZXVWODlacWVmTzUxWnZCTdIBb0FVX3lxTE5jNjZBNnhXa0s4NzRoaEdSSGtJU1RBZ013bHNEUmh0b2FDZUQ3OGJyblR2Q1B2VEN2Y1RjLVFtTHY2R1ZLcmxyR0dBTkViYk5QWDZiWmJVTkhGRDE0OHh5ZXVWODlacWVmTzUxWnZCTQ?oc=5",
+   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
+  },
+  {
+   "plats": [
+    "x",
+    "reels"
+   ],
+   "tag": "AI",
+   "t": "[화제의 신간] 더 디사이더… “AI가 답을 내놓는 시대, 리더의 실력은 결국 결정으로 증명된다”",
+   "q": "화제의 신간 더 디사이더 “AI가",
+   "heat": "매일경제 · 11/25 16:43",
+   "article": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zVUtYTHNtQl9La1hGYmhEM0sxbDBKN2xXMkVCeXAwWXVSbUp0cDJGQ21tNmFSTGRNOTBEazR0djd2dWxRSDdMT1BWUkRTSWFvcnJYRQ?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   },
   {
@@ -77,66 +132,6 @@
    "q": "칼군무",
    "heat": "스포츠동아 · 11/26 14:12",
    "article": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94cDA5QnRIcjdGd0pXTHRlb3MzOUszc3ZJMUM1bmpaeGhWNmczTUswcmMzRm5KeVRUMGF2M25JbXJPV3RTN3J0OFM3em5yWUctaU40dUxSVEdrR1FCNGdyMnllYnpaNnJ0dDc4REFB?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "tiktok",
-    "x"
-   ],
-   "tag": "K-POP",
-   "t": "[인터뷰①]'숨바꼭질2' PD \"노래·춤 없는 아이돌 컴백 프로그램 만들고 싶었다\"",
-   "q": "숨바꼭질2",
-   "heat": "조선일보 · 11/24 17:58",
-   "article": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcHBYNTdiYXc1OGVoRnRUWDRQaGdMeUl3UmNKTmhCbk1ZZ1N1ZTB4S2Z0NnBxMGJaM01KQ1BmSUdCLWZLU1R2Y01MR0pacTZqTHlLUVd2T2lBSFJZRUxKTG8wdDllX3hXUVlmelZxWXJMclY5WklTQ1l6YUpBUkh4RlRtU3hubmdDZ0pCLXFEUQ?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "CJ ENM, 국내 최초 '가상 간접광고' 도입…IP 활용한 AI 광고 선봬",
-   "q": "가상 간접광고",
-   "heat": "뉴스핌 · 11/25 13:43",
-   "article": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE92YmYzQktaX2xRZ3ZyeW93YXFLYXJUYzRXZUgwWC10M184X01wTFdZR002TmxOVm9zSTBBNWtrcHI0cm5wTFpPNWd1Sy1xSU91c3dRVGxXNzNQejBy?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "사람이 부르지 않은 노래가 마음을 움직였다 [콘텐츠의 순간들]",
-   "q": "사람이 부르지 않은 노래가 마음을",
-   "heat": "시사IN · 11/25 11:48",
-   "article": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKMlU4U3pjNWhDamtENFVQYi1RMkk5OWxVejNhbF9HWjZEX1Fpbmw0Zm1wWEFHWWh0VHE2MERkZjRxSVIyYjFyRjI5bU9wTVR0ekhxaERjWjRlY0hNZlpOVnprZDhpTk1KUXc?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "CJ ENM, AI 광고 솔루션 고도화...콘텐츠 IP 활용 확대",
-   "q": "CJ ENM, AI 광고 솔루션",
-   "heat": "지디넷코리아 · 11/25 10:55",
-   "article": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAtVnprei1TSDVNVDJCajJRWm9LMmtXcDd5SlRqUXhFT01QYi1PWjNWZXItd3dPYWszcGJCU2tUUDczNnJKUEk1VFNCWEVOMDMwaU4zUVBR?oc=5",
-   "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
-  },
-  {
-   "plats": [
-    "x",
-    "reels"
-   ],
-   "tag": "AI",
-   "t": "'설죽화' 품은 AI 걸그룹 '서리아'의 실험 [AI & 음악]",
-   "q": "설죽화",
-   "heat": "뉴시스 · 11/24 16:49",
-   "article": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XWTZGdHdtbUdBUUhxc1pnb192UzY5ZWU1TVRWZjNlVGVaME5GSjRONklMWFU1VXYxYVF5cHQxX1kwREhNR0ROSEZONDZ6aTVaREctR0NuQ05qYmtyYzU4RNIBeEFVX3lxTE5Ld2pMeWszODhvS2FRTTZraTVtWXVhODM5dGtZc1pRcU11UHhWS19nNkFsYnFSNVY1VGxjeEc1UF9wM3lFV2FoWDgycXhUUXZsa1EtaFlaaTFGa1N1RFNtRjh3emJMYWw1TU5UUGpXTjZKeEI3N21vSg?oc=5",
    "d": "최근 3일 내 뉴스에서 화제로 잡힌 소재. 지금 탑승하면 최신성 가중치를 받는 구간."
   }
  ]
